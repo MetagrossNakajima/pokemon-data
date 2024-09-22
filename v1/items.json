@@ -1,0 +1,1602 @@
+{
+    "None": {
+        "category": "item",
+        "ja": "なし",
+        "en": "None"
+    },
+    "SkyPlate": {
+        "category": "item",
+        "ja": "あおぞらプレート",
+        "en": "Sky Plate"
+    },
+    "DestinyKnot": {
+        "category": "item",
+        "ja": "あかいいと",
+        "en": "Destiny Knot"
+    },
+    "ScrollOfDarkness": {
+        "category": "item",
+        "ja": "あくのかけじく",
+        "en": "Scroll of Darkness"
+    },
+    "HeatRock": {
+        "category": "item",
+        "ja": "あついいわ",
+        "en": "Heat Rock"
+    },
+    "KeeBerry": {
+        "category": "item",
+        "ja": "アッキのみ",
+        "en": "Kee Berry"
+    },
+    "Heavy-DutyBoots": {
+        "category": "item",
+        "ja": "あつぞこブーツ",
+        "en": "Heavy-Duty Boots"
+    },
+    "SweetApple": {
+        "category": "item",
+        "ja": "あまーいりんご",
+        "en": "Sweet Apple"
+    },
+    "IapapaBerry": {
+        "category": "item",
+        "ja": "イアのみ",
+        "en": "Iapapa Berry"
+    },
+    "SuperPotion": {
+        "category": "item",
+        "ja": "いいキズぐすり",
+        "en": "Super Potion"
+    },
+    "LoadedDice": {
+        "category": "item",
+        "ja": "いかさまダイス",
+        "en": "Loaded Dice"
+    },
+    "ZapPlate": {
+        "category": "item",
+        "ja": "いかずちプレート",
+        "en": "Zap Plate"
+    },
+    "CornerstoneMask": {
+        "category": "item",
+        "ja": "いしずえのめん",
+        "en": "Cornerstone Mask"
+    },
+    "AdamantMint": {
+        "category": "item",
+        "ja": "いじっぱりミント",
+        "en": "Adamant Mint"
+    },
+    "PasshoBerry": {
+        "category": "item",
+        "ja": "イトケのみ",
+        "en": "Passho Berry"
+    },
+    "WellspringMask": {
+        "category": "item",
+        "ja": "いどのめん",
+        "en": "Wellspring Mask"
+    },
+    "LifeOrb": {
+        "category": "item",
+        "ja": "いのちのたま",
+        "en": "Life Orb"
+    },
+    "CustapBerry": {
+        "category": "item",
+        "ja": "イバンのみ",
+        "en": "Custap Berry"
+    },
+    "AuspiciousArmor": {
+        "category": "item",
+        "ja": "イワイノヨロイ",
+        "en": "Auspicious Armor"
+    },
+    "Carbos": {
+        "category": "item",
+        "ja": "インドメタシン",
+        "en": "Carbos"
+    },
+    "PayapaBerry": {
+        "category": "item",
+        "ja": "ウタンのみ",
+        "en": "Payapa Berry"
+    },
+    "RashMint": {
+        "category": "item",
+        "ja": "うっかりやミント",
+        "en": "Rash Mint"
+    },
+    "GrepaBerry": {
+        "category": "item",
+        "ja": "ウブのみ",
+        "en": "Grepa Berry"
+    },
+    "ElectricSeed": {
+        "category": "item",
+        "ja": "エレキシード",
+        "en": "Electric Seed"
+    },
+    "FreshWater": {
+        "category": "item",
+        "ja": "おいしいみず",
+        "en": "Fresh Water"
+    },
+    "King'sRock": {
+        "category": "item",
+        "ja": "おうじゃのしるし",
+        "en": "King's Rock"
+    },
+    "BigRoot": {
+        "category": "item",
+        "ja": "おおきなねっこ",
+        "en": "Big Root"
+    },
+    "TimidMint": {
+        "category": "item",
+        "ja": "おくびょうミント",
+        "en": "Timid Mint"
+    },
+    "CalmMint": {
+        "category": "item",
+        "ja": "おだやかミント",
+        "en": "Calm Mint"
+    },
+    "OccaBerry": {
+        "category": "item",
+        "ja": "オッカのみ",
+        "en": "Occa Berry"
+    },
+    "MildMint": {
+        "category": "item",
+        "ja": "おっとりミント",
+        "en": "Mild Mint"
+    },
+    "GentleMint": {
+        "category": "item",
+        "ja": "おとなしいミント",
+        "en": "Gentle Mint"
+    },
+    "SitrusBerry": {
+        "category": "item",
+        "ja": "オボンのみ",
+        "en": "Sitrus Berry"
+    },
+    "AmuletCoin": {
+        "category": "item",
+        "ja": "おまもりこばん",
+        "en": "Amulet Coin"
+    },
+    "OranBerry": {
+        "category": "item",
+        "ja": "オレンのみ",
+        "en": "Oran Berry"
+    },
+    "CovertCloak": {
+        "category": "item",
+        "ja": "おんみつマント",
+        "en": "Covert Cloak"
+    },
+    "ShellBell": {
+        "category": "item",
+        "ja": "かいがらのすず",
+        "en": "Shell Bell"
+    },
+    "WatmelBerry": {
+        "category": "item",
+        "ja": "カイスのみ",
+        "en": "Watmel Berry"
+    },
+    "FullRestore": {
+        "category": "item",
+        "ja": "かいふくのくすり",
+        "en": "Full Restore"
+    },
+    "FlameOrb": {
+        "category": "item",
+        "ja": "かえんだま",
+        "en": "Flame Orb"
+    },
+    "ChippedPot": {
+        "category": "item",
+        "ja": "かけたポット",
+        "en": "Chipped Pot"
+    },
+    "ChestoBerry": {
+        "category": "item",
+        "ja": "カゴのみ",
+        "en": "Chesto Berry"
+    },
+    "KasibBerry": {
+        "category": "item",
+        "ja": "カシブのみ",
+        "en": "Kasib Berry"
+    },
+    "Leader'sCrest": {
+        "category": "item",
+        "ja": "かしらのしるし",
+        "en": "Leader's Crest"
+    },
+    "HardStone": {
+        "category": "item",
+        "ja": "かたいいし",
+        "en": "Hard Stone"
+    },
+    "HearthflameMask": {
+        "category": "item",
+        "ja": "かまどのめん",
+        "en": "Hearthflame Mask"
+    },
+    "ThunderStone": {
+        "category": "item",
+        "ja": "かみなりのいし",
+        "en": "Thunder Stone"
+    },
+    "SalacBerry": {
+        "category": "item",
+        "ja": "カムラのみ",
+        "en": "Salac Berry"
+    },
+    "BlunderPolicy": {
+        "category": "item",
+        "ja": "からぶりほけん",
+        "en": "Blunder Policy"
+    },
+    "FloatStone": {
+        "category": "item",
+        "ja": "かるいし",
+        "en": "Float Stone"
+    },
+    "Everstone": {
+        "category": "item",
+        "ja": "かわらずのいし",
+        "en": "Everstone"
+    },
+    "StonePlate": {
+        "category": "item",
+        "ja": "がんせきプレート",
+        "en": "Stone Plate"
+    },
+    "FocusSash": {
+        "category": "item",
+        "ja": "きあいのタスキ",
+        "en": "Focus Sash"
+    },
+    "FocusBand": {
+        "category": "item",
+        "ja": "きあいのハチマキ",
+        "en": "Focus Band"
+    },
+    "Potion": {
+        "category": "item",
+        "ja": "キズぐすり",
+        "en": "Potion"
+    },
+    "MiracleSeed": {
+        "category": "item",
+        "ja": "きせきのタネ",
+        "en": "Miracle Seed"
+    },
+    "Zinc": {
+        "category": "item",
+        "ja": "キトサン",
+        "en": "Zinc"
+    },
+    "PersimBerry": {
+        "category": "item",
+        "ja": "キーのみ",
+        "en": "Persim Berry"
+    },
+    "AbsorbBulb": {
+        "category": "item",
+        "ja": "きゅうこん",
+        "en": "Absorb Bulb"
+    },
+    "PrismScale": {
+        "category": "item",
+        "ja": "きれいなウロコ",
+        "en": "Prism Scale"
+    },
+    "ShedShell": {
+        "category": "item",
+        "ja": "きれいなぬけがら",
+        "en": "Shed Shell"
+    },
+    "SilverPowder": {
+        "category": "item",
+        "ja": "ぎんのこな",
+        "en": "Silver Powder"
+    },
+    "MuscleFeather": {
+        "category": "item",
+        "ja": "きんりょくのハネ",
+        "en": "Muscle Feather"
+    },
+    "MuscleMochi": {
+        "category": "item",
+        "ja": "きんりょくのもち",
+        "en": "Muscle Mochi"
+    },
+    "QuickBall": {
+        "category": "item",
+        "ja": "クイックボール",
+        "en": "Quick Ball"
+    },
+    "RustedSword": {
+        "category": "item",
+        "ja": "くちたけん",
+        "en": "Rusted Sword"
+    },
+    "RustedShield": {
+        "category": "item",
+        "ja": "くちたたて",
+        "en": "Rusted Shield"
+    },
+    "StickyBarb": {
+        "category": "item",
+        "ja": "くっつきバリ",
+        "en": "Sticky Barb"
+    },
+    "GrassySeed": {
+        "category": "item",
+        "ja": "グラスシード",
+        "en": "Grassy Seed"
+    },
+    "CheriBerry": {
+        "category": "item",
+        "ja": "クラボのみ",
+        "en": "Cheri Berry"
+    },
+    "TerrainExtender": {
+        "category": "item",
+        "ja": "グランドコート",
+        "en": "Terrain Extender"
+    },
+    "ClearAmulet": {
+        "category": "item",
+        "ja": "クリアチャーム",
+        "en": "Clear Amulet"
+    },
+    "IronBall": {
+        "category": "item",
+        "ja": "くろいてっきゅう",
+        "en": "Iron Ball"
+    },
+    "BlackSludge": {
+        "category": "item",
+        "ja": "くろいヘドロ",
+        "en": "Black Sludge"
+    },
+    "BlackGlasses": {
+        "category": "item",
+        "ja": "くろいメガネ",
+        "en": "Black Glasses"
+    },
+    "BlackBelt": {
+        "category": "item",
+        "ja": "くろおび",
+        "en": "Black Belt"
+    },
+    "MasterpieceTeacup": {
+        "category": "item",
+        "ja": "ケッサクのちゃわん",
+        "en": "Masterpiece Teacup"
+    },
+    "SmokeBall": {
+        "category": "item",
+        "ja": "けむりだま",
+        "en": "Smoke Ball"
+    },
+    "Revive": {
+        "category": "item",
+        "ja": "げんきのかけら",
+        "en": "Revive"
+    },
+    "MaxRevive": {
+        "category": "item",
+        "ja": "げんきのかたまり",
+        "en": "Max Revive"
+    },
+    "WideLens": {
+        "category": "item",
+        "ja": "こうかくレンズ",
+        "en": "Wide Lens"
+    },
+    "LaggingTail": {
+        "category": "item",
+        "ja": "こうこうのしっぽ",
+        "en": "Lagging Tail"
+    },
+    "IronPlate": {
+        "category": "item",
+        "ja": "こうてつプレート",
+        "en": "Iron Plate"
+    },
+    "IceHeal": {
+        "category": "item",
+        "ja": "こおりなおし",
+        "en": "Ice Heal"
+    },
+    "IceStone": {
+        "category": "item",
+        "ja": "こおりのいし",
+        "en": "Ice Stone"
+    },
+    "LuxuryBall": {
+        "category": "item",
+        "ja": "ゴージャスボール",
+        "en": "Luxury Ball"
+    },
+    "MagostBerry": {
+        "category": "item",
+        "ja": "ゴスのみ",
+        "en": "Magost Berry"
+    },
+    "ChoiceScarf": {
+        "category": "item",
+        "ja": "こだわりスカーフ",
+        "en": "Choice Scarf"
+    },
+    "ChoiceBand": {
+        "category": "item",
+        "ja": "こだわりハチマキ",
+        "en": "Choice Band"
+    },
+    "ChoiceSpecs": {
+        "category": "item",
+        "ja": "こだわりメガネ",
+        "en": "Choice Specs"
+    },
+    "RockyHelmet": {
+        "category": "item",
+        "ja": "ゴツゴツメット",
+        "en": "Rocky Helmet"
+    },
+    "FistPlate": {
+        "category": "item",
+        "ja": "こぶしのプレート",
+        "en": "Fist Plate"
+    },
+    "DreadPlate": {
+        "category": "item",
+        "ja": "こわもてプレート",
+        "en": "Dread Plate"
+    },
+    "AdamantOrb": {
+        "category": "item",
+        "ja": "こんごうだま",
+        "en": "Adamant Orb"
+    },
+    "SportBall": {
+        "category": "item",
+        "ja": "コンペボール",
+        "en": "Sport Ball"
+    },
+    "PsychicSeed": {
+        "category": "item",
+        "ja": "サイコシード",
+        "en": "Psychic Seed"
+    },
+    "SodaPop": {
+        "category": "item",
+        "ja": "サイコソーダ",
+        "en": "Soda Pop"
+    },
+    "SafariBall": {
+        "category": "item",
+        "ja": "サファリボール",
+        "en": "Safari Ball"
+    },
+    "LonelyMint": {
+        "category": "item",
+        "ja": "さみしがりミント",
+        "en": "Lonely Mint"
+    },
+    "SmoothRock": {
+        "category": "item",
+        "ja": "さらさらいわ",
+        "en": "Smooth Rock"
+    },
+    "PomegBerry": {
+        "category": "item",
+        "ja": "ザロクのみ",
+        "en": "Pomeg Berry"
+    },
+    "LansatBerry": {
+        "category": "item",
+        "ja": "サンのみ",
+        "en": "Lansat Berry"
+    },
+    "LuckyEgg": {
+        "category": "item",
+        "ja": "しあわせタマゴ",
+        "en": "Lucky Egg"
+    },
+    "Magnet": {
+        "category": "item",
+        "ja": "じしゃく",
+        "en": "Magnet"
+    },
+    "SplashPlate": {
+        "category": "item",
+        "ja": "しずくプレート",
+        "en": "Splash Plate"
+    },
+    "BindingBand": {
+        "category": "item",
+        "ja": "しめつけバンド",
+        "en": "Binding Band"
+    },
+    "DampRock": {
+        "category": "item",
+        "ja": "しめったいわ",
+        "en": "Damp Rock"
+    },
+    "WeaknessPolicy": {
+        "category": "item",
+        "ja": "じゃくてんほけん",
+        "en": "Weakness Policy"
+    },
+    "PamtreBerry": {
+        "category": "item",
+        "ja": "シーヤのみ",
+        "en": "Pamtre Berry"
+    },
+    "JabocaBerry": {
+        "category": "item",
+        "ja": "ジャポのみ",
+        "en": "Jaboca Berry"
+    },
+    "CellBattery": {
+        "category": "item",
+        "ja": "じゅうでんち",
+        "en": "Cell Battery"
+    },
+    "ShucaBerry": {
+        "category": "item",
+        "ja": "シュカのみ",
+        "en": "Shuca Berry"
+    },
+    "SwiftFeather": {
+        "category": "item",
+        "ja": "しゅんぱつのハネ",
+        "en": "Swift Feather"
+    },
+    "SwiftMochi": {
+        "category": "item",
+        "ja": "しゅんぱつのもち",
+        "en": "Swift Mochi"
+    },
+    "LustrousOrb": {
+        "category": "item",
+        "ja": "しらたま",
+        "en": "Lustrous Orb"
+    },
+    "SilkScarf": {
+        "category": "item",
+        "ja": "シルクのスカーフ",
+        "en": "Silk Scarf"
+    },
+    "WhiteHerb": {
+        "category": "item",
+        "ja": "しろいハーブ",
+        "en": "White Herb"
+    },
+    "Eviolite": {
+        "category": "item",
+        "ja": "しんかのきせき",
+        "en": "Eviolite"
+    },
+    "CarefulMint": {
+        "category": "item",
+        "ja": "しんちょうミント",
+        "en": "Careful Mint"
+    },
+    "MysticWater": {
+        "category": "item",
+        "ja": "しんぴのしずく",
+        "en": "Mystic Water"
+    },
+    "ApicotBerry": {
+        "category": "item",
+        "ja": "ズアのみ",
+        "en": "Apicot Berry"
+    },
+    "HyperPotion": {
+        "category": "item",
+        "ja": "すごいキズぐすり",
+        "en": "Hyper Potion"
+    },
+    "StarfBerry": {
+        "category": "item",
+        "ja": "スターのみ",
+        "en": "Starf Berry"
+    },
+    "TartApple": {
+        "category": "item",
+        "ja": "すっぱいりんご",
+        "en": "Tart Apple"
+    },
+    "GreatBall": {
+        "category": "item",
+        "ja": "スーパーボール",
+        "en": "Great Ball"
+    },
+    "QuickPowder": {
+        "category": "item",
+        "ja": "スピードパウダー",
+        "en": "Quick Powder"
+    },
+    "FastBall": {
+        "category": "item",
+        "ja": "スピードボール",
+        "en": "Fast Ball"
+    },
+    "BoldMint": {
+        "category": "item",
+        "ja": "ずぶといミント",
+        "en": "Bold Mint"
+    },
+    "XSp.Atk": {
+        "category": "item",
+        "ja": "スペシャルアップ",
+        "en": "X Sp. Atk"
+    },
+    "XSp.Def": {
+        "category": "item",
+        "ja": "スペシャルガード",
+        "en": "X Sp. Def"
+    },
+    "RazzBerry": {
+        "category": "item",
+        "ja": "ズリのみ",
+        "en": "Razz Berry"
+    },
+    "RazorFang": {
+        "category": "item",
+        "ja": "するどいキバ",
+        "en": "Razor Fang"
+    },
+    "SharpBeak": {
+        "category": "item",
+        "ja": "するどいくちばし",
+        "en": "Sharp Beak"
+    },
+    "RazorClaw": {
+        "category": "item",
+        "ja": "するどいツメ",
+        "en": "Razor Claw"
+    },
+    "CleverFeather": {
+        "category": "item",
+        "ja": "せいしんのハネ",
+        "en": "Clever Feather"
+    },
+    "CleverMochi": {
+        "category": "item",
+        "ja": "せいしんのもち",
+        "en": "Clever Mochi"
+    },
+    "PixiePlate": {
+        "category": "item",
+        "ja": "せいれいプレート",
+        "en": "Pixie Plate"
+    },
+    "WepearBerry": {
+        "category": "item",
+        "ja": "セシナのみ",
+        "en": "Wepear Berry"
+    },
+    "HastyMint": {
+        "category": "item",
+        "ja": "せっかちミント",
+        "en": "Hasty Mint"
+    },
+    "QuickClaw": {
+        "category": "item",
+        "ja": "せんせいのツメ",
+        "en": "Quick Claw"
+    },
+    "WacanBerry": {
+        "category": "item",
+        "ja": "ソクノのみ",
+        "en": "Wacan Berry"
+    },
+    "AdamantCrystal": {
+        "category": "item",
+        "ja": "だいこんごうだま",
+        "en": "Adamant Crystal"
+    },
+    "EarthPlate": {
+        "category": "item",
+        "ja": "だいちのプレート",
+        "en": "Earth Plate"
+    },
+    "GriseousCore": {
+        "category": "item",
+        "ja": "だいはっきんだま",
+        "en": "Griseous Core"
+    },
+    "DiveBall": {
+        "category": "item",
+        "ja": "ダイブボール",
+        "en": "Dive Ball"
+    },
+    "TimerBall": {
+        "category": "item",
+        "ja": "タイマーボール",
+        "en": "Timer Ball"
+    },
+    "SunStone": {
+        "category": "item",
+        "ja": "たいようのいし",
+        "en": "Sun Stone"
+    },
+    "HealthFeather": {
+        "category": "item",
+        "ja": "たいりょくのハネ",
+        "en": "Health Feather"
+    },
+    "HealthMochi": {
+        "category": "item",
+        "ja": "たいりょくのもち",
+        "en": "Health Mochi"
+    },
+    "Protein": {
+        "category": "item",
+        "ja": "タウリン",
+        "en": "Protein"
+    },
+    "DuskBall": {
+        "category": "item",
+        "ja": "ダークボール",
+        "en": "Dusk Ball"
+    },
+    "EjectPack": {
+        "category": "item",
+        "ja": "だっしゅつパック",
+        "en": "Eject Pack"
+    },
+    "EjectButton": {
+        "category": "item",
+        "ja": "だっしゅつボタン",
+        "en": "Eject Button"
+    },
+    "ExpertBelt": {
+        "category": "item",
+        "ja": "たつじんのおび",
+        "en": "Expert Belt"
+    },
+    "Leftovers": {
+        "category": "item",
+        "ja": "たべのこし",
+        "en": "Leftovers"
+    },
+    "QualotBerry": {
+        "category": "item",
+        "ja": "タポルのみ",
+        "en": "Qualot Berry"
+    },
+    "InsectPlate": {
+        "category": "item",
+        "ja": "たまむしプレート",
+        "en": "Insect Plate"
+    },
+    "MarangaBerry": {
+        "category": "item",
+        "ja": "タラプのみ",
+        "en": "Maranga Berry"
+    },
+    "TangaBerry": {
+        "category": "item",
+        "ja": "タンガのみ",
+        "en": "Tanga Berry"
+    },
+    "LiechiBerry": {
+        "category": "item",
+        "ja": "チイラのみ",
+        "en": "Liechi Berry"
+    },
+    "EnergyPowder": {
+        "category": "item",
+        "ja": "ちからのこな",
+        "en": "Energy Powder"
+    },
+    "EnergyRoot": {
+        "category": "item",
+        "ja": "ちからのねっこ",
+        "en": "Energy Root"
+    },
+    "MuscleBand": {
+        "category": "item",
+        "ja": "ちからのハチマキ",
+        "en": "Muscle Band"
+    },
+    "RawstBerry": {
+        "category": "item",
+        "ja": "チーゴのみ",
+        "en": "Rawst Berry"
+    },
+    "GeniusFeather": {
+        "category": "item",
+        "ja": "ちりょくのハネ",
+        "en": "Genius Feather"
+    },
+    "GeniusMochi": {
+        "category": "item",
+        "ja": "ちりょくのもち",
+        "en": "Genius Mochi"
+    },
+    "MoonStone": {
+        "category": "item",
+        "ja": "つきのいし",
+        "en": "Moon Stone"
+    },
+    "IcyRock": {
+        "category": "item",
+        "ja": "つめたいいわ",
+        "en": "Icy Rock"
+    },
+    "IciclePlate": {
+        "category": "item",
+        "ja": "つららのプレート",
+        "en": "Icicle Plate"
+    },
+    "ResistFeather": {
+        "category": "item",
+        "ja": "ていこうのハネ",
+        "en": "Resist Feather"
+    },
+    "ResistMochi": {
+        "category": "item",
+        "ja": "ていこうのもち",
+        "en": "Resist Mochi"
+    },
+    "XDefense": {
+        "category": "item",
+        "ja": "ディフェンダー",
+        "en": "X Defense"
+    },
+    "LightBall": {
+        "category": "item",
+        "ja": "でんきだま",
+        "en": "Light Ball"
+    },
+    "Antidote": {
+        "category": "item",
+        "ja": "どくけし",
+        "en": "Antidote"
+    },
+    "AbilityShield": {
+        "category": "item",
+        "ja": "とくせいガード",
+        "en": "Ability Shield"
+    },
+    "AbilityCapsule": {
+        "category": "item",
+        "ja": "とくせいカプセル",
+        "en": "Ability Capsule"
+    },
+    "AbilityPatch": {
+        "category": "item",
+        "ja": "とくせいパッチ",
+        "en": "Ability Patch"
+    },
+    "ToxicOrb": {
+        "category": "item",
+        "ja": "どくどくだま",
+        "en": "Toxic Orb"
+    },
+    "PoisonBarb": {
+        "category": "item",
+        "ja": "どくバリ",
+        "en": "Poison Barb"
+    },
+    "Never-MeltIce": {
+        "category": "item",
+        "ja": "とけないこおり",
+        "en": "Never-Melt Ice"
+    },
+    "AssaultVest": {
+        "category": "item",
+        "ja": "とつげきチョッキ",
+        "en": "Assault Vest"
+    },
+    "DurinBerry": {
+        "category": "item",
+        "ja": "ドリのみ",
+        "en": "Durin Berry"
+    },
+    "DreamBall": {
+        "category": "item",
+        "ja": "ドリームボール",
+        "en": "Dream Ball"
+    },
+    "EnigmaBerry": {
+        "category": "item",
+        "ja": "ナゾのみ",
+        "en": "Enigma Berry"
+    },
+    "AspearBerry": {
+        "category": "item",
+        "ja": "ナナシのみ",
+        "en": "Aspear Berry"
+    },
+    "NanabBerry": {
+        "category": "item",
+        "ja": "ナナのみ",
+        "en": "Nanab Berry"
+    },
+    "SassyMint": {
+        "category": "item",
+        "ja": "なまいきミント",
+        "en": "Sassy Mint"
+    },
+    "ColburBerry": {
+        "category": "item",
+        "ja": "ナモのみ",
+        "en": "Colbur Berry"
+    },
+    "FullHeal": {
+        "category": "item",
+        "ja": "なんでもなおし",
+        "en": "Full Heal"
+    },
+    "KelpsyBerry": {
+        "category": "item",
+        "ja": "ネコブのみ",
+        "en": "Kelpsy Berry"
+    },
+    "NestBall": {
+        "category": "item",
+        "ja": "ネストボール",
+        "en": "Nest Ball"
+    },
+    "NetBall": {
+        "category": "item",
+        "ja": "ネットボール",
+        "en": "Net Ball"
+    },
+    "GripClaw": {
+        "category": "item",
+        "ja": "ねばりのかぎづめ",
+        "en": "Grip Claw"
+    },
+    "Awakening": {
+        "category": "item",
+        "ja": "ねむけざまし",
+        "en": "Awakening"
+    },
+    "RingTarget": {
+        "category": "item",
+        "ja": "ねらいのまと",
+        "en": "Ring Target"
+    },
+    "LaxMint": {
+        "category": "item",
+        "ja": "のうてんきミント",
+        "en": "Lax Mint"
+    },
+    "ThroatSpray": {
+        "category": "item",
+        "ja": "のどスプレー",
+        "en": "Throat Spray"
+    },
+    "NormalGem": {
+        "category": "item",
+        "ja": "ノーマルジュエル",
+        "en": "Normal Gem"
+    },
+    "NomelBerry": {
+        "category": "item",
+        "ja": "ノメルのみ",
+        "en": "Nomel Berry"
+    },
+    "SpellTag": {
+        "category": "item",
+        "ja": "のろいのおふだ",
+        "en": "Spell Tag"
+    },
+    "MaliciousArmor": {
+        "category": "item",
+        "ja": "ノロイノヨロイ",
+        "en": "Malicious Armor"
+    },
+    "SpelonBerry": {
+        "category": "item",
+        "ja": "ノワキのみ",
+        "en": "Spelon Berry"
+    },
+    "RelaxedMint": {
+        "category": "item",
+        "ja": "のんきミント",
+        "en": "Relaxed Mint"
+    },
+    "UltraBall": {
+        "category": "item",
+        "ja": "ハイパーボール",
+        "en": "Ultra Ball"
+    },
+    "PinapBerry": {
+        "category": "item",
+        "ja": "パイルのみ",
+        "en": "Pinap Berry"
+    },
+    "CobaBerry": {
+        "category": "item",
+        "ja": "バコウのみ",
+        "en": "Coba Berry"
+    },
+    "GriseousOrb": {
+        "category": "item",
+        "ja": "はっきんだま",
+        "en": "Griseous Orb"
+    },
+    "HabanBerry": {
+        "category": "item",
+        "ja": "ハバンのみ",
+        "en": "Haban Berry"
+    },
+    "PowerAnklet": {
+        "category": "item",
+        "ja": "パワーアンクル",
+        "en": "Power Anklet"
+    },
+    "PowerWeight": {
+        "category": "item",
+        "ja": "パワーウエイト",
+        "en": "Power Weight"
+    },
+    "PowerBand": {
+        "category": "item",
+        "ja": "パワーバンド",
+        "en": "Power Band"
+    },
+    "PowerHerb": {
+        "category": "item",
+        "ja": "パワフルハーブ",
+        "en": "Power Herb"
+    },
+    "PowerBelt": {
+        "category": "item",
+        "ja": "パワーベルト",
+        "en": "Power Belt"
+    },
+    "PowerBracer": {
+        "category": "item",
+        "ja": "パワーリスト",
+        "en": "Power Bracer"
+    },
+    "PowerLens": {
+        "category": "item",
+        "ja": "パワーレンズ",
+        "en": "Power Lens"
+    },
+    "AguavBerry": {
+        "category": "item",
+        "ja": "バンジのみ",
+        "en": "Aguav Berry"
+    },
+    "PunchingGlove": {
+        "category": "item",
+        "ja": "パンチグローブ",
+        "en": "Punching Glove"
+    },
+    "UtilityUmbrella": {
+        "category": "item",
+        "ja": "ばんのうがさ",
+        "en": "Utility Umbrella"
+    },
+    "HealPowder": {
+        "category": "item",
+        "ja": "ばんのうごな",
+        "en": "Heal Powder"
+    },
+    "KebiaBerry": {
+        "category": "item",
+        "ja": "ビアーのみ",
+        "en": "Kebia Berry"
+    },
+    "ModestMint": {
+        "category": "item",
+        "ja": "ひかえめミント",
+        "en": "Modest Mint"
+    },
+    "ShinyStone": {
+        "category": "item",
+        "ja": "ひかりのいし",
+        "en": "Shiny Stone"
+    },
+    "BrightPowder": {
+        "category": "item",
+        "ja": "ひかりのこな",
+        "en": "Bright Powder"
+    },
+    "LightClay": {
+        "category": "item",
+        "ja": "ひかりのねんど",
+        "en": "Light Clay"
+    },
+    "FlamePlate": {
+        "category": "item",
+        "ja": "ひのたまプレート",
+        "en": "Flame Plate"
+    },
+    "Elixir": {
+        "category": "item",
+        "ja": "ピーピーエイダー",
+        "en": "Elixir"
+    },
+    "Ether": {
+        "category": "item",
+        "ja": "ピーピーエイド",
+        "en": "Ether"
+    },
+    "MaxElixir": {
+        "category": "item",
+        "ja": "ピーピーマックス",
+        "en": "Max Elixir"
+    },
+    "MaxEther": {
+        "category": "item",
+        "ja": "ピーピーリカバー",
+        "en": "Max Ether"
+    },
+    "AdrenalineOrb": {
+        "category": "item",
+        "ja": "ビビリだま",
+        "en": "Adrenaline Orb"
+    },
+    "LeppaBerry": {
+        "category": "item",
+        "ja": "ヒメリのみ",
+        "en": "Leppa Berry"
+    },
+    "HealBall": {
+        "category": "item",
+        "ja": "ヒールボール",
+        "en": "Heal Ball"
+    },
+    "ScopeLens": {
+        "category": "item",
+        "ja": "ピントレンズ",
+        "en": "Scope Lens"
+    },
+    "FigyBerry": {
+        "category": "item",
+        "ja": "フィラのみ",
+        "en": "Figy Berry"
+    },
+    "AirBalloon": {
+        "category": "item",
+        "ja": "ふうせん",
+        "en": "Air Balloon"
+    },
+    "ZoomLens": {
+        "category": "item",
+        "ja": "フォーカスレンズ",
+        "en": "Zoom Lens"
+    },
+    "RareCandy": {
+        "category": "item",
+        "ja": "ふしぎなアメ",
+        "en": "Rare Candy"
+    },
+    "MindPlate": {
+        "category": "item",
+        "ja": "ふしぎのプレート",
+        "en": "Mind Plate"
+    },
+    "BoosterEnergy": {
+        "category": "item",
+        "ja": "ブーストエナジー",
+        "en": "Booster Energy"
+    },
+    "RevivalHerb": {
+        "category": "item",
+        "ja": "ふっかつそう",
+        "en": "Revival Herb"
+    },
+    "XAttack": {
+        "category": "item",
+        "ja": "プラスパワー",
+        "en": "X Attack"
+    },
+    "BlukBerry": {
+        "category": "item",
+        "ja": "ブリーのみ",
+        "en": "Bluk Berry"
+    },
+    "PremierBall": {
+        "category": "item",
+        "ja": "プレミアボール",
+        "en": "Premier Ball"
+    },
+    "FriendBall": {
+        "category": "item",
+        "ja": "フレンドボール",
+        "en": "Friend Ball"
+    },
+    "Iron": {
+        "category": "item",
+        "ja": "ブロムヘキシン",
+        "en": "Iron"
+    },
+    "HeavyBall": {
+        "category": "item",
+        "ja": "ヘビーボール",
+        "en": "Heavy Ball"
+    },
+    "BelueBerry": {
+        "category": "item",
+        "ja": "ベリブのみ",
+        "en": "Belue Berry"
+    },
+    "PPUp": {
+        "category": "item",
+        "ja": "ポイントアップ",
+        "en": "PP Up"
+    },
+    "PPMax": {
+        "category": "item",
+        "ja": "ポイントマックス",
+        "en": "PP Max"
+    },
+    "ProtectivePads": {
+        "category": "item",
+        "ja": "ぼうごパット",
+        "en": "Protective Pads"
+    },
+    "SafetyGoggles": {
+        "category": "item",
+        "ja": "ぼうじんゴーグル",
+        "en": "Safety Goggles"
+    },
+    "ChilanBerry": {
+        "category": "item",
+        "ja": "ホズのみ",
+        "en": "Chilan Berry"
+    },
+    "FireStone": {
+        "category": "item",
+        "ja": "ほのおのいし",
+        "en": "Fire Stone"
+    },
+    "UnremarkableTeacup": {
+        "category": "item",
+        "ja": "ボンサクのちゃわん",
+        "en": "Unremarkable Teacup"
+    },
+    "TwistedSpoon": {
+        "category": "item",
+        "ja": "まがったスプーン",
+        "en": "Twisted Spoon"
+    },
+    "MagoBerry": {
+        "category": "item",
+        "ja": "マゴのみ",
+        "en": "Mago Berry"
+    },
+    "SeriousMint": {
+        "category": "item",
+        "ja": "まじめミント",
+        "en": "Serious Mint"
+    },
+    "MasterBall": {
+        "category": "item",
+        "ja": "マスターボール",
+        "en": "Master Ball"
+    },
+    "HPUp": {
+        "category": "item",
+        "ja": "マックスアップ",
+        "en": "HP Up"
+    },
+    "Fresh-StartMochi": {
+        "category": "item",
+        "ja": "まっさらもち",
+        "en": "Fresh-Start Mochi"
+    },
+    "TamatoBerry": {
+        "category": "item",
+        "ja": "マトマのみ",
+        "en": "Tamato Berry"
+    },
+    "ParalyzeHeal": {
+        "category": "item",
+        "ja": "まひなおし",
+        "en": "Paralyze Heal"
+    },
+    "MaxPotion": {
+        "category": "item",
+        "ja": "まんたんのくすり",
+        "en": "Max Potion"
+    },
+    "OvalStone": {
+        "category": "item",
+        "ja": "まんまるいし",
+        "en": "Oval Stone"
+    },
+    "MicleBerry": {
+        "category": "item",
+        "ja": "ミクルのみ",
+        "en": "Micle Berry"
+    },
+    "MistySeed": {
+        "category": "item",
+        "ja": "ミストシード",
+        "en": "Misty Seed"
+    },
+    "WaterStone": {
+        "category": "item",
+        "ja": "みずのいし",
+        "en": "Water Stone"
+    },
+    "ScrollOfWaters": {
+        "category": "item",
+        "ja": "みずのかけじく",
+        "en": "Scroll of Waters"
+    },
+    "SyrupyApple": {
+        "category": "item",
+        "ja": "みついりりんご",
+        "en": "Syrupy Apple"
+    },
+    "Lemonade": {
+        "category": "item",
+        "ja": "ミックスオレ",
+        "en": "Lemonade"
+    },
+    "MeadowPlate": {
+        "category": "item",
+        "ja": "みどりのプレート",
+        "en": "Meadow Plate"
+    },
+    "NaiveMint": {
+        "category": "item",
+        "ja": "むじゃきミント",
+        "en": "Naive Mint"
+    },
+    "MoonBall": {
+        "category": "item",
+        "ja": "ムーンボール",
+        "en": "Moon Ball"
+    },
+    "MetalCoat": {
+        "category": "item",
+        "ja": "メタルコート",
+        "en": "Metal Coat"
+    },
+    "MetalPowder": {
+        "category": "item",
+        "ja": "メタルパウダー",
+        "en": "Metal Powder"
+    },
+    "Metronome": {
+        "category": "item",
+        "ja": "メトロノーム",
+        "en": "Metronome"
+    },
+    "MentalHerb": {
+        "category": "item",
+        "ja": "メンタルハーブ",
+        "en": "Mental Herb"
+    },
+    "ToxicPlate": {
+        "category": "item",
+        "ja": "もうどくプレート",
+        "en": "Toxic Plate"
+    },
+    "Charcoal": {
+        "category": "item",
+        "ja": "もくたん",
+        "en": "Charcoal"
+    },
+    "CornnBerry": {
+        "category": "item",
+        "ja": "モコシのみ",
+        "en": "Cornn Berry"
+    },
+    "WiseGlasses": {
+        "category": "item",
+        "ja": "ものしりメガネ",
+        "en": "Wise Glasses"
+    },
+    "SpookyPlate": {
+        "category": "item",
+        "ja": "もののけプレート",
+        "en": "Spooky Plate"
+    },
+    "MirrorHerb": {
+        "category": "item",
+        "ja": "ものまねハーブ",
+        "en": "Mirror Herb"
+    },
+    "MoomooMilk": {
+        "category": "item",
+        "ja": "モーモーミルク",
+        "en": "Moomoo Milk"
+    },
+    "PechaBerry": {
+        "category": "item",
+        "ja": "モモンのみ",
+        "en": "Pecha Berry"
+    },
+    "PokeBall": {
+        "category": "item",
+        "ja": "モンスターボール",
+        "en": "Poke Ball"
+    },
+    "BurnHeal": {
+        "category": "item",
+        "ja": "やけどなおし",
+        "en": "Burn Heal"
+    },
+    "SootheBell": {
+        "category": "item",
+        "ja": "やすらぎのすず",
+        "en": "Soothe Bell"
+    },
+    "PetayaBerry": {
+        "category": "item",
+        "ja": "ヤタピのみ",
+        "en": "Petaya Berry"
+    },
+    "YacheBerry": {
+        "category": "item",
+        "ja": "ヤチェのみ",
+        "en": "Yache Berry"
+    },
+    "DuskStone": {
+        "category": "item",
+        "ja": "やみのいし",
+        "en": "Dusk Stone"
+    },
+    "SoftSand": {
+        "category": "item",
+        "ja": "やわらかいすな",
+        "en": "Soft Sand"
+    },
+    "NaughtyMint": {
+        "category": "item",
+        "ja": "やんちゃミント",
+        "en": "Naughty Mint"
+    },
+    "BraveMint": {
+        "category": "item",
+        "ja": "ゆうかんミント",
+        "en": "Brave Mint"
+    },
+    "Snowball": {
+        "category": "item",
+        "ja": "ゆきだま",
+        "en": "Snowball"
+    },
+    "JollyMint": {
+        "category": "item",
+        "ja": "ようきミント",
+        "en": "Jolly Mint"
+    },
+    "XAccuracy": {
+        "category": "item",
+        "ja": "ヨクアタール",
+        "en": "X Accuracy"
+    },
+    "ChopleBerry": {
+        "category": "item",
+        "ja": "ヨプのみ",
+        "en": "Chople Berry"
+    },
+    "ChartiBerry": {
+        "category": "item",
+        "ja": "ヨロギのみ",
+        "en": "Charti Berry"
+    },
+    "RabutaBerry": {
+        "category": "item",
+        "ja": "ラブタのみ",
+        "en": "Rabuta Berry"
+    },
+    "LoveBall": {
+        "category": "item",
+        "ja": "ラブラブボール",
+        "en": "Love Ball"
+    },
+    "LumBerry": {
+        "category": "item",
+        "ja": "ラムのみ",
+        "en": "Lum Berry"
+    },
+    "Calcium": {
+        "category": "item",
+        "ja": "リゾチウム",
+        "en": "Calcium"
+    },
+    "RepeatBall": {
+        "category": "item",
+        "ja": "リピートボール",
+        "en": "Repeat Ball"
+    },
+    "LeafStone": {
+        "category": "item",
+        "ja": "リーフのいし",
+        "en": "Leaf Stone"
+    },
+    "DragonFang": {
+        "category": "item",
+        "ja": "りゅうのキバ",
+        "en": "Dragon Fang"
+    },
+    "DracoPlate": {
+        "category": "item",
+        "ja": "りゅうのプレート",
+        "en": "Draco Plate"
+    },
+    "GanlonBerry": {
+        "category": "item",
+        "ja": "リュガのみ",
+        "en": "Ganlon Berry"
+    },
+    "BabiriBerry": {
+        "category": "item",
+        "ja": "リリバのみ",
+        "en": "Babiri Berry"
+    },
+    "RindoBerry": {
+        "category": "item",
+        "ja": "リンドのみ",
+        "en": "Rindo Berry"
+    },
+    "LureBall": {
+        "category": "item",
+        "ja": "ルアーボール",
+        "en": "Lure Ball"
+    },
+    "RoomService": {
+        "category": "item",
+        "ja": "ルームサービス",
+        "en": "Room Service"
+    },
+    "ReaperCloth": {
+        "category": "item",
+        "ja": "れいかいのぬの",
+        "en": "Reaper Cloth"
+    },
+    "QuietMint": {
+        "category": "item",
+        "ja": "れいせいミント",
+        "en": "Quiet Mint"
+    },
+    "RedCard": {
+        "category": "item",
+        "ja": "レッドカード",
+        "en": "Red Card"
+    },
+    "LevelBall": {
+        "category": "item",
+        "ja": "レベルボール",
+        "en": "Level Ball"
+    },
+    "RowapBerry": {
+        "category": "item",
+        "ja": "レンブのみ",
+        "en": "Rowap Berry"
+    },
+    "HondewBerry": {
+        "category": "item",
+        "ja": "ロメのみ",
+        "en": "Hondew Berry"
+    },
+    "CrackedPot": {
+        "category": "item",
+        "ja": "われたポット",
+        "en": "Cracked Pot"
+    },
+    "ImpishMint": {
+        "category": "item",
+        "ja": "わんぱくミント",
+        "en": "Impish Mint"
+    }
+}

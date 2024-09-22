@@ -1,0 +1,74 @@
+{
+  "Normal": {
+    "en": "Normal",
+    "ja": "ノーマル"
+  },
+  "Fire": {
+    "en": "Fire",
+    "ja": "ほのお"
+  },
+  "Water": {
+    "en": "Water",
+    "ja": "みず"
+  },
+  "Electric": {
+    "en": "Electric",
+    "ja": "でんき"
+  },
+  "Grass": {
+    "en": "Grass",
+    "ja": "くさ"
+  },
+  "Ice": {
+    "en": "Ice",
+    "ja": "こおり"
+  },
+  "Fighting": {
+    "en": "Fighting",
+    "ja": "かくとう"
+  },
+  "Poison": {
+    "en": "Poison",
+    "ja": "どく"
+  },
+  "Ground": {
+    "en": "Ground",
+    "ja": "じめん"
+  },
+  "Flying": {
+    "en": "Flying",
+    "ja": "ひこう"
+  },
+  "Psychic": {
+    "en": "Psychic",
+    "ja": "エスパー"
+  },
+  "Bug": {
+    "en": "Bug",
+    "ja": "むし"
+  },
+  "Rock": {
+    "en": "Rock",
+    "ja": "いわ"
+  },
+  "Ghost": {
+    "en": "Ghost",
+    "ja": "ゴースト"
+  },
+  "Dragon": {
+    "en": "Dragon",
+    "ja": "ドラゴン"
+  },
+  "Dark": {
+    "en": "Dark",
+    "ja": "あく"
+  },
+  "Steel": {
+    "en": "Steel",
+    "ja": "はがね"
+  },
+  "Fairy": {
+    "en": "Fairy",
+    "ja": "フェアリー"
+  }
+}
