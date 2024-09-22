@@ -3,7 +3,9 @@ name: Upload v1 folder to Cloudflare R2
 on:
   push:
     branches:
-      - main # mainブランチにプッシュされたときに実行
+      - main
+    paths:
+      - "v1/**" # v1配下のファイルが変更された場合のみ実行
 
 jobs:
   upload-files-to-r2:
