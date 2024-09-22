@@ -1,0 +1,26 @@
+name: Upload v1 folder to Cloudflare R2
+
+on:
+  push:
+    branches:
+      - main # mainブランチにプッシュされたときに実行
+
+jobs:
+  upload-files-to-r2:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # AWS CLI（S3互換CLI）をインストール
+      - name: Install AWS CLI
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y awscli
+
+      # Cloudflare R2に v1 フォルダ内のファイルを一括でアップロード
+      - name: Upload v1 folder to Cloudflare R2
+        run: |
+          aws configure set aws_access_key_id ${{ secrets.CLOUDFLARE_ACCESS_KEY }}
+          aws configure set aws_secret_access_key ${{ secrets.CLOUDFLARE_SECRET_KEY }}
+          aws --endpoint-url=https://<your-account-id>.r2.cloudflarestorage.com s3 cp ./v1 s3://${{ secrets.CLOUDFLARE_BUCKET }}/pokedata/v1 --recursive
