@@ -20,7 +20,8 @@ jobs:
 
       # Cloudflare R2に v1 フォルダ内のファイルを一括でアップロード
       - name: Upload v1 folder to Cloudflare R2
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.CLOUDFLARE_ACCESS_KEY }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.CLOUDFLARE_SECRET_KEY }}
         run: |
-          aws configure set aws_access_key_id ${{ secrets.CLOUDFLARE_ACCESS_KEY }}
-          aws configure set aws_secret_access_key ${{ secrets.CLOUDFLARE_SECRET_KEY }}
           aws --endpoint-url=https://${{ vars.CLOUDFLARE_ACCOUNT_ID }}.r2.cloudflarestorage.com/${{ vars.CLOUDFLARE_BUCKET }} s3 cp ./v1 s3://${{ vars.CLOUDFLARE_BUCKET }}/pokedata/v1 --recursive
