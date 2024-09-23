@@ -8,7 +8,7 @@ on:
       - "v1/**" # v1配下のファイルが変更された場合のみ実行
 
 jobs:
-  upload-files-to-r2:
+  upload-v1-folder-to-r2:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository

@@ -8,7 +8,7 @@ on:
       - "icons/sv/**" # v1配下のファイルが変更された場合のみ実行
 
 jobs:
-  upload-files-to-r2:
+  upload-icons-to-r2:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
