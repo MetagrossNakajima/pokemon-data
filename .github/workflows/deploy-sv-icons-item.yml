@@ -35,7 +35,6 @@ jobs:
             --metadata-directive REPLACE \
             --delete \
             --exclude "*" --include "*.png" \
-            --profile default \
             --storage-class STANDARD \
             --content-type "image/png" \
             --follow-symlinks \
