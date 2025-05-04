@@ -5,10 +5,10 @@ on:
     branches:
       - main
     paths:
-      - "icons/sv/**" # v1配下のファイルが変更された場合のみ実行
+      - "sv/**"
 
 jobs:
-  upload-icons-to-r2:
+  upload-to-r2:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -27,4 +27,6 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.CLOUDFLARE_SECRET_KEY }}
           AWS_EC2_METADATA_DISABLED: true
         run: |
-          aws --debug --endpoint-url=https://${{ vars.CLOUDFLARE_ACCOUNT_ID }}.r2.cloudflarestorage.com s3 cp ./icons/sv s3://${{ vars.CLOUDFLARE_BUCKET }}/icons/sv --recursive
+          aws s3 sync ./sv s3://${{ vars.CLOUDFLARE_BUCKET }}/sv \
+            --endpoint-url=https://${{ vars.CLOUDFLARE_ACCOUNT_ID }}.r2.cloudflarestorage.com \
+            --exact-timestamps
