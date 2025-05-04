@@ -14319,8 +14319,23 @@
     },
     "Urshifu": {
         "pokedex": 892,
-        "ja": "ウーラオス(一撃)",
+        "ja": "ウーラオス",
         "en": "Urshifu",
+        "HP": 100,
+        "Atk": 130,
+        "Def": 100,
+        "Spa": 63,
+        "Spd": 60,
+        "Spe": 97,
+        "types": [
+            "Fighting",
+            "Dark"
+        ]
+    },
+    "Urshifu-Single-Strike": {
+        "pokedex": 892,
+        "ja": "ウーラオス(一撃)",
+        "en": "Urshifu-Single-Strike",
         "HP": 100,
         "Atk": 130,
         "Def": 100,
@@ -16367,6 +16382,21 @@
         "Spe": 44,
         "types": [
             "Grass",
+            "Dragon"
+        ]
+    },
+    "GougingFire": {
+        "pokedex": 1020,
+        "ja": "ウガツホムラ",
+        "en": "GougingFire",
+        "HP": 105,
+        "Atk": 115,
+        "Def": 121,
+        "Spa": 65,
+        "Spd": 93,
+        "Spe": 91,
+        "types": [
+            "Fire",
             "Dragon"
         ]
     },
