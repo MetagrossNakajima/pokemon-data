@@ -1,4 +1,4 @@
-name: Upload sv to Cloudflare R2
+name: Upload sv item icons to Cloudflare R2
 
 on:
   push:
