@@ -95,10 +95,6 @@
         "ja": "あくのはどう",
         "en": "Dark Pulse"
     },
-    "DragonCheer": {
-        "ja": "ドラゴンエール",
-        "en": "Dragon Cheer"
-    },
     "Yawn": {
         "ja": "あくび",
         "en": "Yawn"
@@ -2234,6 +2230,10 @@
     "DragonDarts": {
         "ja": "ドラゴンアロー",
         "en": "Dragon Darts"
+    },
+    "DragonCheer": {
+        "ja": "ドラゴンエール",
+        "en": "Dragon Cheer"
     },
     "DragonEnergy": {
         "ja": "ドラゴンエナジー",
