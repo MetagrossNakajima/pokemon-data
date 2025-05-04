@@ -27,4 +27,18 @@ jobs:
             --exact-timestamps \
             --no-guess-mime-type \
             --cli-read-timeout 300 \
-            --cli-connect-timeout 60
+            --cli-connect-timeout 60 \
+            --no-follow-symlinks \
+            --size-only \
+            --only-show-errors \
+            --quiet \
+            --metadata-directive REPLACE \
+            --delete \
+            --exclude "*" --include "*.png" \
+            --profile default \
+            --storage-class STANDARD \
+            --content-type "image/png" \
+            --follow-symlinks \
+            --region auto \
+            --no-progress \
+            --concurrency 5
