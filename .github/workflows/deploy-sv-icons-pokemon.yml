@@ -24,4 +24,7 @@ jobs:
         run: |
           aws s3 sync ./sv/icons/pokemon s3://${{ vars.CLOUDFLARE_BUCKET }}/sv/icons/pokemon \
             --endpoint-url=https://${{ vars.CLOUDFLARE_ACCOUNT_ID }}.r2.cloudflarestorage.com \
-            --exact-timestamps
+            --exact-timestamps \
+            --no-guess-mime-type \
+            --cli-read-timeout 300 \
+            --cli-connect-timeout 60
