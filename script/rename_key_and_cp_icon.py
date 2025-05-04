@@ -1,5 +1,5 @@
-from utils.json_utils import load_json, save_json
-from utils.copy_file import copy_file
+from script.json_utils import load_json, save_json
+from script.copy_file import copy_file
 from collections import OrderedDict
 
 pokemons = load_json("./v1/pokemons.json")

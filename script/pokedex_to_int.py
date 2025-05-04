@@ -1,4 +1,4 @@
-from utils.json_utils import load_json, save_json
+from script.json_utils import load_json, save_json
 
 pokemons = load_json("./v1/pokemons.json")
 result = {}
