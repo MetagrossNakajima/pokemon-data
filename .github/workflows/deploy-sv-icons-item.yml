@@ -40,5 +40,4 @@ jobs:
             --content-type "image/png" \
             --follow-symlinks \
             --region auto \
-            --no-progress \
-            --concurrency 5
+            --no-progress
