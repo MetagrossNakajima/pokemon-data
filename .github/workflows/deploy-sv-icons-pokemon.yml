@@ -1,0 +1,27 @@
+name: Upload sv to Cloudflare R2
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "sv/icons/pokemon/**"
+  workflow_dispatch:
+
+jobs:
+  upload-to-r2:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Cloudflare R2に v1 フォルダ内のファイルを一括でアップロード
+      - name: Upload sv/icons/pokemon
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.CLOUDFLARE_ACCESS_KEY }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.CLOUDFLARE_SECRET_KEY }}
+          AWS_EC2_METADATA_DISABLED: true
+        run: |
+          aws s3 sync ./sv/icons/pokemon s3://${{ vars.CLOUDFLARE_BUCKET }}/sv/icons/pokemon \
+            --endpoint-url=https://${{ vars.CLOUDFLARE_ACCOUNT_ID }}.r2.cloudflarestorage.com \
+            --exact-timestamps
