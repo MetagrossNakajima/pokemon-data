@@ -7982,8 +7982,8 @@
     },
     "Arceus": {
         "pokedex": 493,
-        "ja": "アルセウス",
-        "en": "Arceus",
+        "ja": "アルセウス(ノーマル)",
+        "en": "Arceus-Normal",
         "HP": 120,
         "Atk": 120,
         "Def": 120,
@@ -7992,6 +7992,244 @@
         "Spe": 120,
         "types": [
             "Normal"
+        ]
+    },
+    "Arceus-Fire": {
+        "pokedex": 493,
+        "ja": "アルセウス(ほのお)",
+        "en": "Arceus-Fire",
+        "HP": 120,
+        "Atk": 120,
+        "Def": 120,
+        "Spa": 120,
+        "Spd": 120,
+        "Spe": 120,
+        "types": [
+            "Fire"
+        ]
+    },
+    "Arceus-Water": {
+        "pokedex": 493,
+        "ja": "アルセウス(みず)",
+        "en": "Arceus-Water",
+        "HP": 120,
+        "Atk": 120,
+        "Def": 120,
+        "Spa": 120,
+        "Spd": 120,
+        "Spe": 120,
+        "types": [
+            "Water"
+        ]
+    },
+    "Arceus-Electric": {
+        "pokedex": 493,
+        "ja": "アルセウス(でんき)",
+        "en": "Arceus-Electric",
+        "HP": 120,
+        "Atk": 120,
+        "Def": 120,
+        "Spa": 120,
+        "Spd": 120,
+        "Spe": 120,
+        "types": [
+            "Electric"
+        ]
+    },
+    "Arceus-Grass": {
+        "pokedex": 493,
+        "ja": "アルセウス(くさ)",
+        "en": "Arceus-Grass",
+        "HP": 120,
+        "Atk": 120,
+        "Def": 120,
+        "Spa": 120,
+        "Spd": 120,
+        "Spe": 120,
+        "types": [
+            "Grass"
+        ]
+    },
+    "Arceus-Ice": {
+        "pokedex": 493,
+        "ja": "アルセウス(こおり)",
+        "en": "Arceus-Ice",
+        "HP": 120,
+        "Atk": 120,
+        "Def": 120,
+        "Spa": 120,
+        "Spd": 120,
+        "Spe": 120,
+        "types": [
+            "Ice"
+        ]
+    },
+    "Arceus-Fighting": {
+        "pokedex": 493,
+        "ja": "アルセウス(かくとう)",
+        "en": "Arceus-Fighting",
+        "HP": 120,
+        "Atk": 120,
+        "Def": 120,
+        "Spa": 120,
+        "Spd": 120,
+        "Spe": 120,
+        "types": [
+            "Fighting"
+        ]
+    },
+    "Arceus-Poison": {
+        "pokedex": 493,
+        "ja": "アルセウス(どく)",
+        "en": "Arceus-Poison",
+        "HP": 120,
+        "Atk": 120,
+        "Def": 120,
+        "Spa": 120,
+        "Spd": 120,
+        "Spe": 120,
+        "types": [
+            "Poison"
+        ]
+    },
+    "Arceus-Ground": {
+        "pokedex": 493,
+        "ja": "アルセウス(じめん)",
+        "en": "Arceus-Ground",
+        "HP": 120,
+        "Atk": 120,
+        "Def": 120,
+        "Spa": 120,
+        "Spd": 120,
+        "Spe": 120,
+        "types": [
+            "Ground"
+        ]
+    },
+    "Arceus-Flying": {
+        "pokedex": 493,
+        "ja": "アルセウス(ひこう)",
+        "en": "Arceus-Flying",
+        "HP": 120,
+        "Atk": 120,
+        "Def": 120,
+        "Spa": 120,
+        "Spd": 120,
+        "Spe": 120,
+        "types": [
+            "Flying"
+        ]
+    },
+    "Arceus-Psychic": {
+        "pokedex": 493,
+        "ja": "アルセウス(エスパー)",
+        "en": "Arceus-Psychic",
+        "HP": 120,
+        "Atk": 120,
+        "Def": 120,
+        "Spa": 120,
+        "Spd": 120,
+        "Spe": 120,
+        "types": [
+            "Psychic"
+        ]
+    },
+    "Arceus-Bug": {
+        "pokedex": 493,
+        "ja": "アルセウス(むし)",
+        "en": "Arceus-Bug",
+        "HP": 120,
+        "Atk": 120,
+        "Def": 120,
+        "Spa": 120,
+        "Spd": 120,
+        "Spe": 120,
+        "types": [
+            "Bug"
+        ]
+    },
+    "Arceus-Rock": {
+        "pokedex": 493,
+        "ja": "アルセウス(いわ)",
+        "en": "Arceus-Rock",
+        "HP": 120,
+        "Atk": 120,
+        "Def": 120,
+        "Spa": 120,
+        "Spd": 120,
+        "Spe": 120,
+        "types": [
+            "Rock"
+        ]
+    },
+    "Arceus-Ghost": {
+        "pokedex": 493,
+        "ja": "アルセウス(ゴースト)",
+        "en": "Arceus-Ghost",
+        "HP": 120,
+        "Atk": 120,
+        "Def": 120,
+        "Spa": 120,
+        "Spd": 120,
+        "Spe": 120,
+        "types": [
+            "Ghost"
+        ]
+    },
+    "Arceus-Dragon": {
+        "pokedex": 493,
+        "ja": "アルセウス(ドラゴン)",
+        "en": "Arceus-Dragon",
+        "HP": 120,
+        "Atk": 120,
+        "Def": 120,
+        "Spa": 120,
+        "Spd": 120,
+        "Spe": 120,
+        "types": [
+            "Dragon"
+        ]
+    },
+    "Arceus-Dark": {
+        "pokedex": 493,
+        "ja": "アルセウス(あく)",
+        "en": "Arceus-Dark",
+        "HP": 120,
+        "Atk": 120,
+        "Def": 120,
+        "Spa": 120,
+        "Spd": 120,
+        "Spe": 120,
+        "types": [
+            "Dark"
+        ]
+    },
+    "Arceus-Steel": {
+        "pokedex": 493,
+        "ja": "アルセウス(はがね)",
+        "en": "Arceus-Steel",
+        "HP": 120,
+        "Atk": 120,
+        "Def": 120,
+        "Spa": 120,
+        "Spd": 120,
+        "Spe": 120,
+        "types": [
+            "Steel"
+        ]
+    },
+    "Arceus-Fairy": {
+        "pokedex": 493,
+        "ja": "アルセウス(フェアリー)",
+        "en": "Arceus-Fairy",
+        "HP": 120,
+        "Atk": 120,
+        "Def": 120,
+        "Spa": 120,
+        "Spd": 120,
+        "Spe": 120,
+        "types": [
+            "Fairy"
         ]
     },
     "Victini": {
