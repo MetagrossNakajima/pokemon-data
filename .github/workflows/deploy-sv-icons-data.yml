@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - "sv/data/**"
+      - "data/v1/**"
   workflow_dispatch:
 
 jobs:
@@ -16,12 +16,12 @@ jobs:
         uses: actions/checkout@v3
 
       # Cloudflare R2に v1 フォルダ内のファイルを一括でアップロード
-      - name: Upload sv/data
+      - name: Upload data/v1
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.CLOUDFLARE_ACCESS_KEY }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.CLOUDFLARE_SECRET_KEY }}
           AWS_EC2_METADATA_DISABLED: true
         run: |
-          aws s3 sync ./sv/data s3://${{ vars.CLOUDFLARE_BUCKET }}/sv/data \
+          aws s3 sync ./data/v1 s3://${{ vars.CLOUDFLARE_BUCKET }}/data/v1 \
             --endpoint-url=https://${{ vars.CLOUDFLARE_ACCOUNT_ID }}.r2.cloudflarestorage.com \
             --exact-timestamps
