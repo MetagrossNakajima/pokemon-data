@@ -1,0 +1,42 @@
+name: Upload sv pokemon icons to Cloudflare R2
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "icons/v1/teras/**"
+  workflow_dispatch:
+
+jobs:
+  upload-to-r2:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Cloudflare R2に v1 フォルダ内のファイルを一括でアップロード
+      - name: Upload icons/v1/teras
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.CLOUDFLARE_ACCESS_KEY }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.CLOUDFLARE_SECRET_KEY }}
+          AWS_EC2_METADATA_DISABLED: true
+        run: |
+          aws s3 sync ./icons/v1/teras s3://${{ vars.CLOUDFLARE_BUCKET }}/icons/v1/teras \
+            --endpoint-url=https://${{ vars.CLOUDFLARE_ACCOUNT_ID }}.r2.cloudflarestorage.com \
+            --exact-timestamps \
+            --no-guess-mime-type \
+            --cli-read-timeout 300 \
+            --cli-connect-timeout 60 \
+            --no-follow-symlinks \
+            --size-only \
+            --only-show-errors \
+            --quiet \
+            --metadata-directive REPLACE \
+            --delete \
+            --exclude "*" --include "*.webp" \
+            --storage-class STANDARD \
+            --content-type "image/webp" \
+            --follow-symlinks \
+            --region auto \
+            --no-progress
