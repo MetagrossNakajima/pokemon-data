@@ -7980,7 +7980,7 @@
             "Flying"
         ]
     },
-     "Arceus-Normal": {
+     "Arceus": {
         "pokedex": 493,
         "ja": "アルセウス",
         "en": "Arceus-Normal",
@@ -7994,7 +7994,7 @@
             "Normal"
         ]
     },
-    "Arceus": {
+    "Arceus-Normal": {
         "pokedex": 493,
         "ja": "アルセウス(ノーマル)",
         "en": "Arceus-Normal",
