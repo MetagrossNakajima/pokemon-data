@@ -16697,7 +16697,7 @@
             "Steel"
         ]
     },
-    "Terapagos": {
+    "Terapagos-Normal": {
         "pokedex": 1024,
         "ja": "テラパゴス(ノーマル)",
         "en": "Terapagos-Normal",
@@ -16711,7 +16711,7 @@
             "Normal"
         ]
     },
-    "Terapagos-Terastal": {
+    "Terapagos": {
         "pokedex": 1024,
         "ja": "テラパゴス",
         "en": "Terapagos",
