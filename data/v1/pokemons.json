@@ -7980,6 +7980,20 @@
             "Flying"
         ]
     },
+     "Arceus-Normal": {
+        "pokedex": 493,
+        "ja": "アルセウス",
+        "en": "Arceus-Normal",
+        "HP": 120,
+        "Atk": 120,
+        "Def": 120,
+        "Spa": 120,
+        "Spd": 120,
+        "Spe": 120,
+        "types": [
+            "Normal"
+        ]
+    },
     "Arceus": {
         "pokedex": 493,
         "ja": "アルセウス(ノーマル)",
@@ -16686,7 +16700,7 @@
     "Terapagos": {
         "pokedex": 1024,
         "ja": "テラパゴス(ノーマル)",
-        "en": "Terapagos",
+        "en": "Terapagos-Normal",
         "HP": 90,
         "Atk": 65,
         "Def": 85,
@@ -16700,7 +16714,7 @@
     "Terapagos-Terastal": {
         "pokedex": 1024,
         "ja": "テラパゴス(テラスタル)",
-        "en": "Terapagos-Terastal",
+        "en": "Terapagos",
         "HP": 95,
         "Atk": 95,
         "Def": 110,
