@@ -1,4 +1,4 @@
-name: Upload sv pokemon icons to Cloudflare R2
+name: Upload v2 pokemon icons to Cloudflare R2
 
 on:
   push:
