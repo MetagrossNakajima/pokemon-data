@@ -192,5 +192,5 @@ JSONにフォルム別エントリがなく、ベースファイル1枚で十分
 
 ## 使用スクリプト
 
-- `script/convert_png_to_webp.py` - PNG → WebP 変換
-- `script/rename_numbered_sprites.py` - 連番リネーム
+- `scripts/convert_png_to_webp.py` - PNG → WebP 変換
+- `scripts/rename_numbered_sprites.py` - 連番リネーム

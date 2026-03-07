@@ -15,6 +15,18 @@ HYPHEN_BASE_NAMES = {
     'Wo-Chien', 'Chien-Pao', 'Ting-Lu', 'Chi-Yu',
 }
 
+# Primal forms: key -> base_form
+PRIMAL_FORMS = {
+    'Groudon-Primal': 'Groudon',
+    'Kyogre-Primal': 'Kyogre',
+}
+
+# Crowned forms: key -> base_form
+CROWNED_FORMS = {
+    'Zacian-Crowned': 'Zacian',
+    'Zamazenta-Crowned': 'Zamazenta',
+}
+
 # Fusion forms: key -> base_form
 FUSION_FORMS = {
     'Kyurem-White': 'Kyurem',
@@ -34,6 +46,12 @@ def classify_form(key):
     if '-Mega' in key:
         base = key.split('-Mega')[0]
         return 'mega', base
+
+    if key in PRIMAL_FORMS:
+        return 'primal', PRIMAL_FORMS[key]
+
+    if key in CROWNED_FORMS:
+        return 'crowned', CROWNED_FORMS[key]
 
     if key in FUSION_FORMS:
         return 'fusion', FUSION_FORMS[key]

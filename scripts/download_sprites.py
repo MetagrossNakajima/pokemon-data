@@ -6,8 +6,8 @@ import time
 import urllib.request
 import urllib.error
 
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
-from script.json_utils import load_json
+sys.path.append(os.path.dirname(__file__))
+from json_utils import load_json
 
 BASE_URL = "https://projectpokemon.org/images/sprites-models/sv-sprites-home"
 SAVE_DIR = os.path.join(os.path.dirname(__file__), "..", "icons", "v2")

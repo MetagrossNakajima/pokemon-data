@@ -1,8 +1,13 @@
-from script.json_utils import load_json, save_json
-from script.copy_file import copy_file
+import os
+import sys
+
+sys.path.append(os.path.dirname(__file__))
+from json_utils import load_json, save_json
+from copy_file import copy_file
 from collections import OrderedDict
 
-pokemons = load_json("./v1/pokemons.json")
+DATA_DIR = os.path.join(os.path.dirname(__file__), '..', 'data', 'v1')
+pokemons = load_json(os.path.join(DATA_DIR, "pokemons.json"))
 result = {}
 
 for key, value in pokemons.items():
@@ -18,4 +23,4 @@ for key, value in pokemons.items():
 
     copy_file(f"icons/sv/pokeicon/{key}.png", f"pokeicon/{newKey}.png")
 
-save_json("pokemons.json", result)
+save_json(os.path.join(DATA_DIR, "pokemons.json"), result)
