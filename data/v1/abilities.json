@@ -1210,5 +1210,17 @@
     "Pickpocket": {
         "ja": "わるいてぐせ",
         "en": "Pickpocket"
+    },
+    "TeraShift": {
+        "ja": "テラスチェンジ",
+        "en": "Tera Shift"
+    },
+    "TeraShell": {
+        "ja": "テラスシェル",
+        "en": "Tera Shell"
+    },
+    "ZeroForming": {
+        "ja": "ゼロフォーミング",
+        "en": "Zero Forming"
     }
 }
