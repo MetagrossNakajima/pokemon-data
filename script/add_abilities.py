@@ -87,6 +87,24 @@ FORM_NAME_MAP = {
     'とほフォルム': None,
 }
 
+# ZA/M次元ラッシュ megas: abilities not yet announced, force empty
+FORCE_EMPTY_ABILITIES = {
+    # Pokemon ZA (25)
+    'Clefable-Mega', 'Victreebel-Mega', 'Starmie-Mega', 'Dragonite-Mega',
+    'Meganium-Mega', 'Feraligatr-Mega', 'Skarmory-Mega', 'Froslass-Mega',
+    'Emboar-Mega', 'Excadrill-Mega', 'Scolipede-Mega', 'Scrafty-Mega',
+    'Eelektross-Mega', 'Chandelure-Mega',
+    'Pyroar-Mega', 'Floette-Mega', 'Malamar-Mega',
+    'Barbaracle-Mega', 'Dragalge-Mega', 'Hawlucha-Mega', 'Zygarde-Mega',
+    'Drampa-Mega', 'Falinks-Mega', 'Crabominable-Mega',
+    # M次元ラッシュ (18)
+    'Raichu-Mega-X', 'Raichu-Mega-Y', 'Chimecho-Mega', 'Lucario-Mega-Z',
+    'Absol-Mega-Z', 'Staraptor-Mega', 'Tatsugiri-Mega', 'Meowstic-Mega',
+    'Heatran-Mega', 'Golurk-Mega', 'Golisopod-Mega', 'Scovillain-Mega',
+    'Glimmora-Mega', 'Darkrai-Mega', 'Magearna-Mega', 'Zeraora-Mega',
+    'Baxcalibur-Mega',
+}
+
 # Missing abilities to add to abilities.json
 MISSING_ABILITIES = {
     'TeraShift': {'ja': 'テラスチェンジ', 'en': 'Tera Shift'},
@@ -339,6 +357,11 @@ def main():
                         all_forms_apply.append((k, ja))
             else:
                 unmatched_csv.append((pokedex, base_name, None))
+
+    # Force empty abilities for ZA/M次元ラッシュ megas (abilities not yet announced)
+    for key in FORCE_EMPTY_ABILITIES:
+        if key in pokemons:
+            assigned[key] = []
 
     # Apply abilities to pokemons.json
     new_pokemons = {}
