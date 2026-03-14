@@ -1,152 +1,152 @@
 {
-    "Adamant": {
-        "ja": "いじっぱり",
-        "en": "Adamant",
-        "up": "Atk",
-        "down": "Spa"
-    },
-    "Bashful": {
-        "ja": "てれや",
-        "en": "Bashful",
-        "up": "",
-        "down": ""
-    },
-    "Bold": {
-        "ja": "ずぶとい",
-        "en": "Bold",
-        "up": "Def",
-        "down": "Atk"
-    },
-    "Brave": {
-        "ja": "ゆうかん",
-        "en": "Brave",
-        "up": "Atk",
-        "down": "Spe"
-    },
-    "Calm": {
-        "ja": "おだやか",
-        "en": "Calm",
-        "up": "Spd",
-        "down": "Atk"
-    },
-    "Careful": {
-        "ja": "しんちょう",
-        "en": "Careful",
-        "up": "Spd",
-        "down": "Spa"
-    },
-    "Docile": {
-        "ja": "すなお",
-        "en": "Docile",
-        "up": "",
-        "down": ""
-    },
-    "Gentle": {
-        "ja": "おとなしい",
-        "en": "Gentle",
-        "up": "Spd",
-        "down": "Def"
-    },
-    "Hardy": {
-        "ja": "がんばりや",
-        "en": "Hardy",
-        "up": "",
-        "down": ""
-    },
-    "Hasty": {
-        "ja": "せっかち",
-        "en": "Hasty",
-        "up": "Spe",
-        "down": "Def"
-    },
-    "Impish": {
-        "ja": "わんぱく",
-        "en": "Impish",
-        "up": "Def",
-        "down": "Spa"
-    },
-    "Jolly": {
-        "ja": "ようき",
-        "en": "Jolly",
-        "up": "Spe",
-        "down": "Spa"
-    },
-    "Lax": {
-        "ja": "のうてんき",
-        "en": "Lax",
-        "up": "Def",
-        "down": "Spd"
-    },
-    "Lonely": {
-        "ja": "さみしがり",
-        "en": "Lonely",
-        "up": "Atk",
-        "down": "Def"
-    },
-    "Mild": {
-        "ja": "おっとり",
-        "en": "Mild",
-        "up": "Spa",
-        "down": "Def"
-    },
-    "Modest": {
-        "ja": "ひかえめ",
-        "en": "Modest",
-        "up": "Spa",
-        "down": "Atk"
-    },
-    "Naive": {
-        "ja": "むじゃき",
-        "en": "Naive",
-        "up": "Spe",
-        "down": "Spd"
-    },
-    "Naughty": {
-        "ja": "やんちゃ",
-        "en": "Naughty",
-        "up": "Atk",
-        "down": "Spd"
-    },
-    "Quiet": {
-        "ja": "れいせい",
-        "en": "Quiet",
-        "up": "Spa",
-        "down": "Spe"
-    },
-    "Quirky": {
-        "ja": "きまぐれ",
-        "en": "Quirky",
-        "up": "",
-        "down": ""
-    },
-    "Rash": {
-        "ja": "うっかりや",
-        "en": "Rash",
-        "up": "Spa",
-        "down": "Spd"
-    },
-    "Relaxed": {
-        "ja": "のんき",
-        "en": "Relaxed",
-        "up": "Def",
-        "down": "Spe"
-    },
-    "Sassy": {
-        "ja": "なまいき",
-        "en": "Sassy",
-        "up": "Spd",
-        "down": "Spe"
-    },
-    "Serious": {
-        "ja": "まじめ",
-        "en": "Serious",
-        "up": "",
-        "down": ""
-    },
-    "Timid": {
-        "ja": "おくびょう",
-        "en": "Timid",
-        "up": "Spe",
-        "down": "Atk"
-    }
+  "Adamant": {
+    "ja": "いじっぱり",
+    "en": "Adamant",
+    "up": "Atk",
+    "down": "Spa"
+  },
+  "Bashful": {
+    "ja": "てれや",
+    "en": "Bashful",
+    "up": "",
+    "down": ""
+  },
+  "Bold": {
+    "ja": "ずぶとい",
+    "en": "Bold",
+    "up": "Def",
+    "down": "Atk"
+  },
+  "Brave": {
+    "ja": "ゆうかん",
+    "en": "Brave",
+    "up": "Atk",
+    "down": "Spe"
+  },
+  "Calm": {
+    "ja": "おだやか",
+    "en": "Calm",
+    "up": "Spd",
+    "down": "Atk"
+  },
+  "Careful": {
+    "ja": "しんちょう",
+    "en": "Careful",
+    "up": "Spd",
+    "down": "Spa"
+  },
+  "Docile": {
+    "ja": "すなお",
+    "en": "Docile",
+    "up": "",
+    "down": ""
+  },
+  "Gentle": {
+    "ja": "おとなしい",
+    "en": "Gentle",
+    "up": "Spd",
+    "down": "Def"
+  },
+  "Hardy": {
+    "ja": "がんばりや",
+    "en": "Hardy",
+    "up": "",
+    "down": ""
+  },
+  "Hasty": {
+    "ja": "せっかち",
+    "en": "Hasty",
+    "up": "Spe",
+    "down": "Def"
+  },
+  "Impish": {
+    "ja": "わんぱく",
+    "en": "Impish",
+    "up": "Def",
+    "down": "Spa"
+  },
+  "Jolly": {
+    "ja": "ようき",
+    "en": "Jolly",
+    "up": "Spe",
+    "down": "Spa"
+  },
+  "Lax": {
+    "ja": "のうてんき",
+    "en": "Lax",
+    "up": "Def",
+    "down": "Spd"
+  },
+  "Lonely": {
+    "ja": "さみしがり",
+    "en": "Lonely",
+    "up": "Atk",
+    "down": "Def"
+  },
+  "Mild": {
+    "ja": "おっとり",
+    "en": "Mild",
+    "up": "Spa",
+    "down": "Def"
+  },
+  "Modest": {
+    "ja": "ひかえめ",
+    "en": "Modest",
+    "up": "Spa",
+    "down": "Atk"
+  },
+  "Naive": {
+    "ja": "むじゃき",
+    "en": "Naive",
+    "up": "Spe",
+    "down": "Spd"
+  },
+  "Naughty": {
+    "ja": "やんちゃ",
+    "en": "Naughty",
+    "up": "Atk",
+    "down": "Spd"
+  },
+  "Quiet": {
+    "ja": "れいせい",
+    "en": "Quiet",
+    "up": "Spa",
+    "down": "Spe"
+  },
+  "Quirky": {
+    "ja": "きまぐれ",
+    "en": "Quirky",
+    "up": "",
+    "down": ""
+  },
+  "Rash": {
+    "ja": "うっかりや",
+    "en": "Rash",
+    "up": "Spa",
+    "down": "Spd"
+  },
+  "Relaxed": {
+    "ja": "のんき",
+    "en": "Relaxed",
+    "up": "Def",
+    "down": "Spe"
+  },
+  "Sassy": {
+    "ja": "なまいき",
+    "en": "Sassy",
+    "up": "Spd",
+    "down": "Spe"
+  },
+  "Serious": {
+    "ja": "まじめ",
+    "en": "Serious",
+    "up": "",
+    "down": ""
+  },
+  "Timid": {
+    "ja": "おくびょう",
+    "en": "Timid",
+    "up": "Spe",
+    "down": "Atk"
+  }
 }
