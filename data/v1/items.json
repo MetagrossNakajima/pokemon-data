@@ -99,6 +99,11 @@
         "ja": "インドメタシン",
         "en": "Carbos"
     },
+    "WikiBerry": {
+        "category": "item",
+        "ja": "ウイのみ",
+        "en": "Wiki Berry"
+    },
     "PayapaBerry": {
         "category": "item",
         "ja": "ウタンのみ",
@@ -593,6 +598,16 @@
         "category": "item",
         "ja": "しんかのきせき",
         "en": "Eviolite"
+    },
+    "DeepSeaTooth": {
+        "category": "item",
+        "ja": "しんかいのキバ",
+        "en": "Deep Sea Tooth"
+    },
+    "DeepSeaScale": {
+        "category": "item",
+        "ja": "しんかいのウロコ",
+        "en": "Deep Sea Scale"
     },
     "CarefulMint": {
         "category": "item",
@@ -1199,6 +1214,11 @@
         "ja": "ふしぎのプレート",
         "en": "Mind Plate"
     },
+    "ThickClub": {
+        "category": "item",
+        "ja": "ふといほね",
+        "en": "Thick Club"
+    },
     "BoosterEnergy": {
         "category": "item",
         "ja": "ブーストエナジー",
@@ -1603,6 +1623,11 @@
         "category": "item",
         "ja": "レンブのみ",
         "en": "Rowap Berry"
+    },
+    "RoseliBerry": {
+        "category": "item",
+        "ja": "ロゼルのみ",
+        "en": "Roseli Berry"
     },
     "HondewBerry": {
         "category": "item",
