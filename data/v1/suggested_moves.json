@@ -8,6 +8,30 @@
         "Protect",
         "WeatherBall"
     ],
+    "Aegislash": [
+        "KingsShield",
+        "ShadowSneak",
+        "Poltergeist",
+        "ShadowBall",
+        "IronHead",
+        "FlashCannon",
+        "WideGuard",
+        "SacredSword",
+        "CloseCombat",
+        "Substitute"
+    ],
+    "Aerodactyl": [
+        "RockSlide",
+        "DualWingbeat",
+        "Protect",
+        "Tailwind",
+        "IceFang",
+        "WideGuard",
+        "IronHead",
+        "Taunt",
+        "StoneEdge",
+        "Crunch"
+    ],
     "Alcremie": [
         "Decorate",
         "FakeTears",
@@ -97,7 +121,11 @@
         "RockSlide",
         "WildCharge",
         "DoubleEdge",
-        "CloseCombat"
+        "CloseCombat",
+        "Protect",
+        "Howl",
+        "RockTomb",
+        "PsychicFangs"
     ],
     "Archaludon": [
         "ElectroShot",
@@ -109,7 +137,10 @@
         "FoulPlay",
         "ThunderWave",
         "Protect",
-        "DragonPulse"
+        "DragonPulse",
+        "AuraSphere",
+        "Thunderbolt",
+        "SteelBeam"
     ],
     "Armarouge": [
         "ArmorCannon",
@@ -157,7 +188,11 @@
         "Protect",
         "Encore",
         "BellyDrum",
-        "TeraBlast"
+        "TeraBlast",
+        "Superpower",
+        "IceSpinner",
+        "AquaTail",
+        "Waterfall"
     ],
     "Basculegion": [
         "LastRespects",
@@ -169,7 +204,10 @@
         "FlipTurn",
         "TeraBlast",
         "Agility",
-        "PsychicFangs"
+        "PsychicFangs",
+        "IcyWind",
+        "HeadSmash",
+        "IceFang"
     ],
     "Baxcalibur": [
         "IcicleSpear",
@@ -187,7 +225,17 @@
         "AquaJet",
         "LifeDew",
         "IronDefense",
-        "BodyPress"
+        "BodyPress",
+        "WaterSpout",
+        "Protect",
+        "AuraSphere",
+        "ShellSmash",
+        "IceBeam",
+        "DarkPulse",
+        "FakeOut",
+        "MuddyWater",
+        "WaterPulse",
+        "FlipTurn"
     ],
     "Blaziken": [
         "KnockOff",
@@ -315,7 +363,12 @@
         "DragonPulse",
         "FlareBlitz",
         "DragonDance",
-        "DragonClaw"
+        "DragonClaw",
+        "FlameCharge",
+        "Outrage",
+        "Overheat",
+        "AncientPower",
+        "Flamethrower"
     ],
     "Chi-Yu": [
         "HeatWave",
@@ -357,7 +410,16 @@
         "Substitute",
         "Trick",
         "DrainingKiss",
-        "BatonPass"
+        "BatonPass",
+        "FollowMe",
+        "Protect",
+        "LifeDew",
+        "HelpingHand",
+        "ThunderWave",
+        "Thunderbolt",
+        "IceBeam",
+        "IcyWind",
+        "DazzlingGleam"
     ],
     "Clefairy": [
         "FollowMe",
@@ -407,6 +469,18 @@
         "Taunt",
         "TeraBlast"
     ],
+    "Conkeldurr": [
+        "DrainPunch",
+        "MachPunch",
+        "IcePunch",
+        "ThunderPunch",
+        "Protect",
+        "WideGuard",
+        "KnockOff",
+        "RockSlide",
+        "PoisonJab",
+        "Detect"
+    ],
     "Corviknight": [
         "Roost",
         "BodyPress",
@@ -417,7 +491,23 @@
         "Defog",
         "Protect",
         "LightScreen",
-        "PowerTrip"
+        "PowerTrip",
+        "BraveBird",
+        "Tailwind",
+        "BulkUp",
+        "DualWingbeat"
+    ],
+    "Crabominable": [
+        "IceHammer",
+        "Protect",
+        "MachPunch",
+        "DrainPunch",
+        "CloseCombat",
+        "ThunderPunch",
+        "WideGuard",
+        "IcePunch",
+        "Crabhammer",
+        "RockSlide"
     ],
     "Cramorant": [
         "Surf",
@@ -453,7 +543,12 @@
         "StoredPower",
         "WillOWisp",
         "DazzlingGleam",
-        "FireBlast"
+        "FireBlast",
+        "HeatWave",
+        "NastyPlot",
+        "Flamethrower",
+        "Substitute",
+        "Psyshock"
     ],
     "Dialga": [
         "SteelBeam",
@@ -504,7 +599,11 @@
         "Curse",
         "PhantomForce",
         "TeraBlast",
-        "LightScreen"
+        "LightScreen",
+        "Protect",
+        "ShadowBall",
+        "DracoMeteor",
+        "DragonDance"
     ],
     "Dragonite": [
         "ExtremeSpeed",
@@ -516,7 +615,14 @@
         "DragonDance",
         "Encore",
         "ScaleShot",
-        "IronHead"
+        "IronHead",
+        "Protect",
+        "Tailwind",
+        "Hurricane",
+        "DracoMeteor",
+        "DragonPulse",
+        "Thunder",
+        "IceBeam"
     ],
     "Dugtrio": [
         "SuckerPunch",
@@ -595,7 +701,11 @@
         "ThroatChop",
         "HornDrill",
         "Fissure",
-        "ShadowClaw"
+        "ShadowClaw",
+        "Protect",
+        "HighHorsepower",
+        "DrillRun",
+        "StompingTantrum"
     ],
     "Farigiraf": [
         "TrickRoom",
@@ -607,7 +717,22 @@
         "Roar",
         "Imprison",
         "HyperVoice",
-        "ShadowBall"
+        "ShadowBall",
+        "DazzlingGleam",
+        "TwinBeam",
+        "AllySwitch"
+    ],
+    "Feraligatr": [
+        "Protect",
+        "DoubleEdge",
+        "Liquidation",
+        "DragonDance",
+        "AquaJet",
+        "BodySlam",
+        "Superpower",
+        "SwordsDance",
+        "Earthquake",
+        "Waterfall"
     ],
     "Fezandipiti": [
         "Roost",
@@ -633,6 +758,18 @@
         "DualWingbeat",
         "QuickGuard"
     ],
+    "Floette": [
+        "Protect",
+        "DazzlingGleam",
+        "CalmMind",
+        "Moonblast",
+        "LightofRuin",
+        "DrainingKiss",
+        "Psychic",
+        "Synthesis",
+        "GigaDrain",
+        "RainDance"
+    ],
     "FlutterMane": [
         "Moonblast",
         "ShadowBall",
@@ -657,6 +794,18 @@
         "Payback",
         "Curse"
     ],
+    "Froslass": [
+        "Blizzard",
+        "Protect",
+        "ShadowBall",
+        "AuroraVeil",
+        "IcyWind",
+        "Thunderbolt",
+        "Disable",
+        "DestinyBond",
+        "NastyPlot",
+        "Taunt"
+    ],
     "Gallade": [
         "SacredSword",
         "WideGuard",
@@ -679,7 +828,12 @@
         "Spikes",
         "Bulldoze",
         "SwordsDance",
-        "IronHead"
+        "IronHead",
+        "Outrage",
+        "RockTomb",
+        "DragonClaw",
+        "BreakingSwipe",
+        "PoisonJab"
     ],
     "Gardevoir": [
         "Moonblast",
@@ -691,7 +845,14 @@
         "MysticalFire",
         "DestinyBond",
         "Psyshock",
-        "TeraBlast"
+        "TeraBlast",
+        "Protect",
+        "HyperVoice",
+        "TrickRoom",
+        "DazzlingGleam",
+        "CalmMind",
+        "IcyWind",
+        "AuraSphere"
     ],
     "Garganacl": [
         "SaltCure",
@@ -727,7 +888,14 @@
         "ThunderWave",
         "Trick",
         "WillOWisp",
-        "Taunt"
+        "Taunt",
+        "SludgeWave",
+        "Protect",
+        "PerishSong",
+        "Substitute",
+        "IcyWind",
+        "Disable",
+        "Psychic"
     ],
     "Gholdengo": [
         "MakeItRain",
@@ -781,7 +949,12 @@
         "MudShot",
         "Endure",
         "ToxicSpikes",
-        "MeteorBeam"
+        "MeteorBeam",
+        "SludgeWave",
+        "Protect",
+        "DazzlingGleam",
+        "Substitute",
+        "EnergyBall"
     ],
     "Gliscor": [
         "Protect",
@@ -794,6 +967,18 @@
         "StealthRock",
         "Bulldoze",
         "SwordsDance"
+    ],
+    "Goodra": [
+        "Shelter",
+        "BodyPress",
+        "Protect",
+        "FlashCannon",
+        "HeavySlam",
+        "LifeDew",
+        "DragonPulse",
+        "Thunderbolt",
+        "IceBeam",
+        "HydroPump"
     ],
     "Goodra-Hisui": [
         "KnockOff",
@@ -865,7 +1050,14 @@
         "Switcheroo",
         "ShadowSneak",
         "SludgeWave",
-        "Uturn"
+        "Uturn",
+        "Protect",
+        "RockSlide",
+        "GunkShot",
+        "LowKick",
+        "HydroPump",
+        "WeatherBall",
+        "Blizzard"
     ],
     "Grimmsnarl": [
         "SpiritBreak",
@@ -901,7 +1093,10 @@
         "Crunch",
         "TeraBlast",
         "StoneEdge",
-        "ScaleShot"
+        "ScaleShot",
+        "Protect",
+        "PowerWhip",
+        "HelpingHand"
     ],
     "Hatterene": [
         "TrickRoom",
@@ -937,7 +1132,10 @@
         "Crunch",
         "IceFang",
         "BodyPress",
-        "TeraBlast"
+        "TeraBlast",
+        "RockTomb",
+        "Protect",
+        "Fissure"
     ],
     "Hitmonchan": [
         "FakeOut",
@@ -965,6 +1163,18 @@
         "TeraBlast",
         "PsychUp"
     ],
+    "Hydreigon": [
+        "DarkPulse",
+        "DracoMeteor",
+        "Protect",
+        "Tailwind",
+        "Snarl",
+        "EarthPower",
+        "Flamethrower",
+        "Uturn",
+        "HeatWave",
+        "FocusBlast"
+    ],
     "Illumise": [
         "Encore",
         "StruggleBug",
@@ -981,7 +1191,11 @@
         "Bulldoze",
         "Roar",
         "Taunt",
-        "HelpingHand"
+        "HelpingHand",
+        "DarkestLariat",
+        "ThroatChop",
+        "Protect",
+        "Snarl"
     ],
     "Indeedee": [
         "ExpandingForce",
@@ -1098,6 +1312,18 @@
         "StrengthSap",
         "Protect"
     ],
+    "Kangaskhan": [
+        "FakeOut",
+        "DoubleEdge",
+        "SuckerPunch",
+        "LowKick",
+        "DrainPunch",
+        "Protect",
+        "BodySlam",
+        "Crunch",
+        "HammerArm",
+        "IcePunch"
+    ],
     "Kingambit": [
         "SuckerPunch",
         "KowtowCleave",
@@ -1108,7 +1334,10 @@
         "Guillotine",
         "TeraBlast",
         "Taunt",
-        "BrickBreak"
+        "BrickBreak",
+        "Assurance",
+        "ThroatChop",
+        "Substitute"
     ],
     "Kleavor": [
         "StoneAxe",
@@ -1120,7 +1349,11 @@
         "SwordsDance",
         "QuickAttack",
         "Uturn",
-        "Counter"
+        "Counter",
+        "Protect",
+        "Tailwind",
+        "DualWingbeat",
+        "RockSlide"
     ],
     "Klefki": [
         "LightScreen",
@@ -1140,6 +1373,18 @@
         "Protect",
         "Taunt",
         "Haze"
+    ],
+    "Kommo-o": [
+        "Protect",
+        "ClangingScales",
+        "AuraSphere",
+        "ClangorousSoul",
+        "Flamethrower",
+        "BodyPress",
+        "IronDefense",
+        "DracoMeteor",
+        "VacuumWave",
+        "FlashCannon"
     ],
     "Koraidon": [
         "FlareBlitz",
@@ -1247,6 +1492,18 @@
         "Coaching",
         "PollenPuff"
     ],
+    "Lopunny": [
+        "CloseCombat",
+        "FakeOut",
+        "Protect",
+        "TripleAxel",
+        "Encore",
+        "IcePunch",
+        "Uturn",
+        "GigaImpact",
+        "Facade",
+        "AfterYou"
+    ],
     "Lucario": [
         "CloseCombat",
         "BulletPunch",
@@ -1257,7 +1514,11 @@
         "FlashCannon",
         "Counter",
         "AuraSphere",
-        "StoneEdge"
+        "StoneEdge",
+        "MeteorMash",
+        "Protect",
+        "Detect",
+        "VacuumWave"
     ],
     "Lugia": [
         "Recover",
@@ -1315,7 +1576,12 @@
         "StoneEdge",
         "RockBlast",
         "StealthRock",
-        "TeraBlast"
+        "TeraBlast",
+        "Protect",
+        "HighHorsepower",
+        "RockSlide",
+        "RockTomb",
+        "Superpower"
     ],
     "Maushold": [
         "PopulationBomb",
@@ -1327,7 +1593,22 @@
         "Feint",
         "HelpingHand",
         "Taunt",
-        "BulletSeed"
+        "BulletSeed",
+        "SuperFang",
+        "ThunderWave",
+        "AfterYou"
+    ],
+    "Meganium": [
+        "SolarBeam",
+        "DazzlingGleam",
+        "WeatherBall",
+        "Protect",
+        "Synthesis",
+        "EarthPower",
+        "AncientPower",
+        "KnockOff",
+        "LeafStorm",
+        "DragonTail"
     ],
     "Meowscarada": [
         "FlowerTrick",
@@ -1339,7 +1620,11 @@
         "ToxicSpikes",
         "Trick",
         "Taunt",
-        "TeraBlast"
+        "TeraBlast",
+        "Protect",
+        "LowKick",
+        "ThroatChop",
+        "BrickBreak"
     ],
     "Metagross": [
         "BulletPunch",
@@ -1386,7 +1671,13 @@
         "Surf",
         "Blizzard",
         "TeraBlast",
-        "MuddyWater"
+        "MuddyWater",
+        "Scald",
+        "Protect",
+        "Recover",
+        "LifeDew",
+        "Hypnosis",
+        "HelpingHand"
     ],
     "Mimikyu": [
         "TrickRoom",
@@ -1398,7 +1689,11 @@
         "WoodHammer",
         "SwordsDance",
         "Endure",
-        "Trick"
+        "Trick",
+        "DrainPunch",
+        "ShadowClaw",
+        "RainDance",
+        "Protect"
     ],
     "Miraidon": [
         "ElectroDrift",
@@ -1482,7 +1777,10 @@
         "Protect",
         "IcyWind",
         "Disable",
-        "Imprison"
+        "Imprison",
+        "DazzlingGleam",
+        "IceBeam",
+        "FakeTears"
     ],
     "Ogerpon": [
         "IvyCudgel",
@@ -1520,6 +1818,18 @@
         "AfterYou",
         "Bulldoze"
     ],
+    "Orthworm": [
+        "BodyPress",
+        "ShedTail",
+        "Protect",
+        "HeavySlam",
+        "IronDefense",
+        "HelpingHand",
+        "IronHead",
+        "IronTail",
+        "HighHorsepower",
+        "Coil"
+    ],
     "Overqwil": [
         "ToxicSpikes",
         "Protect",
@@ -1531,6 +1841,18 @@
         "Taunt",
         "Toxic",
         "DestinyBond"
+    ],
+    "Palafin": [
+        "JetPunch",
+        "WaveCrash",
+        "Protect",
+        "CloseCombat",
+        "FlipTurn",
+        "IcePunch",
+        "DrainPunch",
+        "BulkUp",
+        "ThroatChop",
+        "Haze"
     ],
     "Palkia": [
         "SpacialRend",
@@ -1573,7 +1895,22 @@
         "Tailwind",
         "IceBeam",
         "HydroPump",
-        "Surf"
+        "Surf",
+        "MuddyWater",
+        "IcyWind",
+        "HelpingHand"
+    ],
+    "Politoed": [
+        "Protect",
+        "WeatherBall",
+        "PerishSong",
+        "IceBeam",
+        "IcyWind",
+        "MuddyWater",
+        "Encore",
+        "HelpingHand",
+        "EarthPower",
+        "RainDance"
     ],
     "Porygon2": [
         "Recover",
@@ -1597,7 +1934,15 @@
         "PsychicNoise",
         "PerishSong",
         "CalmMind",
-        "DrainingKiss"
+        "DrainingKiss",
+        "HyperVoice",
+        "Protect",
+        "DazzlingGleam",
+        "Haze",
+        "IcyWind",
+        "IceBeam",
+        "Substitute",
+        "EnergyBall"
     ],
     "Quaquaval": [
         "AquaStep",
@@ -1773,7 +2118,10 @@
         "ThunderWave",
         "Discharge",
         "Hex",
-        "Thunderbolt"
+        "Thunderbolt",
+        "Protect",
+        "Electroweb",
+        "HelpingHand"
     ],
     "Rotom-Wash": [
         "HydroPump",
@@ -1785,7 +2133,11 @@
         "Discharge",
         "PainSplit",
         "FoulPlay",
-        "TeraBlast"
+        "TeraBlast",
+        "Protect",
+        "Electroweb",
+        "HelpingHand",
+        "NastyPlot"
     ],
     "Sableye": [
         "Encore",
@@ -1797,7 +2149,10 @@
         "Feint",
         "Disable",
         "RainDance",
-        "Gravity"
+        "Gravity",
+        "FakeOut",
+        "Quash",
+        "SunnyDay"
     ],
     "Salazzle": [
         "Toxic",
@@ -1843,7 +2198,10 @@
         "Trailblaze",
         "DualWingbeat",
         "CloseCombat",
-        "TeraBlast"
+        "TeraBlast",
+        "Protect",
+        "Tailwind",
+        "XScissor"
     ],
     "Scovillain": [
         "SpicyExtract",
@@ -1909,7 +2267,8 @@
         "TrickRoom",
         "LifeDew",
         "Scald",
-        "TeraBlast"
+        "TeraBlast",
+        "Imprison"
     ],
     "Skarmory": [
         "StealthRock",
@@ -1988,7 +2347,11 @@
         "Acrobatics",
         "LowKick",
         "TeraBlast",
-        "FakeOut"
+        "FakeOut",
+        "Coaching",
+        "RockSlide",
+        "RockTomb",
+        "Uturn"
     ],
     "Snorlax": [
         "Crunch",
@@ -2012,6 +2375,18 @@
         "WildCharge",
         "FlareBlitz"
     ],
+    "Starmie": [
+        "Protect",
+        "Liquidation",
+        "AquaJet",
+        "IceSpinner",
+        "ZenHeadbutt",
+        "PsychoCut",
+        "FlipTurn",
+        "Waterfall",
+        "SkillSwap",
+        "Recover"
+    ],
     "Swampert": [
         "FlipTurn",
         "KnockOff",
@@ -2034,7 +2409,10 @@
         "CalmMind",
         "DrainingKiss",
         "Yawn",
-        "Moonblast"
+        "Moonblast",
+        "Detect",
+        "MysticalFire",
+        "HelpingHand"
     ],
     "Talonflame": [
         "Tailwind",
@@ -2046,7 +2424,10 @@
         "QuickGuard",
         "FlareBlitz",
         "Acrobatics",
-        "Hurricane"
+        "Hurricane",
+        "DualWingbeat",
+        "UpperHand",
+        "RainDance"
     ],
     "Tatsugiri": [
         "MuddyWater",
@@ -2138,7 +2519,9 @@
         "Flamethrower",
         "BurningJealousy",
         "ClearSmog",
-        "Overheat"
+        "Overheat",
+        "HelpingHand",
+        "BodyPress"
     ],
     "Tornadus": [
         "Tailwind",
@@ -2184,7 +2567,10 @@
         "HeatWave",
         "Overheat",
         "ShadowBall",
-        "ZenHeadbutt"
+        "ZenHeadbutt",
+        "FocusBlast",
+        "SolarBeam",
+        "WillOWisp"
     ],
     "Tyranitar": [
         "RockSlide",
@@ -2196,7 +2582,11 @@
         "StealthRock",
         "Protect",
         "ThunderWave",
-        "StoneEdge"
+        "StoneEdge",
+        "IcePunch",
+        "DragonDance",
+        "HighHorsepower",
+        "Assurance"
     ],
     "Umbreon": [
         "FoulPlay",
@@ -2268,7 +2658,22 @@
         "GigaDrain",
         "Substitute",
         "TeraBlast",
-        "Protect"
+        "Protect",
+        "LeafStorm",
+        "EnergyBall",
+        "AcidSpray"
+    ],
+    "Vivillon": [
+        "SleepPowder",
+        "Hurricane",
+        "Protect",
+        "RagePowder",
+        "Tailwind",
+        "PollenPuff",
+        "AirSlash",
+        "SunnyDay",
+        "QuiverDance",
+        "BugBuzz"
     ],
     "Volcarona": [
         "QuiverDance",
@@ -2280,7 +2685,8 @@
         "BugBuzz",
         "Tailwind",
         "StruggleBug",
-        "HeatWave"
+        "HeatWave",
+        "Overheat"
     ],
     "WalkingWake": [
         "HydroSteam",
@@ -2325,7 +2731,12 @@
         "Substitute",
         "Memento",
         "SunnyDay",
-        "Taunt"
+        "Taunt",
+        "Protect",
+        "FakeTears",
+        "HelpingHand",
+        "EnergyBall",
+        "DazzlingGleam"
     ],
     "Wo-Chien": [
         "LeechSeed",
@@ -2397,6 +2808,10 @@
         "Curse",
         "ShadowSneak",
         "WillOWisp",
-        "BurningJealousy"
+        "BurningJealousy",
+        "Psychic",
+        "FocusBlast",
+        "Snarl",
+        "Taunt"
     ]
 }
