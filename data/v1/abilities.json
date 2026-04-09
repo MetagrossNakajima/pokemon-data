@@ -1222,5 +1222,21 @@
   "ZeroForming": {
     "ja": "ゼロフォーミング",
     "en": "Zero Forming"
+  },
+  "MegaSol": {
+    "ja": "メガソーラー",
+    "en": "Mega Sol"
+  },
+  "Dragonize": {
+    "ja": "ドラゴンスキン",
+    "en": "Dragonize"
+  },
+  "PiercingDrill": {
+    "ja": "かんつうドリル",
+    "en": "Piercing Drill"
+  },
+  "SpicySpray": {
+    "ja": "とびだすハバネロ",
+    "en": "Spicy Spray"
   }
 }

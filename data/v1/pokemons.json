@@ -1084,7 +1084,9 @@
       "Fairy",
       "Flying"
     ],
-    "abilities": [],
+    "abilities": [
+      "MagicBounce"
+    ],
     "height": 1.7,
     "weight": 42.3
   },
@@ -2110,7 +2112,9 @@
       "Grass",
       "Poison"
     ],
-    "abilities": [],
+    "abilities": [
+      "InnardsOut"
+    ],
     "height": 4.5,
     "weight": 125.5
   },
@@ -3665,7 +3669,9 @@
       "Water",
       "Psychic"
     ],
-    "abilities": [],
+    "abilities": [
+      "HugePower"
+    ],
     "height": 2.3,
     "weight": 80.0
   },
@@ -4528,7 +4534,9 @@
       "Dragon",
       "Flying"
     ],
-    "abilities": [],
+    "abilities": [
+      "Multiscale"
+    ],
     "height": 2.2,
     "weight": 290.0
   },
@@ -4695,7 +4703,9 @@
       "Grass",
       "Fairy"
     ],
-    "abilities": [],
+    "abilities": [
+      "MegaSol"
+    ],
     "height": 2.4,
     "weight": 201.0
   },
@@ -4864,7 +4874,9 @@
       "Water",
       "Dragon"
     ],
-    "abilities": [],
+    "abilities": [
+      "Dragonize"
+    ],
     "height": 2.3,
     "weight": 108.8
   },
@@ -6588,7 +6600,9 @@
       "Steel",
       "Flying"
     ],
-    "abilities": [],
+    "abilities": [
+      "Stalwart"
+    ],
     "height": 1.7,
     "weight": 40.4
   },
@@ -9846,7 +9860,9 @@
       "Psychic",
       "Steel"
     ],
-    "abilities": [],
+    "abilities": [
+      "Levitate"
+    ],
     "height": 1.2,
     "weight": 8.0
   },
@@ -13073,7 +13089,9 @@
       "Ice",
       "Ghost"
     ],
-    "abilities": [],
+    "abilities": [
+      "SnowWarning"
+    ],
     "height": 2.6,
     "weight": 29.6
   },
@@ -14168,7 +14186,9 @@
       "Fire",
       "Fighting"
     ],
-    "abilities": [],
+    "abilities": [
+      "MoldBreaker"
+    ],
     "height": 1.8,
     "weight": 180.3
   },
@@ -14868,7 +14888,9 @@
       "Ground",
       "Steel"
     ],
-    "abilities": [],
+    "abilities": [
+      "PiercingDrill"
+    ],
     "height": 0.9,
     "weight": 60.0
   },
@@ -16946,7 +16968,9 @@
       "Ghost",
       "Fire"
     ],
-    "abilities": [],
+    "abilities": [
+      "Infiltrator"
+    ],
     "height": 2.5,
     "weight": 69.6
   },
@@ -17297,7 +17321,9 @@
       "Ground",
       "Ghost"
     ],
-    "abilities": [],
+    "abilities": [
+      "UnseenFist"
+    ],
     "height": 4.0,
     "weight": 330.0
   },
@@ -18602,7 +18628,9 @@
     "types": [
       "Fairy"
     ],
-    "abilities": [],
+    "abilities": [
+      "FairyAura"
+    ],
     "height": 0.2,
     "weight": 100.8
   },
@@ -18816,7 +18844,9 @@
     "types": [
       "Psychic"
     ],
-    "abilities": [],
+    "abilities": [
+      "Trace"
+    ],
     "height": 0.8,
     "weight": 10.1
   },
@@ -19421,7 +19451,9 @@
       "Fighting",
       "Flying"
     ],
-    "abilities": [],
+    "abilities": [
+      "NoGuard"
+    ],
     "height": 1.0,
     "weight": 25.0
   },
@@ -20621,7 +20653,9 @@
       "Fighting",
       "Ice"
     ],
-    "abilities": [],
+    "abilities": [
+      "IronFist"
+    ],
     "height": 2.6,
     "weight": 252.8
   },
@@ -21645,7 +21679,9 @@
       "Normal",
       "Dragon"
     ],
-    "abilities": [],
+    "abilities": [
+      "Berserk"
+    ],
     "height": 3.0,
     "weight": 240.5
   },
@@ -25857,7 +25893,9 @@
       "Grass",
       "Fire"
     ],
-    "abilities": [],
+    "abilities": [
+      "SpicySpray"
+    ],
     "height": 1.2,
     "weight": 22.0
   },
@@ -26292,7 +26330,9 @@
       "Rock",
       "Poison"
     ],
-    "abilities": [],
+    "abilities": [
+      "Adaptability"
+    ],
     "height": 2.8,
     "weight": 77.0
   },
