@@ -12234,6 +12234,25 @@
     "height": 1.9,
     "weight": 95.0
   },
+  "Garchomp-Mega-Z": {
+    "pokedex": 445,
+    "formType": "mega",
+    "baseForm": "Garchomp",
+    "ja": "メガガブリアスZ",
+    "en": "Garchomp-Mega-Z",
+    "HP": 108,
+    "Atk": 130,
+    "Def": 85,
+    "Spa": 141,
+    "Spd": 85,
+    "Spe": 151,
+    "types": [
+      "Dragon"
+    ],
+    "abilities": [],
+    "height": 1.9,
+    "weight": 99.0
+  },
   "Garchomp-Mega": {
     "pokedex": 445,
     "formType": "mega",

@@ -1,0 +1,63 @@
+Z-A 新規追加メガシンカ一覧
+===========================
+※ 2026-04-10時点、ステージング環境のアイコン・データから抽出
+
+## 新規メガシンカ（45種）
+
+### XY/ORAS既存の派生形態（Z付き）
+- Absol-Mega-Z
+- Garchomp-Mega-Z
+- Lucario-Mega-Z
+
+### XY/ORAS既存の別XY分岐
+- Raichu-Mega-X
+- Raichu-Mega-Y
+
+### 完全新規メガシンカ（40種）
+- Barbaracle-Mega
+- Baxcalibur-Mega
+- Chandelure-Mega
+- Chesnaught-Mega
+- Chimecho-Mega
+- Clefable-Mega
+- Crabominable-Mega
+- Darkrai-Mega
+- Delphox-Mega
+- Dragalge-Mega
+- Dragonite-Mega
+- Drampa-Mega
+- Eelektross-Mega
+- Emboar-Mega
+- Excadrill-Mega
+- Falinks-Mega
+- Feraligatr-Mega
+- Floette-Mega
+- Froslass-Mega
+- Glimmora-Mega
+- Golisopod-Mega
+- Golurk-Mega
+- Greninja-Mega
+- Hawlucha-Mega
+- Heatran-Mega
+- Magearna-Mega
+- Malamar-Mega
+- Meganium-Mega
+- Meowstic-Mega
+- Pyroar-Mega
+- Scolipede-Mega
+- Scovillain-Mega
+- Scrafty-Mega
+- Skarmory-Mega
+- Staraptor-Mega
+- Starmie-Mega
+- Tatsugiri-Mega
+- Victreebel-Mega
+- Zeraora-Mega
+- Zygarde-Mega
+
+## データ状況
+- アイコン(icons/v2/pokemons/): 全45種あり
+- pokemons.json: Garchomp-Mega-Z のみ追加済み（他は未登録）
+
+## 備考
+- "Diancie-Mega copy.webp" と "Feraligatr-Mega copy.webp" が重複ファイルとして存在（要削除）
