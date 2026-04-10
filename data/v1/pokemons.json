@@ -18653,6 +18653,28 @@
     "height": 0.2,
     "weight": 100.8
   },
+  "Floette-Eternal": {
+    "pokedex": 670,
+    "formType": "form",
+    "baseForm": "Floette",
+    "ja": "フラエッテ(えいえんのはな)",
+    "en": "Floette-Eternal",
+    "HP": 74,
+    "Atk": 65,
+    "Def": 67,
+    "Spa": 125,
+    "Spd": 128,
+    "Spe": 92,
+    "types": [
+      "Fairy"
+    ],
+    "abilities": [
+      "FlowerVeil",
+      "Symbiosis"
+    ],
+    "height": 0.2,
+    "weight": 0.9
+  },
   "Florges": {
     "pokedex": 671,
     "formType": "base",
