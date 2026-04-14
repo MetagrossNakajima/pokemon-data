@@ -34,6 +34,16 @@
         "ja": "あつぞこブーツ",
         "en": "Heavy-Duty Boots"
     },
+    "Absolite": {
+        "category": "item",
+        "ja": "アブソルナイト",
+        "en": "Absolite"
+    },
+    "AbsoliteZ": {
+        "category": "item",
+        "ja": "アブソルナイトZ",
+        "en": "Absolite Z"
+    },
     "SweetApple": {
         "category": "item",
         "ja": "あまーいりんご",
@@ -114,15 +124,35 @@
         "ja": "うっかりやミント",
         "en": "Rash Mint"
     },
+    "Victreebelite": {
+        "category": "item",
+        "ja": "ウツボットナイト",
+        "en": "Victreebelite"
+    },
     "GrepaBerry": {
         "category": "item",
         "ja": "ウブのみ",
         "en": "Grepa Berry"
     },
+    "Skarmorite": {
+        "category": "item",
+        "ja": "エアームドナイト",
+        "en": "Skarmorite"
+    },
+    "Galladite": {
+        "category": "item",
+        "ja": "エルレイドナイト",
+        "en": "Galladite"
+    },
     "ElectricSeed": {
         "category": "item",
         "ja": "エレキシード",
         "en": "Electric Seed"
+    },
+    "Emboarite": {
+        "category": "item",
+        "ja": "エンブオナイト",
+        "en": "Emboarite"
     },
     "FreshWater": {
         "category": "item",
@@ -138,6 +168,11 @@
         "category": "item",
         "ja": "おおきなねっこ",
         "en": "Big Root"
+    },
+    "Feraligite": {
+        "category": "item",
+        "ja": "オーダイルナイト",
+        "en": "Feraligite"
     },
     "TimidMint": {
         "category": "item",
@@ -163,6 +198,11 @@
         "category": "item",
         "ja": "おとなしいミント",
         "en": "Gentle Mint"
+    },
+    "Glalitite": {
+        "category": "item",
+        "ja": "オニゴーリナイト",
+        "en": "Glalitite"
     },
     "SitrusBerry": {
         "category": "item",
@@ -199,6 +239,21 @@
         "ja": "かいふくのくすり",
         "en": "Full Restore"
     },
+    "Dragoninite": {
+        "category": "item",
+        "ja": "カイリュナイト",
+        "en": "Dragoninite"
+    },
+    "Pinsirite": {
+        "category": "item",
+        "ja": "カイロスナイト",
+        "en": "Pinsirite"
+    },
+    "Pyroarite": {
+        "category": "item",
+        "ja": "カエンジシナイト",
+        "en": "Pyroarite"
+    },
     "FlameOrb": {
         "category": "item",
         "ja": "かえんだま",
@@ -229,6 +284,16 @@
         "ja": "かたいいし",
         "en": "Hard Stone"
     },
+    "Garchompite": {
+        "category": "item",
+        "ja": "ガブリアスナイト",
+        "en": "Garchompite"
+    },
+    "GarchompiteZ": {
+        "category": "item",
+        "ja": "ガブリアスナイトZ",
+        "en": "Garchompite Z"
+    },
     "HearthflameMask": {
         "category": "item",
         "ja": "かまどのめん",
@@ -244,15 +309,35 @@
         "ja": "カムラのみ",
         "en": "Salac Berry"
     },
+    "Blastoisinite": {
+        "category": "item",
+        "ja": "カメックスナイト",
+        "en": "Blastoisinite"
+    },
+    "Barbaracite": {
+        "category": "item",
+        "ja": "ガメノデスナイト",
+        "en": "Barbaracite"
+    },
     "BlunderPolicy": {
         "category": "item",
         "ja": "からぶりほけん",
         "en": "Blunder Policy"
     },
+    "Malamarite": {
+        "category": "item",
+        "ja": "カラマネナイト",
+        "en": "Malamarite"
+    },
     "FloatStone": {
         "category": "item",
         "ja": "かるいし",
         "en": "Float Stone"
+    },
+    "Kangaskhanite": {
+        "category": "item",
+        "ja": "ガルーラナイト",
+        "en": "Kangaskhanite"
     },
     "Everstone": {
         "category": "item",
@@ -294,10 +379,20 @@
         "ja": "キーのみ",
         "en": "Persim Berry"
     },
+    "Gyaradosite": {
+        "category": "item",
+        "ja": "ギャラドスナイト",
+        "en": "Gyaradosite"
+    },
     "AbsorbBulb": {
         "category": "item",
         "ja": "きゅうこん",
         "en": "Absorb Bulb"
+    },
+    "Glimmoranite": {
+        "category": "item",
+        "ja": "キラフロルナイト",
+        "en": "Glimmoranite"
     },
     "PrismScale": {
         "category": "item",
@@ -328,6 +423,16 @@
         "category": "item",
         "ja": "クイックボール",
         "en": "Quick Ball"
+    },
+    "Golisopite": {
+        "category": "item",
+        "ja": "グソクムシャナイト",
+        "en": "Golisopite"
+    },
+    "Mawilite": {
+        "category": "item",
+        "ja": "クチートナイト",
+        "en": "Mawilite"
     },
     "RustedSword": {
         "category": "item",
@@ -384,6 +489,16 @@
         "ja": "くろおび",
         "en": "Black Belt"
     },
+    "Crabominite": {
+        "category": "item",
+        "ja": "ケケンカニナイト",
+        "en": "Crabominite"
+    },
+    "Greninjite": {
+        "category": "item",
+        "ja": "ゲッコウガナイト",
+        "en": "Greninjite"
+    },
     "MasterpieceTeacup": {
         "category": "item",
         "ja": "ケッサクのちゃわん",
@@ -393,6 +508,11 @@
         "category": "item",
         "ja": "けむりだま",
         "en": "Smoke Ball"
+    },
+    "Gengarite": {
+        "category": "item",
+        "ja": "ゲンガナイト",
+        "en": "Gengarite"
     },
     "Revive": {
         "category": "item",
@@ -469,6 +589,11 @@
         "ja": "こぶしのプレート",
         "en": "Fist Plate"
     },
+    "Golurkite": {
+        "category": "item",
+        "ja": "ゴルーグナイト",
+        "en": "Golurkite"
+    },
     "DreadPlate": {
         "category": "item",
         "ja": "こわもてプレート",
@@ -483,6 +608,11 @@
         "category": "item",
         "ja": "コンペボール",
         "en": "Sport Ball"
+    },
+    "Gardevoirite": {
+        "category": "item",
+        "ja": "サーナイトナイト",
+        "en": "Gardevoirite"
     },
     "PsychicSeed": {
         "category": "item",
@@ -504,6 +634,11 @@
         "ja": "さみしがりミント",
         "en": "Lonely Mint"
     },
+    "Sharpedonite": {
+        "category": "item",
+        "ja": "サメハダナイト",
+        "en": "Sharpedonite"
+    },
     "SmoothRock": {
         "category": "item",
         "ja": "さらさらいわ",
@@ -524,6 +659,16 @@
         "ja": "しあわせタマゴ",
         "en": "Lucky Egg"
     },
+    "Zygardite": {
+        "category": "item",
+        "ja": "ジガルデナイト",
+        "en": "Zygardite"
+    },
+    "Drampanite": {
+        "category": "item",
+        "ja": "ジジーロナイト",
+        "en": "Drampanite"
+    },
     "Magnet": {
         "category": "item",
         "ja": "じしゃく",
@@ -533,6 +678,11 @@
         "category": "item",
         "ja": "しずくプレート",
         "en": "Splash Plate"
+    },
+    "Eelektrossite": {
+        "category": "item",
+        "ja": "シビルドナイト",
+        "en": "Eelektrossite"
     },
     "BindingBand": {
         "category": "item",
@@ -559,15 +709,35 @@
         "ja": "ジャポのみ",
         "en": "Jaboca Berry"
     },
+    "Tatsugirinite": {
+        "category": "item",
+        "ja": "シャリタツナイト",
+        "en": "Tatsugirinite"
+    },
+    "Chandelurite": {
+        "category": "item",
+        "ja": "シャンデラナイト",
+        "en": "Chandelurite"
+    },
     "CellBattery": {
         "category": "item",
         "ja": "じゅうでんち",
         "en": "Cell Battery"
     },
+    "Sceptilite": {
+        "category": "item",
+        "ja": "ジュカインナイト",
+        "en": "Sceptilite"
+    },
     "ShucaBerry": {
         "category": "item",
         "ja": "シュカのみ",
         "en": "Shuca Berry"
+    },
+    "Banettite": {
+        "category": "item",
+        "ja": "ジュペッタナイト",
+        "en": "Banettite"
     },
     "SwiftFeather": {
         "category": "item",
@@ -629,10 +799,20 @@
         "ja": "すごいキズぐすり",
         "en": "Hyper Potion"
     },
+    "Scovillainite": {
+        "category": "item",
+        "ja": "スコヴィラナイト",
+        "en": "Scovillainite"
+    },
     "StarfBerry": {
         "category": "item",
         "ja": "スターのみ",
         "en": "Starf Berry"
+    },
+    "Starminite": {
+        "category": "item",
+        "ja": "スターミナイト",
+        "en": "Starminite"
     },
     "TartApple": {
         "category": "item",
@@ -643,6 +823,11 @@
         "category": "item",
         "ja": "スーパーボール",
         "en": "Great Ball"
+    },
+    "Beedrillite": {
+        "category": "item",
+        "ja": "スピアナイト",
+        "en": "Beedrillite"
     },
     "QuickPowder": {
         "category": "item",
@@ -674,6 +859,11 @@
         "ja": "ズリのみ",
         "en": "Razz Berry"
     },
+    "Scraftinite": {
+        "category": "item",
+        "ja": "ズルズキナイト",
+        "en": "Scraftinite"
+    },
     "RazorFang": {
         "category": "item",
         "ja": "するどいキバ",
@@ -704,6 +894,11 @@
         "ja": "せいれいプレート",
         "en": "Pixie Plate"
     },
+    "Baxcalibrite": {
+        "category": "item",
+        "ja": "セグレイブナイト",
+        "en": "Baxcalibrite"
+    },
     "WepearBerry": {
         "category": "item",
         "ja": "セシナのみ",
@@ -714,6 +909,11 @@
         "ja": "せっかちミント",
         "en": "Hasty Mint"
     },
+    "Zeraorite": {
+        "category": "item",
+        "ja": "ゼラオラナイト",
+        "en": "Zeraorite"
+    },
     "QuickClaw": {
         "category": "item",
         "ja": "せんせいのツメ",
@@ -723,6 +923,11 @@
         "category": "item",
         "ja": "ソクノのみ",
         "en": "Wacan Berry"
+    },
+    "Darkranite": {
+        "category": "item",
+        "ja": "ダークライナイト",
+        "en": "Darkranite"
     },
     "AdamantCrystal": {
         "category": "item",
@@ -769,6 +974,11 @@
         "ja": "たいりょくのもち",
         "en": "Health Mochi"
     },
+    "Falinksite": {
+        "category": "item",
+        "ja": "タイレーツナイト",
+        "en": "Falinksite"
+    },
     "Protein": {
         "category": "item",
         "ja": "タウリン",
@@ -793,6 +1003,11 @@
         "category": "item",
         "ja": "たつじんのおび",
         "en": "Expert Belt"
+    },
+    "Audinite": {
+        "category": "item",
+        "ja": "タブンネナイト",
+        "en": "Audinite"
     },
     "Leftovers": {
         "category": "item",
@@ -844,6 +1059,16 @@
         "ja": "チーゴのみ",
         "en": "Rawst Berry"
     },
+    "Medichamite": {
+        "category": "item",
+        "ja": "チャーレムナイト",
+        "en": "Medichamite"
+    },
+    "Chimechite": {
+        "category": "item",
+        "ja": "チリーンナイト",
+        "en": "Chimechite"
+    },
     "GeniusFeather": {
         "category": "item",
         "ja": "ちりょくのハネ",
@@ -853,6 +1078,11 @@
         "category": "item",
         "ja": "ちりょくのもち",
         "en": "Genius Mochi"
+    },
+    "Altarianite": {
+        "category": "item",
+        "ja": "チルタリスナイト",
+        "en": "Altarianite"
     },
     "MoonStone": {
         "category": "item",
@@ -868,6 +1098,11 @@
         "category": "item",
         "ja": "つららのプレート",
         "en": "Icicle Plate"
+    },
+    "Diancite": {
+        "category": "item",
+        "ja": "ディアンシナイト",
+        "en": "Diancite"
     },
     "ResistFeather": {
         "category": "item",
@@ -888,6 +1123,11 @@
         "category": "item",
         "ja": "でんきだま",
         "en": "Light Ball"
+    },
+    "Ampharosite": {
+        "category": "item",
+        "ja": "デンリュウナイト",
+        "en": "Ampharosite"
     },
     "Antidote": {
         "category": "item",
@@ -929,6 +1169,11 @@
         "ja": "とつげきチョッキ",
         "en": "Assault Vest"
     },
+    "Dragalgite": {
+        "category": "item",
+        "ja": "ドラミドナイト",
+        "en": "Dragalgite"
+    },
     "DurinBerry": {
         "category": "item",
         "ja": "ドリのみ",
@@ -938,6 +1183,11 @@
         "category": "item",
         "ja": "ドリームボール",
         "en": "Dream Ball"
+    },
+    "Excadrite": {
+        "category": "item",
+        "ja": "ドリュウズナイト",
+        "en": "Excadrite"
     },
     "EnigmaBerry": {
         "category": "item",
@@ -968,6 +1218,11 @@
         "category": "item",
         "ja": "なんでもなおし",
         "en": "Full Heal"
+    },
+    "Meowsticite": {
+        "category": "item",
+        "ja": "ニャオニクスナイト",
+        "en": "Meowsticite"
     },
     "KelpsyBerry": {
         "category": "item",
@@ -1049,15 +1304,35 @@
         "ja": "パイルのみ",
         "en": "Pinap Berry"
     },
+    "Steelixite": {
+        "category": "item",
+        "ja": "ハガネールナイト",
+        "en": "Steelixite"
+    },
+    "Cameruptite": {
+        "category": "item",
+        "ja": "バクーダナイト",
+        "en": "Cameruptite"
+    },
     "CobaBerry": {
         "category": "item",
         "ja": "バコウのみ",
         "en": "Coba Berry"
     },
+    "Blazikenite": {
+        "category": "item",
+        "ja": "バシャーモナイト",
+        "en": "Blazikenite"
+    },
     "GriseousOrb": {
         "category": "item",
         "ja": "はっきんだま",
         "en": "Griseous Orb"
+    },
+    "Scizorite": {
+        "category": "item",
+        "ja": "ハッサムナイト",
+        "en": "Scizorite"
     },
     "HabanBerry": {
         "category": "item",
@@ -1099,6 +1374,11 @@
         "ja": "パワーレンズ",
         "en": "Power Lens"
     },
+    "Tyranitarite": {
+        "category": "item",
+        "ja": "バンギラスナイト",
+        "en": "Tyranitarite"
+    },
     "AguavBerry": {
         "category": "item",
         "ja": "バンジのみ",
@@ -1124,6 +1404,11 @@
         "ja": "ビアーのみ",
         "en": "Kebia Berry"
     },
+    "Heatranite": {
+        "category": "item",
+        "ja": "ヒードラナイト",
+        "en": "Heatranite"
+    },
     "ModestMint": {
         "category": "item",
         "ja": "ひかえめミント",
@@ -1143,6 +1428,16 @@
         "category": "item",
         "ja": "ひかりのねんど",
         "en": "Light Clay"
+    },
+    "Clefablite": {
+        "category": "item",
+        "ja": "ピクシナイト",
+        "en": "Clefablite"
+    },
+    "Pidgeotite": {
+        "category": "item",
+        "ja": "ピジョットナイト",
+        "en": "Pidgeotite"
     },
     "FlamePlate": {
         "category": "item",
@@ -1199,6 +1494,11 @@
         "ja": "ふうせん",
         "en": "Air Balloon"
     },
+    "Alakazite": {
+        "category": "item",
+        "ja": "フーディナイト",
+        "en": "Alakazite"
+    },
     "ZoomLens": {
         "category": "item",
         "ja": "フォーカスレンズ",
@@ -1213,6 +1513,16 @@
         "category": "item",
         "ja": "ふしぎのプレート",
         "en": "Mind Plate"
+    },
+    "Venusaurite": {
+        "category": "item",
+        "ja": "フシギバナイト",
+        "en": "Venusaurite"
+    },
+    "Aerodactylite": {
+        "category": "item",
+        "ja": "プテラナイト",
+        "en": "Aerodactylite"
     },
     "ThickClub": {
         "category": "item",
@@ -1229,6 +1539,11 @@
         "ja": "ふっかつそう",
         "en": "Revival Herb"
     },
+    "Floettite": {
+        "category": "item",
+        "ja": "フラエッテナイト",
+        "en": "Floettite"
+    },
     "XAttack": {
         "category": "item",
         "ja": "プラスパワー",
@@ -1238,6 +1553,11 @@
         "category": "item",
         "ja": "ブリーのみ",
         "en": "Bluk Berry"
+    },
+    "Chesnaughtite": {
+        "category": "item",
+        "ja": "ブリガロナイト",
+        "en": "Chesnaughtite"
     },
     "PremierBall": {
         "category": "item",
@@ -1259,10 +1579,25 @@
         "ja": "ヘビーボール",
         "en": "Heavy Ball"
     },
+    "Heracronite": {
+        "category": "item",
+        "ja": "ヘラクロスナイト",
+        "en": "Heracronite"
+    },
     "BelueBerry": {
         "category": "item",
         "ja": "ベリブのみ",
         "en": "Belue Berry"
+    },
+    "Houndoominite": {
+        "category": "item",
+        "ja": "ヘルガナイト",
+        "en": "Houndoominite"
+    },
+    "Scolipite": {
+        "category": "item",
+        "ja": "ペンドラナイト",
+        "en": "Scolipite"
     },
     "PPUp": {
         "category": "item",
@@ -1284,6 +1619,16 @@
         "ja": "ぼうじんゴーグル",
         "en": "Safety Goggles"
     },
+    "Salamencite": {
+        "category": "item",
+        "ja": "ボーマンダナイト",
+        "en": "Salamencite"
+    },
+    "Aggronite": {
+        "category": "item",
+        "ja": "ボスゴドラナイト",
+        "en": "Aggronite"
+    },
     "ChilanBerry": {
         "category": "item",
         "ja": "ホズのみ",
@@ -1303,6 +1648,11 @@
         "category": "item",
         "ja": "まがったスプーン",
         "en": "Twisted Spoon"
+    },
+    "Magearnite": {
+        "category": "item",
+        "ja": "マギアナイト",
+        "en": "Magearnite"
     },
     "MagoBerry": {
         "category": "item",
@@ -1343,6 +1693,11 @@
         "category": "item",
         "ja": "まひなおし",
         "en": "Paralyze Heal"
+    },
+    "Delphoxite": {
+        "category": "item",
+        "ja": "マフォクシナイト",
+        "en": "Delphoxite"
     },
     "MaxPotion": {
         "category": "item",
@@ -1389,6 +1744,26 @@
         "ja": "みどりのプレート",
         "en": "Meadow Plate"
     },
+    "Lopunnite": {
+        "category": "item",
+        "ja": "ミミロップナイト",
+        "en": "Lopunnite"
+    },
+    "MewtwoniteX": {
+        "category": "item",
+        "ja": "ミュウツナイトX",
+        "en": "Mewtwonite X"
+    },
+    "MewtwoniteY": {
+        "category": "item",
+        "ja": "ミュウツナイトY",
+        "en": "Mewtwonite Y"
+    },
+    "Staraptite": {
+        "category": "item",
+        "ja": "ムクホークナイト",
+        "en": "Staraptite"
+    },
     "NaiveMint": {
         "category": "item",
         "ja": "むじゃきミント",
@@ -1398,6 +1773,16 @@
         "category": "item",
         "ja": "ムーンボール",
         "en": "Moon Ball"
+    },
+    "Meganiumite": {
+        "category": "item",
+        "ja": "メガニウムナイト",
+        "en": "Meganiumite"
+    },
+    "Metagrossite": {
+        "category": "item",
+        "ja": "メタグロスナイト",
+        "en": "Metagrossite"
     },
     "MetalCoat": {
         "category": "item",
@@ -1484,15 +1869,35 @@
         "ja": "ヤチェのみ",
         "en": "Yache Berry"
     },
+    "Slowbronite": {
+        "category": "item",
+        "ja": "ヤドランナイト",
+        "en": "Slowbronite"
+    },
     "DuskStone": {
         "category": "item",
         "ja": "やみのいし",
         "en": "Dusk Stone"
     },
+    "Sablenite": {
+        "category": "item",
+        "ja": "ヤミラミナイト",
+        "en": "Sablenite"
+    },
     "SoftSand": {
         "category": "item",
         "ja": "やわらかいすな",
         "en": "Soft Sand"
+    },
+    "Abomasite": {
+        "category": "item",
+        "ja": "ユキノオナイト",
+        "en": "Abomasite"
+    },
+    "Froslassite": {
+        "category": "item",
+        "ja": "ユキメノコナイト",
+        "en": "Froslassite"
     },
     "FairyFeather": {
         "category": "item",
@@ -1534,6 +1939,36 @@
         "ja": "ヨロギのみ",
         "en": "Charti Berry"
     },
+    "RaichuniteX": {
+        "category": "item",
+        "ja": "ライチュウナイトX",
+        "en": "Raichunite X"
+    },
+    "RaichuniteY": {
+        "category": "item",
+        "ja": "ライチュウナイトY",
+        "en": "Raichunite Y"
+    },
+    "Manectite": {
+        "category": "item",
+        "ja": "ライボルトナイト",
+        "en": "Manectite"
+    },
+    "Swampertite": {
+        "category": "item",
+        "ja": "ラグラージナイト",
+        "en": "Swampertite"
+    },
+    "Latiasite": {
+        "category": "item",
+        "ja": "ラティアスナイト",
+        "en": "Latiasite"
+    },
+    "Latiosite": {
+        "category": "item",
+        "ja": "ラティオスナイト",
+        "en": "Latiosite"
+    },
     "RabutaBerry": {
         "category": "item",
         "ja": "ラブタのみ",
@@ -1548,6 +1983,16 @@
         "category": "item",
         "ja": "ラムのみ",
         "en": "Lum Berry"
+    },
+    "CharizarditeX": {
+        "category": "item",
+        "ja": "リザードナイトX",
+        "en": "Charizardite X"
+    },
+    "CharizarditeY": {
+        "category": "item",
+        "ja": "リザードナイトY",
+        "en": "Charizardite Y"
     },
     "Calcium": {
         "category": "item",
@@ -1598,6 +2043,21 @@
         "category": "item",
         "ja": "ルームサービス",
         "en": "Room Service"
+    },
+    "Lucarionite": {
+        "category": "item",
+        "ja": "ルカリオナイト",
+        "en": "Lucarionite"
+    },
+    "LucarioniteZ": {
+        "category": "item",
+        "ja": "ルカリオナイトZ",
+        "en": "Lucarionite Z"
+    },
+    "Hawluchanite": {
+        "category": "item",
+        "ja": "ルチャブルナイト",
+        "en": "Hawluchanite"
     },
     "ReaperCloth": {
         "category": "item",
