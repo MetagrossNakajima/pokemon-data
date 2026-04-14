@@ -9698,7 +9698,7 @@
     "Spa": 105,
     "Spd": 107,
     "Spe": 86,
-    "types": ["Electric", "Ghost"],
+    "types": ["Electric", "Ice"],
     "abilities": ["Levitate"],
     "weight": 0.3,
     "height": 0.3
