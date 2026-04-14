@@ -308,3 +308,7 @@ export type AbilityName =
   | "TeraShift"
   | "TeraShell"
   | "ZeroForming"
+  | "MegaSol"
+  | "Dragonize"
+  | "PiercingDrill"
+  | "SpicySpray"
