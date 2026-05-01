@@ -11465,7 +11465,7 @@
     "pp": 10,
     "contact": false,
     "protect": true,
-    "target": "single"
+    "target": "allOpponents"
   },
   "BreakingSwipe": {
     "ja": "ワイドブレイカー",
