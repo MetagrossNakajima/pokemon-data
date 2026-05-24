@@ -1,4 +1,4 @@
-name: Upload sv item icons to Cloudflare R2
+name: Upload v1 item icons to Cloudflare R2
 
 on:
   push:
@@ -34,9 +34,9 @@ jobs:
             --quiet \
             --metadata-directive REPLACE \
             --delete \
-            --exclude "*" --include "*.png" \
+            --exclude "*" --include "*.webp" \
             --storage-class STANDARD \
-            --content-type "image/png" \
+            --content-type "image/webp" \
             --follow-symlinks \
             --region auto \
             --no-progress
