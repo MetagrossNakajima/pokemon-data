@@ -581,7 +581,7 @@
     "Spd": 95,
     "Spe": 110,
     "types": ["Electric"],
-    "abilities": [],
+    "abilities": ["ElectricSurge"],
     "height": 1.2,
     "weight": 38.0
   },
@@ -598,7 +598,7 @@
     "Spd": 80,
     "Spe": 130,
     "types": ["Electric"],
-    "abilities": [],
+    "abilities": ["NoGuard"],
     "height": 1.0,
     "weight": 26.0
   },
