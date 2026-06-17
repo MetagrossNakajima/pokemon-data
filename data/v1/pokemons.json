@@ -8096,7 +8096,7 @@
     "Spa": 60,
     "Spd": 90,
     "Spe": 110,
-    "types": ["Flying"],
+    "types": ["Fighting", "Flying"],
     "abilities": [],
     "height": 1.9,
     "weight": 50.0
