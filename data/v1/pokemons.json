@@ -8097,7 +8097,7 @@
     "Spd": 90,
     "Spe": 110,
     "types": ["Fighting", "Flying"],
-    "abilities": [],
+    "abilities": ["Contrary"],
     "height": 1.9,
     "weight": 50.0
   },
@@ -11282,7 +11282,7 @@
     "Spd": 99,
     "Spe": 62,
     "types": ["Bug", "Poison"],
-    "abilities": [],
+    "abilities": ["ShellArmor"],
     "height": 3.2,
     "weight": 230.5
   },
@@ -11658,7 +11658,7 @@
     "Spd": 135,
     "Spe": 68,
     "types": ["Dark", "Fighting"],
-    "abilities": [],
+    "abilities": ["Intimidate"],
     "height": 1.1,
     "weight": 31.0
   },
@@ -12430,7 +12430,7 @@
     "Spd": 90,
     "Spe": 80,
     "types": ["Electric"],
-    "abilities": [],
+    "abilities": ["Eelevate"],
     "height": 3.0,
     "weight": 180.0
   },
@@ -13709,7 +13709,7 @@
     "Spd": 86,
     "Spe": 126,
     "types": ["Fire", "Normal"],
-    "abilities": [],
+    "abilities": ["FireMane"],
     "height": 1.5,
     "weight": 93.3
   },
@@ -14115,7 +14115,7 @@
     "Spd": 120,
     "Spe": 88,
     "types": ["Dark", "Psychic"],
-    "abilities": [],
+    "abilities": ["Contrary"],
     "height": 2.9,
     "weight": 69.8
   },
@@ -14164,7 +14164,7 @@
     "Spd": 106,
     "Spe": 88,
     "types": ["Rock", "Fighting"],
-    "abilities": [],
+    "abilities": ["ToughClaws"],
     "height": 2.2,
     "weight": 100.0
   },
@@ -14213,7 +14213,7 @@
     "Spd": 163,
     "Spe": 44,
     "types": ["Poison", "Dragon"],
-    "abilities": [],
+    "abilities": ["Regenerator"],
     "height": 2.1,
     "weight": 100.3
   },
@@ -17587,7 +17587,7 @@
     "Spd": 65,
     "Spe": 100,
     "types": ["Fighting"],
-    "abilities": [],
+    "abilities": ["Defiant"],
     "height": 1.6,
     "weight": 99.0
   },

@@ -312,3 +312,5 @@ export type AbilityName =
   | "Dragonize"
   | "PiercingDrill"
   | "SpicySpray"
+  | "FireMane"
+  | "Eelevate"

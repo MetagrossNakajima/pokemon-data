@@ -92,14 +92,14 @@ FORCE_EMPTY_ABILITIES = {
     # Pokemon ZA (25)
     'Clefable-Mega', 'Victreebel-Mega', 'Starmie-Mega', 'Dragonite-Mega',
     'Meganium-Mega', 'Feraligatr-Mega', 'Skarmory-Mega', 'Froslass-Mega',
-    'Emboar-Mega', 'Excadrill-Mega', 'Scolipede-Mega', 'Scrafty-Mega',
-    'Eelektross-Mega', 'Chandelure-Mega',
-    'Pyroar-Mega', 'Floette-Mega', 'Malamar-Mega',
-    'Barbaracle-Mega', 'Dragalge-Mega', 'Hawlucha-Mega', 'Zygarde-Mega',
-    'Drampa-Mega', 'Falinks-Mega', 'Crabominable-Mega',
+    'Emboar-Mega', 'Excadrill-Mega',
+    'Chandelure-Mega',
+    'Floette-Mega',
+    'Hawlucha-Mega', 'Zygarde-Mega',
+    'Drampa-Mega', 'Crabominable-Mega',
     # M次元ラッシュ (18)
     'Raichu-Mega-X', 'Raichu-Mega-Y', 'Chimecho-Mega', 'Lucario-Mega-Z',
-    'Absol-Mega-Z', 'Staraptor-Mega', 'Tatsugiri-Mega', 'Meowstic-Mega',
+    'Absol-Mega-Z', 'Tatsugiri-Mega', 'Meowstic-Mega',
     'Heatran-Mega', 'Golurk-Mega', 'Golisopod-Mega', 'Scovillain-Mega',
     'Glimmora-Mega', 'Darkrai-Mega', 'Magearna-Mega', 'Zeraora-Mega',
     'Baxcalibur-Mega',
@@ -110,6 +110,8 @@ MISSING_ABILITIES = {
     'TeraShift': {'ja': 'テラスチェンジ', 'en': 'Tera Shift'},
     'TeraShell': {'ja': 'テラスシェル', 'en': 'Tera Shell'},
     'ZeroForming': {'ja': 'ゼロフォーミング', 'en': 'Zero Forming'},
+    'FireMane': {'ja': 'ほのおのたてがみ', 'en': 'Fire Mane'},
+    'Eelevate': {'ja': 'うなぎのぼり', 'en': 'Eelevate'},
 }
 
 

@@ -304,7 +304,9 @@ export const jaToEn = new Map([
   ["わざわいのうつわ", "Vessel of Ruin"],
   ["わざわいのおふだ", "Tablets of Ruin"],
   ["わざわいのたま", "Beads of Ruin"],
-  ["わざわいのつるぎ", "Sword of Ruin"]
+  ["わざわいのつるぎ", "Sword of Ruin"],
+  ["ほのおのたてがみ", "Fire Mane"],
+  ["うなぎのぼり", "Eelevate"]
 ]);
 
 export const frToEn = new Map([
@@ -613,7 +615,9 @@ export const frToEn = new Map([
   ["Urne du Fléau", "Vessel of Ruin"],
   ["Bois du Fléau", "Tablets of Ruin"],
   ["Perles du Fléau", "Beads of Ruin"],
-  ["Épée du Fléau", "Sword of Ruin"]
+  ["Épée du Fléau", "Sword of Ruin"],
+  ["Crinière de Feu", "Fire Mane"],
+  ["Lévitaboost", "Eelevate"]
 ]);
 
 export const deToEn = new Map([
@@ -922,7 +926,9 @@ export const deToEn = new Map([
   ["Unheilsgefäß", "Vessel of Ruin"],
   ["Unheilstafeln", "Tablets of Ruin"],
   ["Unheilsjuwelen", "Beads of Ruin"],
-  ["Unheilsschwert", "Sword of Ruin"]
+  ["Unheilsschwert", "Sword of Ruin"],
+  ["Flammenmähne", "Fire Mane"],
+  ["Emporwindung", "Eelevate"]
 ]);
 
 export const itToEn = new Map([
@@ -1231,7 +1237,9 @@ export const itToEn = new Map([
   ["Vaso Nefasto", "Vessel of Ruin"],
   ["Amuleto Nefasto", "Tablets of Ruin"],
   ["Monile Nefasto", "Beads of Ruin"],
-  ["Spada Nefasta", "Sword of Ruin"]
+  ["Spada Nefasta", "Sword of Ruin"],
+  ["Pirocriniera", "Fire Mane"],
+  ["Rapidascesa", "Eelevate"]
 ]);
 
 export const esToEn = new Map([
@@ -1540,7 +1548,9 @@ export const esToEn = new Map([
   ["Caldero Debacle", "Vessel of Ruin"],
   ["Tablilla Debacle", "Tablets of Ruin"],
   ["Abalorio Debacle", "Beads of Ruin"],
-  ["Espada Debacle", "Sword of Ruin"]
+  ["Espada Debacle", "Sword of Ruin"],
+  ["Crin de Fuego", "Fire Mane"],
+  ["Impulso Anguila", "Eelevate"]
 ]);
 
 export const koToEn = new Map([
@@ -1849,7 +1859,9 @@ export const koToEn = new Map([
   ["재앙의그릇", "Vessel of Ruin"],
   ["재앙의목간", "Tablets of Ruin"],
   ["재앙의구슬", "Beads of Ruin"],
-  ["재앙의검", "Sword of Ruin"]
+  ["재앙의검", "Sword of Ruin"],
+  ["불꽃의갈기", "Fire Mane"],
+  ["천정부지", "Eelevate"]
 ]);
 
 export const zhCnToEn = new Map([
@@ -2158,7 +2170,9 @@ export const zhCnToEn = new Map([
   ["灾祸之鼎", "Vessel of Ruin"],
   ["灾祸之简", "Tablets of Ruin"],
   ["灾祸之玉", "Beads of Ruin"],
-  ["灾祸之剑", "Sword of Ruin"]
+  ["灾祸之剑", "Sword of Ruin"],
+  ["火焰鬃毛", "Fire Mane"],
+  ["鳗鳗高升", "Eelevate"]
 ]);
 
 export const zhTwToEn = new Map([
@@ -2467,6 +2481,7 @@ export const zhTwToEn = new Map([
   ["災禍之鼎", "Vessel of Ruin"],
   ["災禍之簡", "Tablets of Ruin"],
   ["災禍之玉", "Beads of Ruin"],
-  ["災禍之劍", "Sword of Ruin"]
+  ["災禍之劍", "Sword of Ruin"],
+  ["火焰鬃毛", "Fire Mane"],
+  ["鰻鰻高升", "Eelevate"]
 ]);
-
