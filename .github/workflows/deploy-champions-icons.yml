@@ -1,10 +1,11 @@
-name: Upload Champions pokemon icons to Cloudflare R2
+name: Upload Champions icons to Cloudflare R2
 
 on:
   push:
     branches:
       - main
     paths:
+      - "icons/champions/items/**"
       - "icons/champions/pokemons/**"
   workflow_dispatch:
 
@@ -12,7 +13,7 @@ permissions:
   contents: read
 
 concurrency:
-  group: upload-champions-pokemon-icons
+  group: upload-champions-icons
   cancel-in-progress: true
 
 jobs:
@@ -21,6 +22,24 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
+      - name: Upload icons/champions/items
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.CLOUDFLARE_ACCESS_KEY }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.CLOUDFLARE_SECRET_KEY }}
+          AWS_EC2_METADATA_DISABLED: "true"
+          CLOUDFLARE_ACCOUNT_ID: ${{ vars.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_BUCKET: ${{ vars.CLOUDFLARE_BUCKET }}
+        run: |
+          aws s3 sync ./icons/champions/items "s3://${CLOUDFLARE_BUCKET}/icons/champions/items" \
+            --endpoint-url="https://${CLOUDFLARE_ACCOUNT_ID}.r2.cloudflarestorage.com" \
+            --region auto \
+            --delete \
+            --exclude "*" \
+            --include "*.webp" \
+            --content-type "image/webp" \
+            --only-show-errors \
+            --no-progress
 
       - name: Upload icons/champions/pokemons
         env:
