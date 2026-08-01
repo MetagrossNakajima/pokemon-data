@@ -1,4 +1,4 @@
-"""Download Pokemon Champions menu sprites into icons/v3/pokemons as WebP."""
+"""Download Pokemon Champions menu sprites into icons/champions/pokemons as WebP."""
 
 from __future__ import annotations
 
@@ -16,7 +16,9 @@ from PIL import Image
 
 API_URL = "https://archives.bulbagarden.net/w/api.php"
 CATEGORY = "Category:Champions_menu_sprites"
-SAVE_DIR = os.path.join(os.path.dirname(__file__), "..", "icons", "v3", "pokemons")
+SAVE_DIR = os.path.join(
+    os.path.dirname(__file__), "..", "icons", "champions", "pokemons"
+)
 POKEMONS_JSON = os.path.join(os.path.dirname(__file__), "..", "data", "v1", "pokemons.json")
 USER_AGENT = "PokemonDataBot/1.0 (local asset sync)"
 DELAY = 0.2
