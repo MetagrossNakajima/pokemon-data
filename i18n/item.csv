@@ -1,3 +1,4 @@
+ja,en,fr,de,it,es,ko,zhCn,zhTw
 ひかりのこな,Bright Powder,Poudre Claire,Blendpuder,Luminpolvere,Polvo Brillo,반짝가루,光粉,光粉
 せんせいのツメ,Quick Claw,Vive Griffe,Flinkklaue,Rapidartigli,Garra Rápida,선제공격손톱,先制之爪,先制之爪
 おうじゃのしるし,King's Rock,Roche Royale,King-Stein,Roccia Di Re,Roca del Rey,왕의징표석,王者之证,王者之證
@@ -33,7 +34,7 @@
 ラッキーパンチ,Lucky Punch,Poing Chance,Lucky Punch,Fortunpugno,Puño Suerte,럭키펀치,吉利拳,吉利拳
 メタルパウダー,Metal Powder,Poudre Metal,Metallstaub,Metalpolvere,Polvo Metálico,금속파우더,金属粉,金屬粉
 ふといホネ,Thick Club,Masse Os,Kampfknochen,Ossospesso,Hueso Grueso,굵은뼈,粗骨头,粗骨頭
-ながねぎ,"Stick Leek","Baton Poireau",Lauchstange,Gambo,"Palo Puerro",대파,大葱,大蔥
+ながねぎ,Stick Leek,Baton Poireau,Lauchstange,Gambo,Palo Puerro,대파,大葱,大蔥
 はかいのいでんし,Berserk Gene,ADN Berzerk,Berserk-Gen,Gene Furioso,Gen Loco,파괴의유전자,破坏基因,破壞基因
 しろいハーブ,White Herb,Herbe Blanche,Schlohkraut,Erbachiara,Hierba Blanca,하양허브,白色香草,白色香草
 きょうせいギプス,Macho Brace,Bracelet Macho,Machoband,Crescicappa,Brazal Firme,교정깁스,强制锻炼器,強制鍛鍊器
@@ -356,3 +357,170 @@
 アッキのみ,Kee Berry,Baie Éka,Akibeere,Baccalighia,Baya Biglia,악키열매,亚开果,亞開果
 タラプのみ,Maranga Berry,Baie Rangma,Tarabeere,Baccapane,Baya Maranga,타라프열매,香罗果,香羅果
 ポフのみ,Hopo Berry,Baie Bouhlon,Pfohbeere,Baccaluppo,Baya Lupu,포흐열매,花啤果,花啤果
+あくのかけじく,Scroll of Darkness,Rouleau des Ténèbres,,,,,,恶之挂轴
+アブソルナイトZ,Absolite Z,Absolite Z,Absolnit Z,Absolite Z,Absolita Z,앱솔나이트Z,阿勃梭鲁进化石Z,阿勃梭魯進化石Z
+あまーいりんご,Sweet Apple,Pomme Sucrée,Süßer Apfel,Dolcepomo,Manzana Dulce,달콤한사과,甜甜苹果,甜甜蘋果
+いいキズぐすり,Super Potion,Super Potion,Supertrank,Superpozione,Superpoción,좋은상처약,好伤药,好傷藥
+いじっぱりミント,Adamant Mint,Aromate Rigide,Hart-Minze,Menta Decisa,Menta Firme,고집민트,固执薄荷,固執薄荷
+イワイノヨロイ,Auspicious Armor,Armure de la Fortune,,,,,,庆祝之铠
+インドメタシン,Carbos,Carbone,Carbon,Carburante,Carburante,알칼로이드,速度增强剂,速度增強劑
+うっかりやミント,Rash Mint,Aromate Foufou,Hitzig-Minze,Menta Ardente,Menta Alocada,덜렁민트,马虎薄荷,馬虎薄荷
+ウツボットナイト,Victreebelite,Empiflorite,Sarzenianit,Victreebelite,Victreebelita,우츠보트나이트,大食花進化石,大食花進化石
+エアームドナイト,Skarmorite,Airmurite,Panzaeronit,Skarmorite,Skarmorita,무장조나이트,盔甲鸟进化石,盔甲鳥進化石
+エンブオナイト,Emboarite,Roitiflamite,Flambirexonit,Emboarite,Emboarita,염무왕나이트,炎武王进化石,炎武王進化石
+おいしいみず,Fresh Water,Eau Fraîche,Tafelwasser,Acqua fresca,Agua Fresca,맛있는물,美味之水,美味之水
+オーダイルナイト,Feraligite,Aligatueurite,Impergatornit,Feraligatrite,Feraligatrita,장크로다일나이트,大力鳄进化石,大力鱷進化石
+おくびょうミント,Timid Mint,Aromate Timide,Scheu-Minze,Menta Timida,Menta Miedosa,겁쟁이민트,胆小薄荷,膽小薄荷
+おだやかミント,Calm Mint,Aromate Calme,Still-Minze,Menta Calma,Menta Serena,차분민트,温和薄荷,溫和薄荷
+おっとりミント,Mild Mint,Aromate Doux,Mild-Minze,Menta Mite,Menta Afable,의젓민트,慢吞吞薄荷,慢吞吞薄荷
+おとなしいミント,Gentle Mint,Aromate Gentil,Zart-Minze,Menta Gentile,Menta Amable,얌전민트,温顺薄荷,溫順薄荷
+かいふくのくすり,Full Restore,Guérison,Top-Genesung,Ricarica totale,Restaurar Todo,회복약,全复药,全復藥
+カイリュナイト,Dragoninite,Dracolossite,Dragoranit,Dragonitite,Dragonitita,망나뇽나이트,快龙進化石,快龍進化石
+カエンジシナイト,Pyroarite,Néméliosite,Pyroleonit,Pyroarite,Pyroarita,화염레오나이트,火炎狮进化石,火炎獅進化石
+かけたポット,Chipped Pot,Théière Ébréchée,Löchrige Kanne,Teiera crepata,Tetera Rota,이빠진포트,缺损的茶壶,缺損的茶壺
+かしらのしるし,Leader's Crest,Emblème du Général,,,,,,头领凭证
+ガブリアスナイトZ,Garchompite Z,Carchacrokite Z,Knakracknit Z,Garchompite Z,Garchompita Z,한카리아스나이트Z,烈咬陆鲨进化石Z,烈咬陸鯊進化石Z
+かみなりのいし,Thunder Stone,Pierre Foudre,Donnerstein,Pietratuono,Piedra Trueno,천둥의돌,雷之石,雷之石
+ガメノデスナイト,Barbaracite,Golgopathite,Thanathoranit,Barbaraclite,Barbaraclita,거북손데스나이트,龟足巨铠进化石,龜足巨鎧進化石
+カラマネナイト,Malamarite,Sepiatrocite,Calamaneronit,Malamarite,Malamarita,칼라마네로나이트,乌贼王进化石,烏賊王進化石
+キズぐすり,Potion,Potion,Trank,Pozione,Poción,상처약,伤药,傷藥
+キトサン,Zinc,Zinc,Zink,Zinco,Zinc,키토산,特防增强剂,特防增強劑
+キラフロルナイト,Glimmoranite,Floréclatite,Lumifloranit,Glimmorite,Glimmoranita,킬라플로르나이트,晶光花进化石,晶光花進化石
+きんりょくのもち,Muscle Mochi,Mochi Force,,,,,,
+クイックボール,Quick Ball,Rapide Ball,Flottball,Velox Ball,Veloz Ball,퀵볼,先机球,先機球
+グソクムシャナイト,Golisopite,Sarmuraïte,Tectassnit,Golisopodite,Golisopodita,갑주무사나이트,具甲武者进化石,具甲武者進化石
+ケケンカニナイト,Crabominite,Crabominablite,Krawellonit,Crabominablite,Crabominablita,모단단게나이트,好胜毛蟹进化石,好勝毛蟹進化石
+ゲッコウガナイト,Greninjite,Amphinolite,Quajutsunit,Greninjite,Greninjanita,개굴닌자나이트,甲贺忍蛙进化石,甲賀忍蛙進化石
+ケッサクのちゃわん,Masterpiece Teacup,Bol Exceptionnel,Edle Teeschale,Tazza eccezionale,Cuenco Exquisito,걸작찻잔,杰作茶碗,傑作茶碗
+げんきのかけら,Revive,Rappel,Beleber,Revitalizzante,Revivir,기력의조각,活力碎片,活力碎片
+げんきのかたまり,Max Revive,Rappel Max,Top-Beleber,Revitalizz. Max,Revivir Máximo,기력의덩어리,活力块,活力塊
+こおりなおし,Ice Heal,Antigel,Eisheiler,Antigelo,Antihielo,얼음상태치료제,解冻药,解凍藥
+こおりのいし,Ice Stone,Pierre Glace,Eisstein,Pietragelo,Piedra Hielo,얼음의돌,冰之石,冰之石
+ゴージャスボール,Luxury Ball,Luxe Ball,Luxusball,Chic Ball,Lujo Ball,럭셔리볼,豪华球,豪華球
+ゴルーグナイト,Golurkite,Golemastokite,Golgantesnit,Golurkite,Golurkita,골루그나이트,泥偶巨人进化石,泥偶巨人進化石
+コンペボール,Sport Ball,Compét’Ball,Turnierball,Gara Ball,Competi Ball,컴퍼티션볼,竞赛球,競賽球
+サイコソーダ,Soda Pop,Soda Cool,Sprudel,Gassosa,Refresco,미네랄사이다,劲爽汽水,勁爽汽水
+サファリボール,Safari Ball,Safari Ball,Safariball,Safari Ball,Safari Ball,사파리볼,狩猎球,狩獵球
+さみしがりミント,Lonely Mint,Aromate Solo,Solo-Minze,Menta Schiva,Menta Huraña,외로움민트,怕寂寞薄荷,怕寂寞薄荷
+ジガルデナイト,Zygardite,Zygardite,Zygardenit,Zygardite,Zygardita,지가르데나이트,基格尔德进化石,基格爾德進化石
+ジジーロナイト,Drampanite,Draïeulite,Sen-Longnit,Drampite,Drampanita,할비롱나이트,老翁龙进化石,老翁龍進化石
+シビルドナイト,Eelektrossite,Ohmassacrite,Zapplarangonit,Eelektrossite,Eelektrossita,저리더프나이트,麻麻鳗鱼王进化石,麻麻鰻魚王進化石
+シャリタツナイト,Tatsugirinite,Nigirigonite,Nigiraginit,Tatsugirite,Tatsugirita,싸리용나이트,米立龙进化石,米立龍進化石
+シャンデラナイト,Chandelurite,Lugulabrite,Skelabranit,Chandelurite,Chandelurita,샹델라나이트,水晶灯火灵进化石,水晶燈火靈進化石
+しゅんぱつのもち,Swift Mochi,Mochi Sprint,,,,,,
+しんちょうミント,Careful Mint,Aromate Prudent,Sacht-Minze,Menta Cauta,Menta Cauta,신중민트,慎重薄荷,慎重薄荷
+すごいキズぐすり,Hyper Potion,Hyper Potion,Hypertrank,Iperpozione,Hiperpoción,고급상처약,厉害伤药,厲害傷藥
+スコヴィラナイト,Scovillainite,Scovilainite,Halupenjonit,Scovillainite,Scovillainita,스코빌런나이트,狠辣椒进化石,狠辣椒進化石
+スターミナイト,Starminite,Starossite,Starmienit,Starmite,Starmita,아쿠스타나이트,宝石海星进化石,寶石海星進化石
+すっぱいりんご,Tart Apple,Pomme Acidulée,Saurer Apfel,Aspropomo,Manzana Ácida,새콤한사과,酸酸苹果,酸酸蘋果
+スーパーボール,Great Ball,Super Ball,Superball,Mega Ball,Super Ball,슈퍼볼,超级球,超級球
+スピードボール,Fast Ball,Speed Ball,Turboball,Rapid Ball,Rapid Ball,스피드볼,速度球,速度球
+ずぶといミント,Bold Mint,Aromate Assuré,Kühn-Minze,Menta Sicura,Menta Osada,대담민트,大胆薄荷,大膽薄荷
+スペシャルアップ,X Sp. Atk,Atq. Spé. +,X-Sp.-Ang.,Att. Speciale X,At. Especial X,스페셜업,特攻强化,特攻強化
+スペシャルガード,X Sp. Def,Déf. Spé. +,X-Sp.-Vert.,Dif. Speciale X,Def. Especial X,스페셜가드,特防强化,特防強化
+ズルズキナイト,Scraftinite,Baggaïdite,Irokexonit,Scraftite,Scraftita,곤율거니나이트,头巾混混进化石,頭巾混混進化石
+せいしんのもち,Clever Mochi,Mochi Mental,,,,,,
+セグレイブナイト,Baxcalibrite,Glaivodite,Espinodonit,Baxcaliburite,Baxcaliburita,드닐레이브나이트,戟脊龙进化石,戟脊龍進化石
+せっかちミント,Hasty Mint,Aromate Pressé,Hastig-Minze,Menta Lesta,Menta Activa,성급민트,急躁薄荷,急躁薄荷
+ゼラオラナイト,Zeraorite,Zeraorite,Zeraoranit,Zeraorite,Zeraoranita,제라오라나이트,捷拉奥拉进化石,捷拉奧拉進化石
+ダークライナイト,Darkranite,Darkraïte,Darkrainit,Darkraite,Darkrainita,다크라이나이트,达克莱伊进化石,達克萊伊進化石
+ダイブボール,Dive Ball,Scuba Ball,Tauchball,Sub Ball,Buceo Ball,다이브볼,潜水球,潛水球
+タイマーボール,Timer Ball,Chrono Ball,Timerball,Timer Ball,Turno Ball,타이머볼,计时球,計時球
+たいようのいし,Sun Stone,Pierre Soleil,Sonnenstein,Pietrasolare,Piedra Solar,태양의돌,日之石,日之石
+たいりょくのもち,Health Mochi,Mochi Santé,,,,,,
+タイレーツナイト,Falinksite,Hexadronite,Legiosnit,Falinksite,Falinksita,대여르나이트,列阵兵进化石,列陣兵進化石
+タウリン,Protein,Protéine,Protein,Proteina,Proteína,타우린,攻击增强剂,攻擊增強劑
+ダークボール,Dusk Ball,Sombre Ball,Finsterball,Scuro Ball,Ocaso Ball,다크볼,黑暗球,黑暗球
+ちからのこな,Energy Powder,Poudrénergie,Energiestaub,Polvenergia,Polvo Energía,힘의가루,元气粉,元氣粉
+ちからのねっこ,Energy Root,Racinénergie,Kraftwurzel,Radicenergia,Raíz Energía,힘의뿌리,元气根,元氣根
+チリーンナイト,Chimechite,Éokite,Palimpalimonit,Chimechite,Chimechita,치렁나이트,风铃铃进化石,風鈴鈴進化石
+ちりょくのもち,Genius Mochi,Mochi Esprit,,,,,,
+つきのいし,Moon Stone,Pierre Lune,Mondstein,Pietralunare,Piedra Lunar,달의돌,月之石,月之石
+ていこうのもち,Resist Mochi,Mochi Armure,,,,,,
+ディフェンダー,X Defense,Défense +,X-Verteidigung,Difesa X,Defensa X,디펜드업,防御强化,防禦強化
+どくけし,Antidote,Antidote,Gegengift,Antidoto,Antídoto,해독제,解毒药,解毒藥
+とくせいカプセル,Ability Capsule,Pilule Talent,Fähigk.-Kapsel,Capsula abilità,Cáps. Habilidad,특성캡슐,特性胶囊,特性膠囊
+とくせいパッチ,Ability Patch,Patch Talent,Fähigk.-Pflaster,Cerotto abilità,Parche Habilidad,특성패치,特性膏药,特性膏藥
+ドラミドナイト,Dragalgite,Kravarekite,Tandraknit,Dragalgite,Dragalgita,드래캄나이트,毒藻龙进化石,毒藻龍進化石
+ドリームボール,Dream Ball,Rêve Ball,Traumball,Dream Ball,Ensueño Ball,드림볼,梦境球,夢境球
+ドリュウズナイト,Excadrite,Minotaupite,Stalobornit,Excadrillite,Excadrillita,몰드류나이트,龙头地鼠进化石,龍頭地鼠進化石
+なまいきミント,Sassy Mint,Aromate Malpoli,Forsch-Minze,Menta Vivace,Menta Grosera,건방민트,自大薄荷,自大薄荷
+なんでもなおし,Full Heal,Total Soin,Hyperheiler,Cura totale,Cura Total,만병통치제,万灵药,萬靈藥
+ニャオニクスナイト,Meowsticite,Psiaugonit,Mistigrixite,Meowsticite,Meowsticita,냐오닉스나이트,超能妙喵进化石,超能妙喵進化石
+ネストボール,Nest Ball,Faiblo Ball,Nestball,Minor Ball,Nido Ball,네스트볼,巢穴球,巢穴球
+ネットボール,Net Ball,Filet Ball,Netzball,Rete Ball,Malla Ball,네트볼,捕网球,捕網球
+ねむけざまし,Awakening,Réveil,Aufwecker,Sveglia,Despertar,잠깨는약,解眠药,解眠藥
+のうてんきミント,Lax Mint,Aromate Lâche,Lasch-Minze,Menta Fiacca,Menta Floja,촐랑민트,乐天薄荷,樂天薄荷
+ノロイノヨロイ,Malicious Armor,Armure de la Rancune,,,,,,咒术之铠
+のんきミント,Relaxed Mint,Aromate Relax,Locker-Minze,Menta Placida,Menta Plácida,무사태평민트,悠闲薄荷,悠閒薄荷
+ハイパーボール,Ultra Ball,Hyper Ball,Hyperball,Ultra Ball,Ultra Ball,하이퍼볼,高级球,高級球
+ばんのうごな,Heal Powder,Poudre Soin,Heilpuder,Polvocura,Polvo Curación,만능가루,万能粉,萬能粉
+ヒードラナイト,Heatranite,Heatranite,Heatranit,Heatranita,Heatranite,히드런나이트,席多蓝恩进化石,席多藍恩進化石
+ひかえめミント,Modest Mint,Aromate Modeste,Mäßig-Minze,Menta Modesta,Menta Modesta,조심민트,内敛薄荷,內斂薄荷
+ひかりのいし,Shiny Stone,Pierre Éclat,Leuchtstein,Pietrabrillo,Piedra Día,빛의돌,光之石,光之石
+ピクシナイト,Clefablite,Mélodelfite,Pixinit,Clefablite,Clefablita,픽시나이트,皮可西進化石,皮可西進化石
+ピーピーエイダー,Elixir,Élixir,Elixier,Elisir,Elixir,PP에이더,ＰＰ多项小补剂,ＰＰ多項小補劑
+ピーピーエイド,Ether,Huile,Äther,Etere,Éter,PP에이드,ＰＰ单项小补剂,ＰＰ單項小補劑
+ピーピーマックス,Max Elixir,Élixir Max,Top-Elixier,Elisir Max,Elixir Máximo,PP맥스,ＰＰ多项全补剂,ＰＰ多項全補劑
+ピーピーリカバー,Max Ether,Huile Max,Top-Äther,Etere Max,Éter Máximo,PP회복,ＰＰ单项全补剂,ＰＰ單項全補劑
+ビビリだま,Adrenaline Orb,Orbe Frousse,Zitterorb,Fifasfera,Nerviosfera,주눅구슬,胆怯球,膽怯球
+ヒールボール,Heal Ball,Soin Ball,Heilball,Cura Ball,Sana Ball,힐볼,治愈球,治癒球
+ふしぎなアメ,Rare Candy,Super Bonbon,Sonderbonbon,Caramella rara,Caramelo Raro,이상한사탕,神奇糖果,神奇糖果
+ふっかつそう,Revival Herb,Herbe Rappel,Vitalkraut,Vitalerba,Hierba Revivir,부활초,复活草,復活草
+フラエッテナイト,Floettite,Floettite,Floetteonit,Floettite,Floettita,플라엣테나이트,花叶蒂进化石,花葉蒂進化石
+プラスパワー,X Attack,Attaque +,X-Angriff,Attacco X,Ataque X,플러스파워,力量强化,力量強化
+ブリガロナイト,Chesnaughtite,Blindépiquite,Brigaronit,Chesnaughtite,Chesnaughtita,브리가론나이트,布里卡隆进化石,布里卡隆進化石
+プレミアボール,Premier Ball,Honor Ball,Premierball,Premier Ball,Honor Ball,프리미어볼,纪念球,紀念球
+フレンドボール,Friend Ball,Copain Ball,Freundesball,Friend Ball,Amigo Ball,프렌드볼,友友球,友友球
+ブロムヘキシン,Iron,Fer,Eisen,Ferro,Hierro,사포닌,防御增强剂,防禦增強劑
+ヘビーボール,Heavy Ball,Masse Ball,Schwerball,Peso Ball,Peso Ball,헤비볼,沉重球,沉重球
+ペンドラナイト,Scolipite,Brutapodite,Cerapendranit,Scolipedite,Scolipedita,펜드라나이트,蜈蚣王进化石,蜈蚣王進化石
+ポイントアップ,PP Up,PP Plus,AP-Plus,PP-Su,Más PP,포인트업,ＰＰ提升剂,ＰＰ提升劑
+ポイントマックス,PP Max,PP Max,AP-Top,PP-Max,PP Máximos,포인트맥스,ＰＰ极限提升剂,ＰＰ極限提升劑
+ほのおのいし,Fire Stone,Pierre Feu,Feuerstein,Pietrafocaia,Piedra Fuego,불꽃의돌,火之石,火之石
+ボンサクのちゃわん,Unremarkable Teacup,Bol Médiocre,Simple Teeschale,Tazza dozzinale,Cuenco Mediocre,범작찻잔,,凡作茶碗
+マギアナイト,Magearnite,Magearnite,Magearnanit,Magearnite,Magearnita,마기아나이트,玛机雅娜进化石,瑪機雅娜進化石
+まっさらプレート,Blank Plate,Plaque Renouveau,,,,,,净空石板
+まじめミント,Serious Mint,Aromate Sérieux,Ernst-Minze,Menta Seria,Menta Seria,성실민트,认真薄荷,認真薄荷
+マスターボール,Master Ball,Master Ball,Meisterball,Master Ball,Master Ball,마스터볼,大师球,大師球
+マックスアップ,HP Up,PV Plus,KP-Plus,PS-Su,Más PS,맥스업,ＨＰ增强剂,ＨＰ增強劑
+まっさらもち,Fresh-Start Mochi,Mochi Renouveau,,,,,,
+まひなおし,Paralyze Heal,Anti-Para,Para-Heiler,Antiparalisi,Antiparalizador,마비치료제,解麻药,解麻藥
+マフォクシナイト,Delphoxite,Goupelinite,Fennexisnit,Delphoxite,Delphoxita,마폭시나이트,妖火红狐进化石,妖火紅狐進化石
+まんたんのくすり,Max Potion,Potion Max,Top-Trank,Pozione Max,Poción Máxima,풀회복약,全满药,全滿藥
+みずのいし,Water Stone,Pierre Eau,Wasserstein,Pietraidrica,Piedra Agua,물의돌,水之石,水之石
+みずのかけじく,Scroll of Waters,Rouleau de l'Eau,,,,,,水之挂轴
+みついりりんご,Syrupy Apple,Pomme Nectar,Saftiger Apfel,Sciroppomo,Manzana Melosa,꿀맛사과,蜜汁苹果,蜜汁蘋果
+ミックスオレ,Lemonade,Limonade,Limonade,Lemonsucco,Limonada,후르츠밀크,果汁牛奶,果汁牛奶
+ムクホークナイト,Staraptite,Étouraptorite,Staraptornit,Staraptorite,Staraptorita,찌르호크나이트,姆克鹰进化石,姆克鷹進化石
+むじゃきミント,Naive Mint,Aromate Naïf,Naiv-Minze,Menta Ingenua,Menta Ingenua,천진난만민트,天真薄荷,天真薄荷
+ムーンボール,Moon Ball,Lune Ball,Mondball,Luna Ball,Luna Ball,문볼,月亮球,月亮球
+メガニウムナイト,Meganiumite,Méganiumite,Meganienit,Meganiumite,Meganiumita,메가니움나이트,大竺葵进化石,大竺葵進化石
+モーモーミルク,Moomoo Milk,Lait Meumeu,Kuhmuh-Milch,Latte Mumu,Leche Mu-mu,튼튼밀크,哞哞鲜奶,哞哞鮮奶
+モンスターボール,Poke Ball,Poké Ball,Pokéball,Poké Ball,Poké Ball,몬스터볼,精灵球,精靈球
+やけどなおし,Burn Heal,Anti-Brûle,Feuerheiler,Antiscottatura,Antiquemar,화상치료제,灼伤药,灼傷藥
+やみのいし,Dusk Stone,Pierre Nuit,Finsterstein,Neropietra,Piedra Noche,어둠의돌,暗之石,暗之石
+ユキメノコナイト,Froslassite,Momartikite,Frosdedjenit,Froslassite,Froslassita,눈여아나이트,雪妖女进化石,雪妖女進化石
+やんちゃミント,Naughty Mint,Aromate Mauvais,Frech-Minze,Menta Birbona,Menta Pícara,개구쟁이민트,顽皮薄荷,頑皮薄荷
+ゆうかんミント,Brave Mint,Aromate Brave,Mutig-Minze,Menta Audace,Menta Audaz,용감민트,勇敢薄荷,勇敢薄荷
+ようきミント,Jolly Mint,Aromate Jovial,Froh-Minze,Menta Allegra,Menta Alegre,명랑민트,爽朗薄荷,爽朗薄荷
+ヨクアタール,X Accuracy,Précision +,X-Genauigkeit,Precisione X,Precisión X,잘-맞히기,命中强化,命中強化
+ライチュウナイトX,Raichunite X,Raichuïte X,Raichunit X,Raichuite X,Raichunita X,라이츄나이트X,雷丘进化石Ｘ,雷丘進化石Ｘ
+ライチュウナイトY,Raichunite Y,Raichuïte Y,Raichunit Y,Raichuite Y,Raichunita Y,라이츄나이트Y,雷丘进化石Ｙ,雷丘進化石Ｙ
+ラブラブボール,Love Ball,Love Ball,Sympaball,Love Ball,Amor Ball,러브러브볼,甜蜜球,甜蜜球
+リゾチウム,Calcium,Calcium,Kalzium,Calcio,Calcio,리보플라빈,特攻增强剂,特攻增強劑
+リピートボール,Repeat Ball,Bis Ball,Wiederball,Bis Ball,Acopio Ball,리피트볼,重复球,重複球
+リーフのいし,Leaf Stone,Pierre Plante,Blattstein,Pietrafoglia,Piedra Hoja,리프의돌,叶之石,葉之石
+ルアーボール,Lure Ball,Appât Ball,Köderball,Esca Ball,Cebo Ball,루어볼,诱饵球,誘餌球
+ルカリオナイトZ,Lucarionite Z,Lucarite Z,Lucarionit Z,Lucarite Z,Lucarita Z,루카리오나이트Z,路卡利欧进化石Z,路卡利歐進化石Z
+ルチャブルナイト,Hawluchanite,Brutalibrite,Resladeronit,Hawluchite,Hawluchanita,루차불나이트,摔角鹰人进化石,摔角鷹人進化石
+れいせいミント,Quiet Mint,Aromate Discret,Ruhig-Minze,Menta Quieta,Menta Mansa,냉정민트,冷静薄荷,冷靜薄荷
+レベルボール,Level Ball,Niveau Ball,Levelball,Level Ball,Nivel Ball,레벨볼,等级球,等級球
+われたポット,Cracked Pot,Théière Fêlée,Rissige Kanne,Teiera rotta,Tetera Agrietada,깨진포트,破裂的茶壶,破裂的茶壺
+わんぱくミント,Impish Mint,Aromate Malin,Pfiffig-Minze,Menta Scaltra,Menta Agitada,장난꾸러기민트,淘气薄荷,淘氣薄荷
+きんりょくのハネ,Muscle Feather,Plume Force,Kraftfeder,Piumpotenza,Pluma Músculo,근력깃털,肌力之羽,肌力之羽
+しゅんぱつのハネ,Swift Feather,Plume Sprint,Flinkfeder,Piumreazione,Pluma Ímpetu,순발력깃털,瞬发之羽,瞬發之羽
+せいしんのハネ,Clever Feather,Plume Mental,Espritfeder,Piumintuito,Pluma Mente,정신력깃털,精神之羽,精神之羽
+たいりょくのハネ,Health Feather,Plume Santé,Heilfeder,Piumsalute,Pluma Vigor,체력깃털,体力之羽,體力之羽
+ちりょくのハネ,Genius Feather,Plume Esprit,Geniefeder,Piumingegno,Pluma Intelecto,지력깃털,智力之羽,智力之羽
+ていこうのハネ,Resist Feather,Plume Armure,Abwehrfeder,Piumtutela,Pluma Aguante,저항력깃털,抵抗之羽,抵抗之羽
