@@ -1102,7 +1102,8 @@
     "contact": true,
     "protect": true,
     "target": "single",
-    "sheerForce": true
+    "sheerForce": true,
+    "recoil": true
   },
   "OdorSleuth": {
     "ja": "かぎわける",
@@ -2487,7 +2488,8 @@
     "pp": 20,
     "contact": true,
     "protect": true,
-    "target": "single"
+    "target": "single",
+    "recoil": true
   },
   "ThroatChop": {
     "ja": "じごくづき",
@@ -2722,7 +2724,8 @@
     "pp": 15,
     "contact": true,
     "protect": true,
-    "target": "single"
+    "target": "single",
+    "recoil": true
   },
   "PartingShot": {
     "ja": "すてゼリフ",
@@ -3739,7 +3742,8 @@
     "pp": 20,
     "contact": true,
     "protect": true,
-    "target": "single"
+    "target": "single",
+    "recoil": true
   },
   "LastResort": {
     "ja": "とっておき",
@@ -3788,7 +3792,8 @@
     "pp": 10,
     "contact": true,
     "protect": true,
-    "target": "single"
+    "target": "single",
+    "recoil": true
   },
   "Pounce": {
     "ja": "とびつく",
@@ -3826,7 +3831,8 @@
     "pp": 10,
     "contact": true,
     "protect": true,
-    "target": "single"
+    "target": "single",
+    "recoil": true
   },
   "CircleThrow": {
     "ja": "ともえなげ",
@@ -4652,7 +4658,8 @@
     "pp": 5,
     "contact": false,
     "protect": true,
-    "target": "single"
+    "target": "single",
+    "recoil": true
   },
   "UpperHand": {
     "ja": "はやてがえし",
@@ -5897,7 +5904,8 @@
     "pp": 5,
     "contact": true,
     "protect": true,
-    "target": "single"
+    "target": "single",
+    "recoil": true
   },
   "Incinerate": {
     "ja": "やきつくす",
@@ -6557,7 +6565,8 @@
     "pp": 15,
     "contact": true,
     "protect": true,
-    "target": "single"
+    "target": "single",
+    "recoil": true
   },
   "DevastatingDrake": {
     "ja": "アルティメットドラゴンバーン",
@@ -6703,7 +6712,8 @@
     "pp": 10,
     "contact": true,
     "protect": true,
-    "target": "single"
+    "target": "single",
+    "recoil": true
   },
   "WoodHammer": {
     "ja": "ウッドハンマー",
@@ -6715,7 +6725,8 @@
     "pp": 15,
     "contact": true,
     "protect": true,
-    "target": "single"
+    "target": "single",
+    "recoil": true
   },
   "HornLeech": {
     "ja": "ウッドホーン",
@@ -8067,7 +8078,8 @@
     "pp": 15,
     "contact": true,
     "protect": true,
-    "target": "single"
+    "target": "single",
+    "recoil": true
   },
   "ThunderCage": {
     "ja": "サンダープリズン",
@@ -10345,7 +10357,8 @@
     "contact": true,
     "protect": true,
     "target": "single",
-    "sheerForce": true
+    "sheerForce": true,
+    "recoil": true
   },
   "VeeveeVolley": {
     "ja": "ブイブイブレイク",
@@ -10482,7 +10495,8 @@
     "pp": 15,
     "contact": true,
     "protect": true,
-    "target": "single"
+    "target": "single",
+    "recoil": true
   },
   "Obstruct": {
     "ja": "ブロッキング",
@@ -10693,7 +10707,8 @@
     "contact": true,
     "protect": true,
     "target": "single",
-    "sheerForce": true
+    "sheerForce": true,
+    "recoil": true
   },
   "VoltSwitch": {
     "ja": "ボルトチェンジ",
@@ -11490,7 +11505,8 @@
     "pp": 15,
     "contact": true,
     "protect": true,
-    "target": "single"
+    "target": "single",
+    "recoil": true
   },
   "StrangeSteam": {
     "ja": "ワンダースチーム",
