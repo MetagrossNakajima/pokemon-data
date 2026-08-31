@@ -9101,7 +9101,7 @@
     "Spd": 70,
     "Spe": 151,
     "types": ["Fighting", "Steel"],
-    "abilities": [],
+    "abilities": ["WaveShield"],
     "height": 1.3,
     "weight": 49.4
   },
