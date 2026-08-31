@@ -98,7 +98,7 @@ FORCE_EMPTY_ABILITIES = {
     'Hawlucha-Mega', 'Zygarde-Mega',
     'Drampa-Mega', 'Crabominable-Mega',
     # M次元ラッシュ (18)
-    'Raichu-Mega-X', 'Raichu-Mega-Y', 'Chimecho-Mega', 'Lucario-Mega-Z',
+    'Raichu-Mega-X', 'Raichu-Mega-Y', 'Chimecho-Mega',
     'Tatsugiri-Mega', 'Meowstic-Mega',
     'Heatran-Mega', 'Golurk-Mega', 'Golisopod-Mega', 'Scovillain-Mega',
     'Glimmora-Mega', 'Darkrai-Mega', 'Magearna-Mega', 'Zeraora-Mega',
@@ -112,11 +112,13 @@ MISSING_ABILITIES = {
     'ZeroForming': {'ja': 'ゼロフォーミング', 'en': 'Zero Forming'},
     'FireMane': {'ja': 'ほのおのたてがみ', 'en': 'Fire Mane'},
     'Eelevate': {'ja': 'うなぎのぼり', 'en': 'Eelevate'},
+    'WaveShield': {'ja': 'はどうのぼうご', 'en': 'Wave Shield'},
 }
 
 ANNOUNCED_MEGA_ABILITIES = {
     'Garchomp-Mega-Z': ['Levitate'],
     'Absol-Mega-Z': ['Sharpness'],
+    'Lucario-Mega-Z': ['WaveShield'],
 }
 
 

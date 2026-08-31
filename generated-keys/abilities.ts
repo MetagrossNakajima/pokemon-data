@@ -314,3 +314,4 @@ export type AbilityName =
   | "SpicySpray"
   | "FireMane"
   | "Eelevate"
+  | "WaveShield"

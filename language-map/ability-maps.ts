@@ -306,7 +306,8 @@ export const jaToEn = new Map([
   ["わざわいのたま", "Beads of Ruin"],
   ["わざわいのつるぎ", "Sword of Ruin"],
   ["ほのおのたてがみ", "Fire Mane"],
-  ["うなぎのぼり", "Eelevate"]
+  ["うなぎのぼり", "Eelevate"],
+  ["はどうのぼうご", "Wave Shield"]
 ]);
 
 export const frToEn = new Map([
