@@ -99,7 +99,7 @@ FORCE_EMPTY_ABILITIES = {
     'Drampa-Mega', 'Crabominable-Mega',
     # M次元ラッシュ (18)
     'Raichu-Mega-X', 'Raichu-Mega-Y', 'Chimecho-Mega', 'Lucario-Mega-Z',
-    'Absol-Mega-Z', 'Tatsugiri-Mega', 'Meowstic-Mega',
+    'Tatsugiri-Mega', 'Meowstic-Mega',
     'Heatran-Mega', 'Golurk-Mega', 'Golisopod-Mega', 'Scovillain-Mega',
     'Glimmora-Mega', 'Darkrai-Mega', 'Magearna-Mega', 'Zeraora-Mega',
     'Baxcalibur-Mega',
@@ -112,6 +112,11 @@ MISSING_ABILITIES = {
     'ZeroForming': {'ja': 'ゼロフォーミング', 'en': 'Zero Forming'},
     'FireMane': {'ja': 'ほのおのたてがみ', 'en': 'Fire Mane'},
     'Eelevate': {'ja': 'うなぎのぼり', 'en': 'Eelevate'},
+}
+
+ANNOUNCED_MEGA_ABILITIES = {
+    'Garchomp-Mega-Z': ['Levitate'],
+    'Absol-Mega-Z': ['Sharpness'],
 }
 
 
@@ -364,6 +369,11 @@ def main():
     for key in FORCE_EMPTY_ABILITIES:
         if key in pokemons:
             assigned[key] = []
+
+    # Apply abilities announced after the source CSV was published.
+    for key, ability_keys in ANNOUNCED_MEGA_ABILITIES.items():
+        if key in pokemons:
+            assigned[key] = ability_keys
 
     # Apply abilities to pokemons.json
     new_pokemons = {}

@@ -7269,7 +7269,7 @@
     "Spd": 60,
     "Spe": 151,
     "types": ["Dark", "Ghost"],
-    "abilities": [],
+    "abilities": ["Sharpness"],
     "height": 1.2,
     "weight": 49.0
   },
@@ -9002,7 +9002,7 @@
     "Spd": 85,
     "Spe": 151,
     "types": ["Dragon"],
-    "abilities": [],
+    "abilities": ["Levitate"],
     "height": 1.9,
     "weight": 99.0
   },
