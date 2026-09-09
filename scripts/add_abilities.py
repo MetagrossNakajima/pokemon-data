@@ -100,9 +100,8 @@ FORCE_EMPTY_ABILITIES = {
     # M次元ラッシュ (18)
     'Raichu-Mega-X', 'Raichu-Mega-Y', 'Chimecho-Mega',
     'Tatsugiri-Mega', 'Meowstic-Mega',
-    'Heatran-Mega', 'Golurk-Mega', 'Golisopod-Mega', 'Scovillain-Mega',
+    'Heatran-Mega', 'Golurk-Mega', 'Scovillain-Mega',
     'Glimmora-Mega', 'Darkrai-Mega', 'Magearna-Mega', 'Zeraora-Mega',
-    'Baxcalibur-Mega',
 }
 
 # Missing abilities to add to abilities.json
@@ -119,6 +118,8 @@ ANNOUNCED_MEGA_ABILITIES = {
     'Garchomp-Mega-Z': ['Levitate'],
     'Absol-Mega-Z': ['Sharpness'],
     'Lucario-Mega-Z': ['WaveShield'],
+    'Golisopod-Mega': ['ToughClaws'],
+    'Baxcalibur-Mega': ['ThermalExchange'],
 }
 
 
