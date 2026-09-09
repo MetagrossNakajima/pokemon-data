@@ -15819,7 +15819,7 @@
     "Spd": 120,
     "Spe": 40,
     "types": ["Bug", "Steel"],
-    "abilities": [],
+    "abilities": ["ToughClaws"],
     "height": 2.3,
     "weight": 148.0
   },
@@ -19992,7 +19992,7 @@
     "Spd": 101,
     "Spe": 87,
     "types": ["Dragon", "Ice"],
-    "abilities": [],
+    "abilities": ["ThermalExchange"],
     "height": 2.1,
     "weight": 315.0
   },
