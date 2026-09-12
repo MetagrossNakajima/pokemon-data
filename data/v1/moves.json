@@ -1608,7 +1608,7 @@
     "en": "Slash",
     "type": "Normal",
     "category": "physical",
-    "power": 70,
+    "power": 80,
     "accuracy": 100,
     "pp": 20,
     "contact": true,
@@ -3604,7 +3604,8 @@
     "pp": 5,
     "contact": true,
     "protect": true,
-    "target": "single"
+    "target": "single",
+    "punch": true
   },
   "ThunderWave": {
     "ja": "でんじは",
@@ -4370,7 +4371,7 @@
     "en": "Snipe Shot",
     "type": "Water",
     "category": "special",
-    "power": 80,
+    "power": 85,
     "accuracy": 100,
     "pp": 15,
     "contact": false,
@@ -8432,7 +8433,7 @@
     "en": "Meteor Assault",
     "type": "Fighting",
     "category": "physical",
-    "power": 150,
+    "power": 170,
     "accuracy": 100,
     "pp": 5,
     "contact": false,
