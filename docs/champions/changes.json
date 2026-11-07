@@ -1,0 +1,3118 @@
+[
+  {
+    "master": "abilities",
+    "key": "WaveShield",
+    "field": "en",
+    "before": "Wave Shield",
+    "after": "Aura Guard",
+    "source": "https://github.com/projectpokemon/champout/blob/50e7233b78c3b81df29563f9695386c28e77fc95/rom-txt/usa/tokusei.json"
+  },
+  {
+    "master": "pokemons",
+    "key": "Beedrill",
+    "field": "types",
+    "before": [
+      "Poison",
+      "Bug"
+    ],
+    "after": [
+      "Bug",
+      "Poison"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Gengar",
+    "field": "types",
+    "before": [
+      "Poison",
+      "Ghost"
+    ],
+    "after": [
+      "Ghost",
+      "Poison"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Aerodactyl",
+    "field": "types",
+    "before": [
+      "Flying",
+      "Rock"
+    ],
+    "after": [
+      "Rock",
+      "Flying"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Dragonite",
+    "field": "types",
+    "before": [
+      "Flying",
+      "Dragon"
+    ],
+    "after": [
+      "Dragon",
+      "Flying"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Ariados",
+    "field": "types",
+    "before": [
+      "Poison",
+      "Bug"
+    ],
+    "after": [
+      "Bug",
+      "Poison"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Steelix",
+    "field": "types",
+    "before": [
+      "Ground",
+      "Steel"
+    ],
+    "after": [
+      "Steel",
+      "Ground"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Heracross",
+    "field": "types",
+    "before": [
+      "Fighting",
+      "Bug"
+    ],
+    "after": [
+      "Bug",
+      "Fighting"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Skarmory",
+    "field": "types",
+    "before": [
+      "Flying",
+      "Steel"
+    ],
+    "after": [
+      "Steel",
+      "Flying"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Houndoom",
+    "field": "types",
+    "before": [
+      "Fire",
+      "Dark"
+    ],
+    "after": [
+      "Dark",
+      "Fire"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Sableye",
+    "field": "types",
+    "before": [
+      "Ghost",
+      "Dark"
+    ],
+    "after": [
+      "Dark",
+      "Ghost"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Aggron",
+    "field": "types",
+    "before": [
+      "Rock",
+      "Steel"
+    ],
+    "after": [
+      "Steel",
+      "Rock"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Altaria",
+    "field": "types",
+    "before": [
+      "Flying",
+      "Dragon"
+    ],
+    "after": [
+      "Dragon",
+      "Flying"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Salamence",
+    "field": "types",
+    "before": [
+      "Flying",
+      "Dragon"
+    ],
+    "after": [
+      "Dragon",
+      "Flying"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Metagross",
+    "field": "types",
+    "before": [
+      "Psychic",
+      "Steel"
+    ],
+    "after": [
+      "Steel",
+      "Psychic"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Garchomp",
+    "field": "types",
+    "before": [
+      "Ground",
+      "Dragon"
+    ],
+    "after": [
+      "Dragon",
+      "Ground"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Toxicroak",
+    "field": "types",
+    "before": [
+      "Fighting",
+      "Poison"
+    ],
+    "after": [
+      "Poison",
+      "Fighting"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Weavile",
+    "field": "types",
+    "before": [
+      "Ice",
+      "Dark"
+    ],
+    "after": [
+      "Dark",
+      "Ice"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Gallade",
+    "field": "types",
+    "before": [
+      "Fighting",
+      "Psychic"
+    ],
+    "after": [
+      "Psychic",
+      "Fighting"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Scolipede",
+    "field": "types",
+    "before": [
+      "Poison",
+      "Bug"
+    ],
+    "after": [
+      "Bug",
+      "Poison"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Scrafty",
+    "field": "types",
+    "before": [
+      "Fighting",
+      "Dark"
+    ],
+    "after": [
+      "Dark",
+      "Fighting"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Chandelure",
+    "field": "types",
+    "before": [
+      "Fire",
+      "Ghost"
+    ],
+    "after": [
+      "Ghost",
+      "Fire"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Stunfisk",
+    "field": "types",
+    "before": [
+      "Electric",
+      "Ground"
+    ],
+    "after": [
+      "Ground",
+      "Electric"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Hydreigon",
+    "field": "types",
+    "before": [
+      "Dragon",
+      "Dark"
+    ],
+    "after": [
+      "Dark",
+      "Dragon"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Volcarona",
+    "field": "types",
+    "before": [
+      "Fire",
+      "Bug"
+    ],
+    "after": [
+      "Bug",
+      "Fire"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Vivillon",
+    "field": "types",
+    "before": [
+      "Flying",
+      "Bug"
+    ],
+    "after": [
+      "Bug",
+      "Flying"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Pyroar",
+    "field": "types",
+    "before": [
+      "Normal",
+      "Fire"
+    ],
+    "after": [
+      "Fire",
+      "Normal"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Aegislash",
+    "field": "types",
+    "before": [
+      "Ghost",
+      "Steel"
+    ],
+    "after": [
+      "Steel",
+      "Ghost"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Aegislash-Blade",
+    "field": "types",
+    "before": [
+      "Ghost",
+      "Steel"
+    ],
+    "after": [
+      "Steel",
+      "Ghost"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Malamar",
+    "field": "types",
+    "before": [
+      "Psychic",
+      "Dark"
+    ],
+    "after": [
+      "Dark",
+      "Psychic"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Barbaracle",
+    "field": "types",
+    "before": [
+      "Water",
+      "Rock"
+    ],
+    "after": [
+      "Rock",
+      "Water"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Barbaracle",
+    "field": "abilities",
+    "before": [
+      "Sniper",
+      "ToughClaws",
+      "Pickpocket"
+    ],
+    "after": [
+      "ToughClaws",
+      "Sniper",
+      "Pickpocket"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Heliolisk",
+    "field": "types",
+    "before": [
+      "Normal",
+      "Electric"
+    ],
+    "after": [
+      "Electric",
+      "Normal"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Aurorus",
+    "field": "types",
+    "before": [
+      "Ice",
+      "Rock"
+    ],
+    "after": [
+      "Rock",
+      "Ice"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Goodra-Hisui",
+    "field": "types",
+    "before": [
+      "Dragon",
+      "Steel"
+    ],
+    "after": [
+      "Steel",
+      "Dragon"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Trevenant",
+    "field": "types",
+    "before": [
+      "Grass",
+      "Ghost"
+    ],
+    "after": [
+      "Ghost",
+      "Grass"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Gourgeist",
+    "field": "types",
+    "before": [
+      "Grass",
+      "Ghost"
+    ],
+    "after": [
+      "Ghost",
+      "Grass"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Gourgeist-Small",
+    "field": "types",
+    "before": [
+      "Grass",
+      "Ghost"
+    ],
+    "after": [
+      "Ghost",
+      "Grass"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Gourgeist-Large",
+    "field": "types",
+    "before": [
+      "Grass",
+      "Ghost"
+    ],
+    "after": [
+      "Ghost",
+      "Grass"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Gourgeist-Super",
+    "field": "types",
+    "before": [
+      "Grass",
+      "Ghost"
+    ],
+    "after": [
+      "Ghost",
+      "Grass"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Crabominable",
+    "field": "types",
+    "before": [
+      "Ice",
+      "Fighting"
+    ],
+    "after": [
+      "Fighting",
+      "Ice"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Toxapex",
+    "field": "types",
+    "before": [
+      "Water",
+      "Poison"
+    ],
+    "after": [
+      "Poison",
+      "Water"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Salazzle",
+    "field": "types",
+    "before": [
+      "Fire",
+      "Poison"
+    ],
+    "after": [
+      "Poison",
+      "Fire"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Golisopod",
+    "field": "types",
+    "before": [
+      "Water",
+      "Bug"
+    ],
+    "after": [
+      "Bug",
+      "Water"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Kommo-o",
+    "field": "types",
+    "before": [
+      "Fighting",
+      "Dragon"
+    ],
+    "after": [
+      "Dragon",
+      "Fighting"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Indeedee",
+    "field": "types",
+    "before": [
+      "Normal",
+      "Psychic"
+    ],
+    "after": [
+      "Psychic",
+      "Normal"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Indeedee-F",
+    "field": "types",
+    "before": [
+      "Normal",
+      "Psychic"
+    ],
+    "after": [
+      "Psychic",
+      "Normal"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Dragapult",
+    "field": "types",
+    "before": [
+      "Ghost",
+      "Dragon"
+    ],
+    "after": [
+      "Dragon",
+      "Ghost"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Overqwil",
+    "field": "types",
+    "before": [
+      "Poison",
+      "Dark"
+    ],
+    "after": [
+      "Dark",
+      "Poison"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Maushold",
+    "field": "weight",
+    "before": 2.8,
+    "after": 2.3,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Arboliva",
+    "field": "types",
+    "before": [
+      "Normal",
+      "Grass"
+    ],
+    "after": [
+      "Grass",
+      "Normal"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Squawkabilly",
+    "field": "abilities",
+    "before": [
+      "Intimidate",
+      "Hustle",
+      "SheerForce"
+    ],
+    "after": [
+      "Intimidate",
+      "Hustle",
+      "Guts"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Scovillain",
+    "field": "types",
+    "before": [
+      "Fire",
+      "Grass"
+    ],
+    "after": [
+      "Grass",
+      "Fire"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Tinkaton",
+    "field": "types",
+    "before": [
+      "Steel",
+      "Fairy"
+    ],
+    "after": [
+      "Fairy",
+      "Steel"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Glimmora",
+    "field": "types",
+    "before": [
+      "Poison",
+      "Rock"
+    ],
+    "after": [
+      "Rock",
+      "Poison"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Baxcalibur",
+    "field": "types",
+    "before": [
+      "Ice",
+      "Dragon"
+    ],
+    "after": [
+      "Dragon",
+      "Ice"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Gholdengo",
+    "field": "types",
+    "before": [
+      "Ghost",
+      "Steel"
+    ],
+    "after": [
+      "Steel",
+      "Ghost"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "pokemons",
+    "key": "Archaludon",
+    "field": "types",
+    "before": [
+      "Dragon",
+      "Steel"
+    ],
+    "after": [
+      "Steel",
+      "Dragon"
+    ],
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Yawn",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "MorningSun",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "SweetScent",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Charm",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "RainDance",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "RainDance",
+    "field": "target",
+    "before": "entireField",
+    "after": "all",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "ConfuseRay",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "GastroAcid",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "RagePowder",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "SuperFang",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "PainSplit",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Torment",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "StringShot",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "StringShot",
+    "field": "pp",
+    "before": 40,
+    "after": 20,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "FinalGambit",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "LifeDew",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Swagger",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "HealBell",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "HealingWish",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "HealPulse",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Screech",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Screech",
+    "field": "pp",
+    "before": 40,
+    "after": 20,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "FakeTears",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Sing",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "SparklingAria",
+    "field": "target",
+    "before": "allOther",
+    "after": "allAdjacent",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Spite",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Tailwind",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "TidyUp",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Memento",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "AfterYou",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "NobleRoar",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "NobleRoar",
+    "field": "pp",
+    "before": 30,
+    "after": 20,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Flatter",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Teatime",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "WillOWisp",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "EerieImpulse",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "ShadowSneak",
+    "field": "pp",
+    "before": 30,
+    "after": 20,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "DoubleTeam",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Disable",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Bite",
+    "field": "pp",
+    "before": 25,
+    "after": 20,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "ShellSmash",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Endeavor",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "FocusEnergy",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "FocusEnergy",
+    "field": "pp",
+    "before": 30,
+    "after": 20,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Reversal",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Defog",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "MetalSound",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "MetalSound",
+    "field": "pp",
+    "before": 40,
+    "after": 20,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "GrassKnot",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Tickle",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "BeakBlast",
+    "field": "pp",
+    "before": 15,
+    "after": 5,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Haze",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Haze",
+    "field": "pp",
+    "before": 30,
+    "after": 20,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Haze",
+    "field": "target",
+    "before": "entireField",
+    "after": "all",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "MeanLook",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "LowKick",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Synthesis",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Agility",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Agility",
+    "field": "pp",
+    "before": 30,
+    "after": 20,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "RapidSpin",
+    "field": "pp",
+    "before": 40,
+    "after": 20,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "IceShard",
+    "field": "pp",
+    "before": 30,
+    "after": 20,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "FollowMe",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Endure",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "ScaryFace",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "RevivalBlessing",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Instruct",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Hypnosis",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Quash",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "ChillyReception",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "ChillyReception",
+    "field": "target",
+    "before": "entireField",
+    "after": "all",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "ShedTail",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "StunSpore",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "StunSpore",
+    "field": "pp",
+    "before": 30,
+    "after": 20,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "VacuumWave",
+    "field": "pp",
+    "before": 30,
+    "after": 20,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Safeguard",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Safeguard",
+    "field": "pp",
+    "before": 25,
+    "after": 20,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "PsychUp",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Recover",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Earthquake",
+    "field": "target",
+    "before": "allOther",
+    "after": "allAdjacent",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Flail",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Bulldoze",
+    "field": "target",
+    "before": "allOther",
+    "after": "allAdjacent",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "SelfDestruct",
+    "field": "target",
+    "before": "allOther",
+    "after": "allAdjacent",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "MagneticFlux",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "MagneticFlux",
+    "field": "target",
+    "before": "allAllies",
+    "after": "userField",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Charge",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Gravity",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Gravity",
+    "field": "target",
+    "before": "entireField",
+    "after": "all",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Fissure",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "PartingShot",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Sandstorm",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Sandstorm",
+    "field": "pp",
+    "before": 10,
+    "after": 5,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Sandstorm",
+    "field": "target",
+    "before": "entireField",
+    "after": "all",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Switcheroo",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Growth",
+    "field": "type",
+    "before": "Normal",
+    "after": "Grass",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Growth",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "SheerCold",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Electrify",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Stockpile",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Octolock",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Shelter",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Explosion",
+    "field": "target",
+    "before": "allOther",
+    "after": "allAdjacent",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Minimize",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "StrengthSap",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "StrengthSap",
+    "field": "pp",
+    "before": 10,
+    "after": 5,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "SeismicToss",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "QuiverDance",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Taunt",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Moonlight",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "NightSlash",
+    "field": "pp",
+    "before": 15,
+    "after": 20,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "HornDrill",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "BabyDollEyes",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "BabyDollEyes",
+    "field": "pp",
+    "before": 30,
+    "after": 20,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Acupressure",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Acupressure",
+    "field": "pp",
+    "before": 30,
+    "after": 20,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "IcicleSpear",
+    "field": "pp",
+    "before": 30,
+    "after": 20,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "SwordsDance",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "HelpingHand",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "IronDefense",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "SweetKiss",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "QuickAttack",
+    "field": "pp",
+    "before": 30,
+    "after": 20,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "ThunderWave",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "MagnetRise",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Block",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Howl",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Howl",
+    "field": "pp",
+    "before": 40,
+    "after": 20,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Coil",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "AcidArmor",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "FellStinger",
+    "field": "pp",
+    "before": 25,
+    "after": 20,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Toxic",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "ToxicThread",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "PoisonPowder",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "PoisonPowder",
+    "field": "pp",
+    "before": 35,
+    "after": 20,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "ToxicSpikes",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Thief",
+    "field": "pp",
+    "before": 25,
+    "after": 20,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Entrainment",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Fling",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "SlackOff",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "TearfulLook",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Surf",
+    "field": "target",
+    "before": "allOther",
+    "after": "allAdjacent",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "WorrySeed",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "RolePlay",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "SunnyDay",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "SunnyDay",
+    "field": "target",
+    "before": "entireField",
+    "after": "all",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Wish",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Wish",
+    "field": "pp",
+    "before": 10,
+    "after": 5,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "SleepTalk",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "StickyWeb",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "SleepPowder",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Rest",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Ingrain",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Swallow",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Curse",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Curse",
+    "field": "target",
+    "before": "varies",
+    "after": "single",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "NoRetreat",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "SteelWing",
+    "field": "pp",
+    "before": 25,
+    "after": 20,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "SpitUp",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Pound",
+    "field": "pp",
+    "before": 35,
+    "after": 20,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "PetalBlizzard",
+    "field": "target",
+    "before": "allOther",
+    "after": "allAdjacent",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Roost",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "BellyDrum",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Boomburst",
+    "field": "target",
+    "before": "allOther",
+    "after": "allAdjacent",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "LightScreen",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "LightScreen",
+    "field": "pp",
+    "before": 30,
+    "after": 20,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "TopsyTurvy",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Imprison",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Whirlwind",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "BeatUp",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "CorrosiveGas",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "CorrosiveGas",
+    "field": "pp",
+    "before": 40,
+    "after": 20,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "CorrosiveGas",
+    "field": "target",
+    "before": "allOther",
+    "after": "allAdjacent",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "LavaPlume",
+    "field": "target",
+    "before": "allOther",
+    "after": "allAdjacent",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "BrutalSwing",
+    "field": "target",
+    "before": "allOther",
+    "after": "allAdjacent",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Glare",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Glare",
+    "field": "pp",
+    "before": 30,
+    "after": 20,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Transform",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Discharge",
+    "field": "target",
+    "before": "allOther",
+    "after": "allAdjacent",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Comeuppance",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Roar",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "StuffCheeks",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Covet",
+    "field": "pp",
+    "before": 25,
+    "after": 20,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "PerishSong",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Spikes",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Copycat",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "MagicPowder",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Protect",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Protect",
+    "field": "pp",
+    "before": 10,
+    "after": 5,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Substitute",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Detect",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Soak",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "DestinyBond",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "CalmMind",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "ForestsCurse",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "LeechSeed",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Snowscape",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Snowscape",
+    "field": "pp",
+    "before": 10,
+    "after": 5,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Snowscape",
+    "field": "target",
+    "before": "entireField",
+    "after": "all",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "DragonDance",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "CottonSpore",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "CottonSpore",
+    "field": "pp",
+    "before": 40,
+    "after": 20,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "NastyPlot",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "AquaRing",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "AromaticMist",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Encore",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "AirCutter",
+    "field": "pp",
+    "before": 25,
+    "after": 20,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "ElectricTerrain",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "ElectricTerrain",
+    "field": "target",
+    "before": "entireField",
+    "after": "all",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "ElectroBall",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "AuroraVeil",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Counter",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "GuardSplit",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "GuardSwap",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Spore",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "KingsShield",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "KingsShield",
+    "field": "pp",
+    "before": 10,
+    "after": 5,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "ShiftGear",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "GrassyTerrain",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "GrassyTerrain",
+    "field": "target",
+    "before": "entireField",
+    "after": "all",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "CosmicPower",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "CottonGuard",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Coaching",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Coaching",
+    "field": "target",
+    "before": "allAllies",
+    "after": "oneAlly",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "CourtChange",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "CourtChange",
+    "field": "target",
+    "before": "entireField",
+    "after": "all",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "MakeItRain",
+    "field": "accuracy",
+    "before": 100,
+    "after": 95,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "PsychicTerrain",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "PsychicTerrain",
+    "field": "target",
+    "before": "entireField",
+    "after": "all",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "AllySwitch",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "SimpleBeam",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "GyroBall",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "SkillSwap",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "StealthRock",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "SpeedSwap",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "ClangorousSoul",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "BulletSeed",
+    "field": "pp",
+    "before": 30,
+    "after": 20,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "SoftBoiled",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Decorate",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Trick",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "TrickRoom",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "TrickRoom",
+    "field": "target",
+    "before": "entireField",
+    "after": "all",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "BanefulBunker",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "BanefulBunker",
+    "field": "pp",
+    "before": 10,
+    "after": 5,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Amnesia",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "DragonCheer",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "DragonCheer",
+    "field": "target",
+    "before": "allAllies",
+    "after": "oneAlly",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "NightShade",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "SpikyShield",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "SpikyShield",
+    "field": "pp",
+    "before": 10,
+    "after": 5,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Guillotine",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "SpicyExtract",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "TrickorTreat",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "HardPress",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "BatonPass",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "BatonPass",
+    "field": "pp",
+    "before": 40,
+    "after": 20,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "BulletPunch",
+    "field": "pp",
+    "before": 30,
+    "after": 20,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "ParabolicCharge",
+    "field": "target",
+    "before": "allOther",
+    "after": "allAdjacent",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "PowerSplit",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "PowerShift",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "PowerSwap",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "PowerTrick",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "HeatCrash",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "BulkUp",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "QuickGuard",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "FairyLock",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "FairyLock",
+    "field": "target",
+    "before": "entireField",
+    "after": "all",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "FeatherDance",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "TeeterDance",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "TeeterDance",
+    "field": "target",
+    "before": "allOther",
+    "after": "allAdjacent",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "SludgeWave",
+    "field": "target",
+    "before": "allOther",
+    "after": "allAdjacent",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "HeavySlam",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "MagicRoom",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "MagicRoom",
+    "field": "target",
+    "before": "entireField",
+    "after": "all",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "MachPunch",
+    "field": "pp",
+    "before": 30,
+    "after": 20,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "MistyExplosion",
+    "field": "target",
+    "before": "allOther",
+    "after": "allAdjacent",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "MistyTerrain",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "MistyTerrain",
+    "field": "target",
+    "before": "entireField",
+    "after": "all",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "MirrorCoat",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "ReflectType",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "MilkDrink",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "MilkDrink",
+    "field": "target",
+    "before": "self",
+    "after": "userOrAlly",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "MetalBurst",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Attract",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Recycle",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "Reflect",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "LockOn",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "RockPolish",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "WideGuard",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "ExpandingForce",
+    "field": "target",
+    "before": "allOpponents",
+    "after": "single",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "WonderRoom",
+    "field": "power",
+    "before": null,
+    "after": 0,
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  },
+  {
+    "master": "moves",
+    "key": "WonderRoom",
+    "field": "target",
+    "before": "entireField",
+    "after": "all",
+    "source": "https://github.com/smogon/pokemon-showdown/tree/567c1cedddeaa2f35576005d3bfd526cf4f8a13e/data/mods/champions"
+  }
+]

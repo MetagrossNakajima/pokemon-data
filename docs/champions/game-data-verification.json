@@ -1,0 +1,1612 @@
+{
+  "pokemon": {
+    "Venusaur": [
+      "0003000"
+    ],
+    "Venusaur-Mega": [
+      "0003001"
+    ],
+    "Charizard": [
+      "0006000"
+    ],
+    "Charizard-Mega-X": [
+      "0006001"
+    ],
+    "Charizard-Mega-Y": [
+      "0006002"
+    ],
+    "Blastoise": [
+      "0009000"
+    ],
+    "Blastoise-Mega": [
+      "0009001"
+    ],
+    "Beedrill": [
+      "0015000"
+    ],
+    "Beedrill-Mega": [
+      "0015001"
+    ],
+    "Pidgeot": [
+      "0018000"
+    ],
+    "Pidgeot-Mega": [
+      "0018001"
+    ],
+    "Arbok": [
+      "0024000"
+    ],
+    "Pikachu": [
+      "0025000"
+    ],
+    "Raichu": [
+      "0026000"
+    ],
+    "Raichu-Alola": [
+      "0026001"
+    ],
+    "Raichu-Mega-X": [
+      "0026002"
+    ],
+    "Raichu-Mega-Y": [
+      "0026003"
+    ],
+    "Clefable": [
+      "0036000"
+    ],
+    "Clefable-Mega": [
+      "0036001"
+    ],
+    "Ninetales": [
+      "0038000"
+    ],
+    "Ninetales-Alola": [
+      "0038001"
+    ],
+    "Wigglytuff": [
+      "0040000"
+    ],
+    "Vileplume": [
+      "0045000"
+    ],
+    "Persian": [
+      "0053000"
+    ],
+    "Persian-Alola": [
+      "0053001"
+    ],
+    "Arcanine": [
+      "0059000"
+    ],
+    "Arcanine-Hisui": [
+      "0059001"
+    ],
+    "Alakazam": [
+      "0065000"
+    ],
+    "Alakazam-Mega": [
+      "0065001"
+    ],
+    "Machamp": [
+      "0068000"
+    ],
+    "Victreebel": [
+      "0071000"
+    ],
+    "Victreebel-Mega": [
+      "0071001"
+    ],
+    "Slowbro": [
+      "0080000"
+    ],
+    "Slowbro-Galar": [
+      "0080002"
+    ],
+    "Slowbro-Mega": [
+      "0080001"
+    ],
+    "Farfetch'd": [
+      "0083000"
+    ],
+    "Gengar": [
+      "0094000"
+    ],
+    "Gengar-Mega": [
+      "0094001"
+    ],
+    "Kangaskhan": [
+      "0115000"
+    ],
+    "Kangaskhan-Mega": [
+      "0115001"
+    ],
+    "Starmie": [
+      "0121000"
+    ],
+    "Starmie-Mega": [
+      "0121001"
+    ],
+    "Mr.Mime": [
+      "0122000"
+    ],
+    "Pinsir": [
+      "0127000"
+    ],
+    "Pinsir-Mega": [
+      "0127001"
+    ],
+    "Tauros": [
+      "0128000"
+    ],
+    "Tauros-Paldea-Combat": [
+      "0128001"
+    ],
+    "Tauros-Paldea-Blaze": [
+      "0128002"
+    ],
+    "Tauros-Paldea-Aqua": [
+      "0128003"
+    ],
+    "Gyarados": [
+      "0130000"
+    ],
+    "Gyarados-Mega": [
+      "0130001"
+    ],
+    "Ditto": [
+      "0132000"
+    ],
+    "Vaporeon": [
+      "0134000"
+    ],
+    "Jolteon": [
+      "0135000"
+    ],
+    "Flareon": [
+      "0136000"
+    ],
+    "Aerodactyl": [
+      "0142000"
+    ],
+    "Aerodactyl-Mega": [
+      "0142001"
+    ],
+    "Snorlax": [
+      "0143000"
+    ],
+    "Dragonite": [
+      "0149000"
+    ],
+    "Dragonite-Mega": [
+      "0149001"
+    ],
+    "Meganium": [
+      "0154000"
+    ],
+    "Meganium-Mega": [
+      "0154001"
+    ],
+    "Typhlosion": [
+      "0157000"
+    ],
+    "Typhlosion-Hisui": [
+      "0157001"
+    ],
+    "Feraligatr": [
+      "0160000"
+    ],
+    "Feraligatr-Mega": [
+      "0160001"
+    ],
+    "Ariados": [
+      "0168000"
+    ],
+    "Ampharos": [
+      "0181000"
+    ],
+    "Ampharos-Mega": [
+      "0181001"
+    ],
+    "Azumarill": [
+      "0184000"
+    ],
+    "Politoed": [
+      "0186000"
+    ],
+    "Espeon": [
+      "0196000"
+    ],
+    "Umbreon": [
+      "0197000"
+    ],
+    "Slowking": [
+      "0199000"
+    ],
+    "Slowking-Galar": [
+      "0199001"
+    ],
+    "Forretress": [
+      "0205000"
+    ],
+    "Steelix": [
+      "0208000"
+    ],
+    "Steelix-Mega": [
+      "0208001"
+    ],
+    "Qwilfish": [
+      "0211000"
+    ],
+    "Scizor": [
+      "0212000"
+    ],
+    "Scizor-Mega": [
+      "0212001"
+    ],
+    "Heracross": [
+      "0214000"
+    ],
+    "Heracross-Mega": [
+      "0214001"
+    ],
+    "Skarmory": [
+      "0227000"
+    ],
+    "Skarmory-Mega": [
+      "0227001"
+    ],
+    "Houndoom": [
+      "0229000"
+    ],
+    "Houndoom-Mega": [
+      "0229001"
+    ],
+    "Tyranitar": [
+      "0248000"
+    ],
+    "Tyranitar-Mega": [
+      "0248001"
+    ],
+    "Sceptile": [
+      "0254000"
+    ],
+    "Sceptile-Mega": [
+      "0254001"
+    ],
+    "Blaziken": [
+      "0257000"
+    ],
+    "Blaziken-Mega": [
+      "0257001"
+    ],
+    "Swampert": [
+      "0260000"
+    ],
+    "Swampert-Mega": [
+      "0260001"
+    ],
+    "Pelipper": [
+      "0279000"
+    ],
+    "Gardevoir": [
+      "0282000"
+    ],
+    "Gardevoir-Mega": [
+      "0282001"
+    ],
+    "Sableye": [
+      "0302000"
+    ],
+    "Sableye-Mega": [
+      "0302001"
+    ],
+    "Mawile": [
+      "0303000"
+    ],
+    "Mawile-Mega": [
+      "0303001"
+    ],
+    "Aggron": [
+      "0306000"
+    ],
+    "Aggron-Mega": [
+      "0306001"
+    ],
+    "Medicham": [
+      "0308000"
+    ],
+    "Medicham-Mega": [
+      "0308001"
+    ],
+    "Manectric": [
+      "0310000"
+    ],
+    "Manectric-Mega": [
+      "0310001"
+    ],
+    "Swalot": [
+      "0317000"
+    ],
+    "Sharpedo": [
+      "0319000"
+    ],
+    "Sharpedo-Mega": [
+      "0319001"
+    ],
+    "Camerupt": [
+      "0323000"
+    ],
+    "Camerupt-Mega": [
+      "0323001"
+    ],
+    "Torkoal": [
+      "0324000"
+    ],
+    "Altaria": [
+      "0334000"
+    ],
+    "Altaria-Mega": [
+      "0334001"
+    ],
+    "Milotic": [
+      "0350000"
+    ],
+    "Castform": [
+      "0351000"
+    ],
+    "Banette": [
+      "0354000"
+    ],
+    "Banette-Mega": [
+      "0354001"
+    ],
+    "Chimecho": [
+      "0358000"
+    ],
+    "Chimecho-Mega": [
+      "0358001"
+    ],
+    "Absol": [
+      "0359000"
+    ],
+    "Absol-Mega": [
+      "0359001"
+    ],
+    "Absol-Mega-Z": [
+      "0359002"
+    ],
+    "Glalie": [
+      "0362000"
+    ],
+    "Glalie-Mega": [
+      "0362001"
+    ],
+    "Salamence": [
+      "0373000"
+    ],
+    "Salamence-Mega": [
+      "0373001"
+    ],
+    "Metagross": [
+      "0376000"
+    ],
+    "Metagross-Mega": [
+      "0376001"
+    ],
+    "Torterra": [
+      "0389000"
+    ],
+    "Infernape": [
+      "0392000"
+    ],
+    "Empoleon": [
+      "0395000"
+    ],
+    "Staraptor": [
+      "0398000"
+    ],
+    "Staraptor-Mega": [
+      "0398001"
+    ],
+    "Luxray": [
+      "0405000"
+    ],
+    "Roserade": [
+      "0407000"
+    ],
+    "Rampardos": [
+      "0409000"
+    ],
+    "Bastiodon": [
+      "0411000"
+    ],
+    "Lopunny": [
+      "0428000"
+    ],
+    "Lopunny-Mega": [
+      "0428001"
+    ],
+    "Spiritomb": [
+      "0442000"
+    ],
+    "Garchomp": [
+      "0445000"
+    ],
+    "Garchomp-Mega-Z": [
+      "0445002"
+    ],
+    "Garchomp-Mega": [
+      "0445001"
+    ],
+    "Lucario": [
+      "0448000"
+    ],
+    "Lucario-Mega": [
+      "0448001"
+    ],
+    "Lucario-Mega-Z": [
+      "0448002"
+    ],
+    "Hippowdon": [
+      "0450000"
+    ],
+    "Toxicroak": [
+      "0454000"
+    ],
+    "Abomasnow": [
+      "0460000"
+    ],
+    "Abomasnow-Mega": [
+      "0460001"
+    ],
+    "Weavile": [
+      "0461000"
+    ],
+    "Rhyperior": [
+      "0464000"
+    ],
+    "Leafeon": [
+      "0470000"
+    ],
+    "Glaceon": [
+      "0471000"
+    ],
+    "Gliscor": [
+      "0472000"
+    ],
+    "Mamoswine": [
+      "0473000"
+    ],
+    "Gallade": [
+      "0475000"
+    ],
+    "Gallade-Mega": [
+      "0475001"
+    ],
+    "Froslass": [
+      "0478000"
+    ],
+    "Froslass-Mega": [
+      "0478001"
+    ],
+    "Rotom": [
+      "0479000"
+    ],
+    "Rotom-Heat": [
+      "0479001"
+    ],
+    "Rotom-Wash": [
+      "0479002"
+    ],
+    "Rotom-Frost": [
+      "0479003"
+    ],
+    "Rotom-Fan": [
+      "0479004"
+    ],
+    "Rotom-Mow": [
+      "0479005"
+    ],
+    "Serperior": [
+      "0497000"
+    ],
+    "Emboar": [
+      "0500000"
+    ],
+    "Emboar-Mega": [
+      "0500001"
+    ],
+    "Samurott": [
+      "0503000"
+    ],
+    "Samurott-Hisui": [
+      "0503001"
+    ],
+    "Watchog": [
+      "0505000"
+    ],
+    "Liepard": [
+      "0510000"
+    ],
+    "Simisage": [
+      "0512000"
+    ],
+    "Simisear": [
+      "0514000"
+    ],
+    "Simipour": [
+      "0516000"
+    ],
+    "Musharna": [
+      "0518000"
+    ],
+    "Excadrill": [
+      "0530000"
+    ],
+    "Excadrill-Mega": [
+      "0530001"
+    ],
+    "Audino": [
+      "0531000"
+    ],
+    "Audino-Mega": [
+      "0531001"
+    ],
+    "Conkeldurr": [
+      "0534000"
+    ],
+    "Scolipede": [
+      "0545000"
+    ],
+    "Scolipede-Mega": [
+      "0545001"
+    ],
+    "Whimsicott": [
+      "0547000"
+    ],
+    "Krookodile": [
+      "0553000"
+    ],
+    "Scrafty": [
+      "0560000"
+    ],
+    "Scrafty-Mega": [
+      "0560001"
+    ],
+    "Cofagrigus": [
+      "0563000"
+    ],
+    "Garbodor": [
+      "0569000"
+    ],
+    "Zoroark": [
+      "0571000"
+    ],
+    "Zoroark-Hisui": [
+      "0571001"
+    ],
+    "Reuniclus": [
+      "0579000"
+    ],
+    "Vanilluxe": [
+      "0584000"
+    ],
+    "Emolga": [
+      "0587000"
+    ],
+    "Eelektross": [
+      "0604000"
+    ],
+    "Eelektross-Mega": [
+      "0604001"
+    ],
+    "Chandelure": [
+      "0609000"
+    ],
+    "Chandelure-Mega": [
+      "0609001"
+    ],
+    "Beartic": [
+      "0614000"
+    ],
+    "Stunfisk": [
+      "0618000"
+    ],
+    "Stunfisk-Galar": [
+      "0618001"
+    ],
+    "Golurk": [
+      "0623000"
+    ],
+    "Golurk-Mega": [
+      "0623001"
+    ],
+    "Hydreigon": [
+      "0635000"
+    ],
+    "Volcarona": [
+      "0637000"
+    ],
+    "Chesnaught": [
+      "0652000"
+    ],
+    "Chesnaught-Mega": [
+      "0652001"
+    ],
+    "Delphox": [
+      "0655000"
+    ],
+    "Delphox-Mega": [
+      "0655001"
+    ],
+    "Greninja": [
+      "0658000"
+    ],
+    "Greninja-Mega": [
+      "0658003"
+    ],
+    "Diggersby": [
+      "0660000"
+    ],
+    "Talonflame": [
+      "0663000"
+    ],
+    "Vivillon": [
+      "0666000",
+      "0666001",
+      "0666002",
+      "0666003",
+      "0666004",
+      "0666005",
+      "0666006",
+      "0666007",
+      "0666008",
+      "0666009",
+      "0666010",
+      "0666011",
+      "0666012",
+      "0666013",
+      "0666014",
+      "0666015",
+      "0666016",
+      "0666017",
+      "0666018",
+      "0666019"
+    ],
+    "Pyroar": [
+      "0668000"
+    ],
+    "Pyroar-Mega": [
+      "0668001"
+    ],
+    "Floette-Mega": [
+      "0670006"
+    ],
+    "Floette-Eternal": [
+      "0670005"
+    ],
+    "Florges": [
+      "0671000",
+      "0671001",
+      "0671002",
+      "0671003",
+      "0671004"
+    ],
+    "Gogoat": [
+      "0673000"
+    ],
+    "Pangoro": [
+      "0675000"
+    ],
+    "Furfrou": [
+      "0676000",
+      "0676001",
+      "0676002",
+      "0676003",
+      "0676004",
+      "0676005",
+      "0676006",
+      "0676007",
+      "0676008",
+      "0676009"
+    ],
+    "Meowstic": [
+      "0678000"
+    ],
+    "Meowstic-F": [
+      "0678001"
+    ],
+    "Meowstic-Mega": [
+      "0678002",
+      "0678003"
+    ],
+    "Aegislash": [
+      "0681000"
+    ],
+    "Aegislash-Blade": [
+      "0681001"
+    ],
+    "Aromatisse": [
+      "0683000"
+    ],
+    "Slurpuff": [
+      "0685000"
+    ],
+    "Malamar": [
+      "0687000"
+    ],
+    "Malamar-Mega": [
+      "0687001"
+    ],
+    "Barbaracle": [
+      "0689000"
+    ],
+    "Barbaracle-Mega": [
+      "0689001"
+    ],
+    "Dragalge": [
+      "0691000"
+    ],
+    "Dragalge-Mega": [
+      "0691001"
+    ],
+    "Clawitzer": [
+      "0693000"
+    ],
+    "Heliolisk": [
+      "0695000"
+    ],
+    "Tyrantrum": [
+      "0697000"
+    ],
+    "Aurorus": [
+      "0699000"
+    ],
+    "Sylveon": [
+      "0700000"
+    ],
+    "Hawlucha": [
+      "0701000"
+    ],
+    "Hawlucha-Mega": [
+      "0701001"
+    ],
+    "Dedenne": [
+      "0702000"
+    ],
+    "Goodra": [
+      "0706000"
+    ],
+    "Goodra-Hisui": [
+      "0706001"
+    ],
+    "Klefki": [
+      "0707000"
+    ],
+    "Trevenant": [
+      "0709000"
+    ],
+    "Gourgeist": [
+      "0711000"
+    ],
+    "Gourgeist-Small": [
+      "0711001"
+    ],
+    "Gourgeist-Large": [
+      "0711002"
+    ],
+    "Gourgeist-Super": [
+      "0711003"
+    ],
+    "Avalugg": [
+      "0713000"
+    ],
+    "Avalugg-Hisui": [
+      "0713001"
+    ],
+    "Noivern": [
+      "0715000"
+    ],
+    "Decidueye": [
+      "0724000"
+    ],
+    "Decidueye-Hisui": [
+      "0724001"
+    ],
+    "Incineroar": [
+      "0727000"
+    ],
+    "Primarina": [
+      "0730000"
+    ],
+    "Toucannon": [
+      "0733000"
+    ],
+    "Crabominable": [
+      "0740000"
+    ],
+    "Crabominable-Mega": [
+      "0740001"
+    ],
+    "Lycanroc": [
+      "0745000"
+    ],
+    "Lycanroc-Midnight": [
+      "0745001"
+    ],
+    "Lycanroc-Dusk": [
+      "0745002"
+    ],
+    "Toxapex": [
+      "0748000"
+    ],
+    "Mudsdale": [
+      "0750000"
+    ],
+    "Araquanid": [
+      "0752000"
+    ],
+    "Salazzle": [
+      "0758000"
+    ],
+    "Tsareena": [
+      "0763000"
+    ],
+    "Oranguru": [
+      "0765000"
+    ],
+    "Passimian": [
+      "0766000"
+    ],
+    "Golisopod": [
+      "0768000"
+    ],
+    "Golisopod-Mega": [
+      "0768001"
+    ],
+    "Mimikyu": [
+      "0778000",
+      "0778001"
+    ],
+    "Drampa": [
+      "0780000"
+    ],
+    "Drampa-Mega": [
+      "0780001"
+    ],
+    "Kommo-o": [
+      "0784000"
+    ],
+    "Rillaboom": [
+      "0812000"
+    ],
+    "Cinderace": [
+      "0815000"
+    ],
+    "Inteleon": [
+      "0818000"
+    ],
+    "Corviknight": [
+      "0823000"
+    ],
+    "Thievul": [
+      "0828000"
+    ],
+    "Flapple": [
+      "0841000"
+    ],
+    "Appletun": [
+      "0842000"
+    ],
+    "Sandaconda": [
+      "0844000"
+    ],
+    "Toxtricity": [
+      "0849000"
+    ],
+    "Toxtricity-Low-Key": [
+      "0849001"
+    ],
+    "Grapploct": [
+      "0853000"
+    ],
+    "Polteageist": [
+      "0855000",
+      "0855001"
+    ],
+    "Hatterene": [
+      "0858000"
+    ],
+    "Grimmsnarl": [
+      "0861000"
+    ],
+    "Perrserker": [
+      "0863000"
+    ],
+    "Sirfetch'd": [
+      "0865000"
+    ],
+    "Mr.Rime": [
+      "0866000"
+    ],
+    "Runerigus": [
+      "0867000"
+    ],
+    "Alcremie": [
+      "0869000",
+      "0869001",
+      "0869002",
+      "0869003",
+      "0869004",
+      "0869005",
+      "0869006",
+      "0869007",
+      "0869008"
+    ],
+    "Falinks": [
+      "0870000"
+    ],
+    "Falinks-Mega": [
+      "0870001"
+    ],
+    "Pincurchin": [
+      "0871000"
+    ],
+    "Indeedee": [
+      "0876000"
+    ],
+    "Indeedee-F": [
+      "0876001"
+    ],
+    "Morpeko": [
+      "0877000",
+      "0877001"
+    ],
+    "Morpeko-Hangry": [
+      "0877000",
+      "0877001"
+    ],
+    "Dragapult": [
+      "0887000"
+    ],
+    "Wyrdeer": [
+      "0899000"
+    ],
+    "Kleavor": [
+      "0900000"
+    ],
+    "Basculegion": [
+      "0902000"
+    ],
+    "Basculegion-F": [
+      "0902001"
+    ],
+    "Sneasler": [
+      "0903000"
+    ],
+    "Overqwil": [
+      "0904000"
+    ],
+    "Meowscarada": [
+      "0908000"
+    ],
+    "Skeledirge": [
+      "0911000"
+    ],
+    "Quaquaval": [
+      "0914000"
+    ],
+    "Pawmot": [
+      "0923000"
+    ],
+    "Maushold": [
+      "0925000"
+    ],
+    "Arboliva": [
+      "0930000"
+    ],
+    "Squawkabilly": [
+      "0931000",
+      "0931001"
+    ],
+    "Garganacl": [
+      "0934000"
+    ],
+    "Armarouge": [
+      "0936000"
+    ],
+    "Ceruledge": [
+      "0937000"
+    ],
+    "Bellibolt": [
+      "0939000"
+    ],
+    "Mabosstiff": [
+      "0943000"
+    ],
+    "Scovillain": [
+      "0952000"
+    ],
+    "Scovillain-Mega": [
+      "0952001"
+    ],
+    "Espathra": [
+      "0956000"
+    ],
+    "Tinkaton": [
+      "0959000"
+    ],
+    "Palafin": [
+      "0964000"
+    ],
+    "Palafin-Hero": [
+      "0964001"
+    ],
+    "Orthworm": [
+      "0968000"
+    ],
+    "Glimmora": [
+      "0970000"
+    ],
+    "Glimmora-Mega": [
+      "0970001"
+    ],
+    "Houndstone": [
+      "0972000"
+    ],
+    "Annihilape": [
+      "0979000"
+    ],
+    "Farigiraf": [
+      "0981000"
+    ],
+    "Kingambit": [
+      "0983000"
+    ],
+    "Baxcalibur": [
+      "0998000"
+    ],
+    "Baxcalibur-Mega": [
+      "0998001"
+    ],
+    "Gholdengo": [
+      "1000000"
+    ],
+    "Sinistcha": [
+      "1013000",
+      "1013001"
+    ],
+    "Archaludon": [
+      "1018000"
+    ],
+    "Hydrapple": [
+      "1019000"
+    ],
+    "Meowstic-F-Mega": [
+      "0678002",
+      "0678003"
+    ]
+  },
+  "moves": {
+    "HighHorsepower": "667",
+    "Thunderbolt": "85",
+    "TripleArrows": "843",
+    "DarkestLariat": "663",
+    "GravApple": "788",
+    "DarkPulse": "399",
+    "Yawn": "281",
+    "MorningSun": "234",
+    "Dig": "91",
+    "Thrash": "37",
+    "SweetScent": "230",
+    "Charm": "204",
+    "RainDance": "240",
+    "ConfuseRay": "109",
+    "GastroAcid": "380",
+    "RagePowder": "476",
+    "SuperFang": "162",
+    "PainSplit": "220",
+    "Torment": "259",
+    "StringShot": "81",
+    "FinalGambit": "515",
+    "LifeDew": "791",
+    "Swagger": "207",
+    "Snore": "173",
+    "HealBell": "215",
+    "HealingWish": "361",
+    "HealPulse": "505",
+    "Screech": "103",
+    "RockSlide": "157",
+    "Whirlpool": "250",
+    "FakeTears": "313",
+    "Sing": "47",
+    "SparklingAria": "664",
+    "SmackDown": "479",
+    "LashOut": "808",
+    "Spite": "180",
+    "BitterMalice": "841",
+    "Tailwind": "366",
+    "TidyUp": "882",
+    "Memento": "262",
+    "AfterYou": "495",
+    "NobleRoar": "568",
+    "Flatter": "260",
+    "Teatime": "752",
+    "WillOWisp": "261",
+    "LastRespects": "854",
+    "EerieImpulse": "598",
+    "Flamethrower": "53",
+    "PyroBall": "780",
+    "AxeKick": "853",
+    "ShadowSneak": "425",
+    "SpiritShackle": "662",
+    "DoubleTeam": "104",
+    "Disable": "50",
+    "PollenPuff": "676",
+    "Crunch": "242",
+    "Bite": "44",
+    "Thunder": "87",
+    "ThunderFang": "422",
+    "ThunderPunch": "9",
+    "Facade": "263",
+    "ShellSmash": "504",
+    "BrickBreak": "280",
+    "Endeavor": "283",
+    "RockTomb": "317",
+    "RockWrecker": "439",
+    "StoneAxe": "830",
+    "FocusBlast": "411",
+    "FocusEnergy": "116",
+    "FocusPunch": "264",
+    "Reversal": "179",
+    "FickleBeam": "907",
+    "LeechLife": "141",
+    "GlaiveRush": "862",
+    "Slash": "163",
+    "Defog": "432",
+    "MetalSound": "319",
+    "GrassKnot": "447",
+    "Trailblaze": "885",
+    "Tickle": "321",
+    "BeakBlast": "690",
+    "JawLock": "746",
+    "Haze": "114",
+    "MeanLook": "212",
+    "LowKick": "67",
+    "Outrage": "200",
+    "AncientPower": "246",
+    "Synthesis": "235",
+    "Agility": "97",
+    "RapidSpin": "229",
+    "FrostBreath": "524",
+    "IceShard": "420",
+    "IceFang": "423",
+    "IcyWind": "196",
+    "FollowMe": "266",
+    "Endure": "203",
+    "ScaryFace": "184",
+    "RevivalBlessing": "863",
+    "Instruct": "689",
+    "Hypnosis": "95",
+    "Quash": "511",
+    "ChillyReception": "881",
+    "Uproar": "253",
+    "SaltCure": "864",
+    "WaterSpout": "323",
+    "BurningJealousy": "807",
+    "Payback": "371",
+    "ShedTail": "880",
+    "ZenHeadbutt": "428",
+    "StunSpore": "78",
+    "Bind": "20",
+    "VacuumWave": "410",
+    "ExtremeSpeed": "245",
+    "Safeguard": "219",
+    "PsychUp": "244",
+    "Recover": "105",
+    "ThroatChop": "675",
+    "Earthquake": "89",
+    "Flail": "175",
+    "StompingTantrum": "707",
+    "Bulldoze": "523",
+    "SelfDestruct": "120",
+    "MagneticFlux": "602",
+    "PlayRough": "583",
+    "Charge": "268",
+    "Gravity": "356",
+    "Fissure": "90",
+    "Extrasensory": "326",
+    "DoubleEdge": "38",
+    "PartingShot": "575",
+    "Sandstorm": "201",
+    "SandTomb": "328",
+    "Switcheroo": "415",
+    "Growth": "74",
+    "SacredSword": "533",
+    "SheerCold": "329",
+    "Electrify": "582",
+    "Fly": "19",
+    "Waterfall": "127",
+    "Stockpile": "254",
+    "Octolock": "753",
+    "Hex": "506",
+    "Shelter": "842",
+    "EarthPower": "414",
+    "TerrainPulse": "805",
+    "Explosion": "153",
+    "RagingFury": "833",
+    "FireBlast": "126",
+    "MuddyWater": "330",
+    "Minimize": "107",
+    "StrengthSap": "668",
+    "SeismicToss": "69",
+    "QuiverDance": "483",
+    "Taunt": "269",
+    "Pluck": "365",
+    "Moonlight": "236",
+    "PowerTrip": "681",
+    "NightSlash": "400",
+    "HornDrill": "32",
+    "AerialAce": "332",
+    "BabyDollEyes": "608",
+    "Acupressure": "367",
+    "IcicleCrash": "556",
+    "IcicleSpear": "333",
+    "SwordsDance": "14",
+    "HelpingHand": "270",
+    "SteelBeam": "796",
+    "IronDefense": "334",
+    "SweetKiss": "186",
+    "FirstImpression": "660",
+    "QuickAttack": "98",
+    "DoubleShock": "892",
+    "ThunderWave": "86",
+    "MagnetRise": "393",
+    "ZapCannon": "192",
+    "Block": "335",
+    "Howl": "336",
+    "Coil": "489",
+    "AcidArmor": "151",
+    "LastResort": "387",
+    "FellStinger": "565",
+    "Lunge": "679",
+    "Pounce": "884",
+    "Bounce": "340",
+    "HighJumpKick": "136",
+    "CircleThrow": "509",
+    "Uturn": "369",
+    "PoisonJab": "398",
+    "Toxic": "92",
+    "PoisonFang": "305",
+    "ToxicThread": "672",
+    "PoisonPowder": "77",
+    "BarbBarrage": "839",
+    "ToxicSpikes": "390",
+    "MudSlap": "189",
+    "Thief": "168",
+    "Entrainment": "494",
+    "Fling": "374",
+    "SlackOff": "303",
+    "TearfulLook": "715",
+    "Surf": "57",
+    "WorrySeed": "388",
+    "RolePlay": "272",
+    "SunnyDay": "241",
+    "Wish": "273",
+    "FakeOut": "252",
+    "SleepTalk": "214",
+    "ScorchingSands": "815",
+    "Scald": "503",
+    "HeatWave": "257",
+    "StickyWeb": "564",
+    "SleepPowder": "79",
+    "Rest": "156",
+    "SnipeShot": "745",
+    "Ingrain": "275",
+    "BodySlam": "34",
+    "Swallow": "256",
+    "Curse": "174",
+    "NoRetreat": "748",
+    "SkitterSmack": "806",
+    "HyperBeam": "63",
+    "SteelWing": "211",
+    "SpitUp": "255",
+    "KnockOff": "282",
+    "Pound": "1",
+    "AuraSphere": "396",
+    "PetalDance": "80",
+    "PetalBlizzard": "572",
+    "Roost": "355",
+    "LightofRuin": "617",
+    "UpperHand": "918",
+    "BellyDrum": "187",
+    "Superpower": "276",
+    "Boomburst": "586",
+    "DynamicPunch": "223",
+    "LightScreen": "113",
+    "CeaselessEdge": "845",
+    "TopsyTurvy": "576",
+    "InfernalParade": "844",
+    "ChillingWater": "886",
+    "MountainGale": "836",
+    "ZingZap": "716",
+    "SuckerPunch": "389",
+    "Imprison": "286",
+    "Whirlwind": "18",
+    "BeatUp": "251",
+    "CorrosiveGas": "810",
+    "Blizzard": "59",
+    "LavaPlume": "436",
+    "Eruption": "284",
+    "RageFist": "889",
+    "EerieSpell": "826",
+    "HeadlongRush": "838",
+    "BrutalSwing": "693",
+    "Glare": "137",
+    "Transform": "144",
+    "Discharge": "435",
+    "Comeuppance": "894",
+    "Roar": "46",
+    "StuffCheeks": "747",
+    "Covet": "343",
+    "Nuzzle": "609",
+    "FireSpin": "83",
+    "FieryDance": "552",
+    "FireFang": "424",
+    "FirePunch": "7",
+    "FireLash": "680",
+    "PerishSong": "195",
+    "Hurricane": "542",
+    "Wrap": "35",
+    "Spikes": "191",
+    "Infestation": "611",
+    "Copycat": "383",
+    "MagicPowder": "750",
+    "Protect": "182",
+    "Substitute": "164",
+    "Detect": "197",
+    "SyrupBomb": "903",
+    "WaterShuriken": "594",
+    "WaterPulse": "352",
+    "Soak": "487",
+    "DestinyBond": "194",
+    "FutureSight": "248",
+    "AlluringVoice": "914",
+    "BugBite": "450",
+    "BugBuzz": "405",
+    "StruggleBug": "522",
+    "BitterBlade": "891",
+    "CalmMind": "347",
+    "BurnUp": "682",
+    "ForestsCurse": "571",
+    "HeadSmash": "457",
+    "TemperFlare": "915",
+    "LeechSeed": "73",
+    "StormThrow": "480",
+    "Snowscape": "883",
+    "Avalanche": "419",
+    "DracoMeteor": "434",
+    "DragonPulse": "406",
+    "DragonDance": "349",
+    "AppleAcid": "787",
+    "Round": "496",
+    "IcePunch": "8",
+    "IceBeam": "58",
+    "Inferno": "517",
+    "CottonSpore": "178",
+    "Struggle": "165",
+    "NastyPlot": "417",
+    "IronTail": "231",
+    "IronHead": "442",
+    "SteelRoller": "798",
+    "IceSpinner": "861",
+    "IceHammer": "665",
+    "AquaCutter": "895",
+    "AquaJet": "453",
+    "AquaStep": "872",
+    "AquaTail": "401",
+    "Liquidation": "710",
+    "AquaRing": "392",
+    "Accelerock": "709",
+    "Acrobatics": "512",
+    "StoredPower": "500",
+    "AcidSpray": "491",
+    "AromaticMist": "597",
+    "Encore": "227",
+    "ArmorCannon": "890",
+    "HammerArm": "359",
+    "FoulPlay": "492",
+    "CloseCombat": "370",
+    "WeatherBall": "311",
+    "WaveCrash": "834",
+    "WoodHammer": "452",
+    "HornLeech": "532",
+    "AirCutter": "314",
+    "AirSlash": "403",
+    "EnergyBall": "412",
+    "Electroweb": "527",
+    "ElectricTerrain": "604",
+    "ElectroBall": "486",
+    "ElectroShot": "905",
+    "Overdrive": "786",
+    "Overheat": "315",
+    "AuraWheel": "783",
+    "AuroraVeil": "694",
+    "Counter": "68",
+    "GuardSplit": "470",
+    "GuardSwap": "385",
+    "Spore": "147",
+    "MortalSpin": "866",
+    "KingsShield": "588",
+    "ShiftGear": "508",
+    "GigaImpact": "416",
+    "GigaDrain": "202",
+    "FlipTurn": "812",
+    "Crabhammer": "152",
+    "ClearSmog": "499",
+    "CrossChop": "238",
+    "CrossPoison": "440",
+    "GrassyGlide": "803",
+    "GrassyTerrain": "580",
+    "Belch": "562",
+    "CosmicPower": "322",
+    "CottonGuard": "538",
+    "MeteorMash": "309",
+    "Coaching": "811",
+    "CourtChange": "756",
+    "SkyAttack": "143",
+    "PhantomForce": "566",
+    "MakeItRain": "874",
+    "PsychoCut": "427",
+    "Psychic": "94",
+    "Psyshock": "473",
+    "PsychicNoise": "917",
+    "PsychicFangs": "706",
+    "PsychicTerrain": "678",
+    "AllySwitch": "502",
+    "SupercellSlam": "916",
+    "ShellSideArm": "801",
+    "RazorShell": "534",
+    "XScissor": "404",
+    "MatchaGotcha": "902",
+    "ShadowClaw": "421",
+    "ShadowPunch": "325",
+    "ShadowBall": "247",
+    "SimpleBeam": "493",
+    "JetPunch": "857",
+    "GyroBall": "360",
+    "TailSlap": "541",
+    "SkillSwap": "285",
+    "ScaleShot": "799",
+    "ClangingScales": "691",
+    "MeteorAssault": "794",
+    "StealthRock": "446",
+    "StoneEdge": "444",
+    "SpeedSwap": "683",
+    "SmartStrike": "684",
+    "SpiritBreak": "789",
+    "ClangorousSoul": "775",
+    "SolarBeam": "76",
+    "SolarBlade": "669",
+    "SeedBomb": "402",
+    "BulletSeed": "331",
+    "SoftBoiled": "135",
+    "Dive": "291",
+    "GunkShot": "441",
+    "DoubleHit": "458",
+    "DualWingbeat": "814",
+    "Assurance": "372",
+    "ChargeBeam": "451",
+    "TwinBeam": "888",
+    "GigatonHammer": "893",
+    "Decorate": "777",
+    "TriAttack": "161",
+    "SnapTrap": "779",
+    "Trick": "271",
+    "FlowerTrick": "870",
+    "TrickRoom": "433",
+    "TripleAxel": "813",
+    "TropKick": "688",
+    "BanefulBunker": "661",
+    "Amnesia": "133",
+    "KowtowCleave": "869",
+    "DragonDarts": "751",
+    "DragonCheer": "913",
+    "DragonClaw": "337",
+    "DragonRush": "407",
+    "DragonTail": "525",
+    "DrumBeating": "778",
+    "DrillPeck": "65",
+    "DrillRun": "529",
+    "DrainingKiss": "577",
+    "DrainPunch": "409",
+    "NightDaze": "539",
+    "NightShade": "101",
+    "FlameCharge": "488",
+    "SpikyShield": "596",
+    "PopulationBomb": "860",
+    "HydroCannon": "308",
+    "HydroPump": "56",
+    "HyperVoice": "304",
+    "Guillotine": "12",
+    "SpicyExtract": "858",
+    "TrickorTreat": "567",
+    "FrenzyPlant": "338",
+    "HardPress": "912",
+    "BatonPass": "226",
+    "PsyshieldBash": "828",
+    "BulletPunch": "418",
+    "Snarl": "555",
+    "ParabolicCharge": "570",
+    "PowerWhip": "438",
+    "PowerSplit": "471",
+    "PowerShift": "829",
+    "PowerGem": "408",
+    "PowerSwap": "384",
+    "PowerTrick": "379",
+    "HeatCrash": "535",
+    "BulkUp": "339",
+    "QuickGuard": "501",
+    "FairyLock": "587",
+    "DireClaw": "827",
+    "Feint": "364",
+    "FeatherDance": "297",
+    "FlyingPress": "560",
+    "TeeterDance": "298",
+    "FreezeDry": "573",
+    "TorchSong": "871",
+    "FlareBlitz": "394",
+    "BlastBurn": "307",
+    "CrushClaw": "306",
+    "BlazeKick": "299",
+    "BraveBird": "413",
+    "SludgeBomb": "188",
+    "SludgeWave": "482",
+    "HeavySlam": "484",
+    "Venoshock": "474",
+    "BodyPress": "776",
+    "VoltTackle": "344",
+    "VoltSwitch": "521",
+    "BoneRush": "198",
+    "Poltergeist": "809",
+    "DazzlingGleam": "605",
+    "MysticalFire": "595",
+    "MagicRoom": "478",
+    "MudShot": "341",
+    "MachPunch": "183",
+    "PinMissile": "42",
+    "MistyExplosion": "802",
+    "MistyTerrain": "581",
+    "MirrorCoat": "243",
+    "ReflectType": "513",
+    "MilkDrink": "208",
+    "Moonblast": "585",
+    "MegaKick": "25",
+    "Megahorn": "224",
+    "MetalBurst": "368",
+    "MeteorBeam": "800",
+    "Attract": "213",
+    "RisingVoltage": "804",
+    "FlashCannon": "430",
+    "Recycle": "278",
+    "Reflect": "115",
+    "LeafStorm": "437",
+    "LeafBlade": "348",
+    "LuminaCrash": "855",
+    "RagingBull": "873",
+    "LockOn": "199",
+    "RockPolish": "397",
+    "RockBlast": "350",
+    "LowSweep": "490",
+    "WideGuard": "469",
+    "ExpandingForce": "797",
+    "BreakingSwipe": "784",
+    "WildCharge": "528",
+    "WonderRoom": "472"
+  },
+  "notes": [
+    "Game PP is maximum PP: (base // 5 + 1) * 4, except noPPBoosts.",
+    "Accuracy 101 denotes always-hit; variable/fixed damage power 1 corresponds to the existing zero base-power representation."
+  ],
+  "differences": []
+}

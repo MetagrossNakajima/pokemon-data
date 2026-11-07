@@ -111,7 +111,7 @@ MISSING_ABILITIES = {
     'ZeroForming': {'ja': 'ゼロフォーミング', 'en': 'Zero Forming'},
     'FireMane': {'ja': 'ほのおのたてがみ', 'en': 'Fire Mane'},
     'Eelevate': {'ja': 'うなぎのぼり', 'en': 'Eelevate'},
-    'WaveShield': {'ja': 'はどうのぼうご', 'en': 'Wave Shield'},
+    'WaveShield': {'ja': 'はどうのぼうご', 'en': 'Aura Guard'},
 }
 
 ANNOUNCED_MEGA_ABILITIES = {

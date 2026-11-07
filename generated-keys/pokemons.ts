@@ -981,7 +981,7 @@ export type PokemonName =
   | "Sandygast"
   | "Palossand"
   | "Pyukumuku"
-  | "Type:Null"
+  | "TypeNull"
   | "Silvally"
   | "Minior"
   | "Komala"
@@ -1270,3 +1270,4 @@ export type PokemonName =
   | "Terapagos"
   | "Terapagos-Stellar"
   | "Pecharunt"
+  | "Meowstic-F-Mega"

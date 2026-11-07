@@ -1,0 +1,2773 @@
+{
+  "retrievedAt": "2026-11-07T17:53:13.742180+00:00",
+  "forms": [
+    {
+      "key": "Venusaur",
+      "url": "https://www.serebii.net/pokedex-champions/venusaur/",
+      "sha256": "ae08c4f07f70afe89bf83ff0973b7bee5b2fff9180c014603a6e76b1c7d9c53b",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Venusaur-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/venusaur/",
+      "sha256": "ae08c4f07f70afe89bf83ff0973b7bee5b2fff9180c014603a6e76b1c7d9c53b",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Charizard",
+      "url": "https://www.serebii.net/pokedex-champions/charizard/",
+      "sha256": "9866753ff06fa0d31fd531c35d8590c43662faf85df67de074cf45d5238b805f",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Charizard-Mega-X",
+      "url": "https://www.serebii.net/pokedex-champions/charizard/",
+      "sha256": "9866753ff06fa0d31fd531c35d8590c43662faf85df67de074cf45d5238b805f",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Charizard-Mega-Y",
+      "url": "https://www.serebii.net/pokedex-champions/charizard/",
+      "sha256": "9866753ff06fa0d31fd531c35d8590c43662faf85df67de074cf45d5238b805f",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Blastoise",
+      "url": "https://www.serebii.net/pokedex-champions/blastoise/",
+      "sha256": "658d5f992471e8e0eed2aca2bb5b8594f02992136c2331e024824da0bd1b9f0e",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Blastoise-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/blastoise/",
+      "sha256": "658d5f992471e8e0eed2aca2bb5b8594f02992136c2331e024824da0bd1b9f0e",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Beedrill",
+      "url": "https://www.serebii.net/pokedex-champions/beedrill/",
+      "sha256": "69649e4ad94b3c4267c99a5bfe9a13f995444c622dc01756a209f836792a2a84",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Beedrill-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/beedrill/",
+      "sha256": "69649e4ad94b3c4267c99a5bfe9a13f995444c622dc01756a209f836792a2a84",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Pidgeot",
+      "url": "https://www.serebii.net/pokedex-champions/pidgeot/",
+      "sha256": "2121eda703dcd7068358cd266bdfff4158ba45b416eeef5d1801122b67d29aa8",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Pidgeot-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/pidgeot/",
+      "sha256": "2121eda703dcd7068358cd266bdfff4158ba45b416eeef5d1801122b67d29aa8",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Arbok",
+      "url": "https://www.serebii.net/pokedex-champions/arbok/",
+      "sha256": "d4b6d6d9da0c2764ed5b58cb9a4997ff1a9eb7e1e6e024aba6f08f723c7d4e02",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Pikachu",
+      "url": "https://www.serebii.net/pokedex-champions/pikachu/",
+      "sha256": "147757b2eaa6cd385ea8257446bb08e40f09b2cff75aae441391a9779f48b0e2",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Raichu",
+      "url": "https://www.serebii.net/pokedex-champions/raichu/",
+      "sha256": "52ad43141e78d4aa41d251c272e65020673bfa93cf3b775d7c15099acfca5c42",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Raichu-Alola",
+      "url": "https://www.serebii.net/pokedex-champions/raichu/",
+      "sha256": "52ad43141e78d4aa41d251c272e65020673bfa93cf3b775d7c15099acfca5c42",
+      "table": "Alola Form Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Raichu-Mega-X",
+      "url": "https://www.serebii.net/pokedex-champions/raichu/",
+      "sha256": "52ad43141e78d4aa41d251c272e65020673bfa93cf3b775d7c15099acfca5c42",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Raichu-Mega-Y",
+      "url": "https://www.serebii.net/pokedex-champions/raichu/",
+      "sha256": "52ad43141e78d4aa41d251c272e65020673bfa93cf3b775d7c15099acfca5c42",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Clefable",
+      "url": "https://www.serebii.net/pokedex-champions/clefable/",
+      "sha256": "6b683f0b1afcb188ba540b3862e399371bcc5a319fd2070cff59e6e69196e2e7",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Clefable-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/clefable/",
+      "sha256": "6b683f0b1afcb188ba540b3862e399371bcc5a319fd2070cff59e6e69196e2e7",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Ninetales",
+      "url": "https://www.serebii.net/pokedex-champions/ninetales/",
+      "sha256": "35ef3f4706ee06dbe5aaf64ecc4f8ca2ce8073fe90fb0958219ea2ab205c1362",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Ninetales-Alola",
+      "url": "https://www.serebii.net/pokedex-champions/ninetales/",
+      "sha256": "35ef3f4706ee06dbe5aaf64ecc4f8ca2ce8073fe90fb0958219ea2ab205c1362",
+      "table": "Alola Form Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Wigglytuff",
+      "url": "https://www.serebii.net/pokedex-champions/wigglytuff/",
+      "sha256": "23acc4611ff630ff442303ed206efb82aac57dc3b498e4377d9941fe404dd54f",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Vileplume",
+      "url": "https://www.serebii.net/pokedex-champions/vileplume/",
+      "sha256": "96b0de3e6f3e48f6cfef2fbc364d072802e3cddecc13787caa304c115987e869",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Persian",
+      "url": "https://www.serebii.net/pokedex-champions/persian/",
+      "sha256": "7f36248055659305d12c6ff102e4fcd46b9f6e9b2bb6c8777b73bde1ca464961",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Persian-Alola",
+      "url": "https://www.serebii.net/pokedex-champions/persian/",
+      "sha256": "7f36248055659305d12c6ff102e4fcd46b9f6e9b2bb6c8777b73bde1ca464961",
+      "table": "Alola Form Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Arcanine",
+      "url": "https://www.serebii.net/pokedex-champions/arcanine/",
+      "sha256": "a5be232130363a0fec8fcb7ba303c8c207b605bf07018f95f4bf24f1b008fdd5",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Arcanine-Hisui",
+      "url": "https://www.serebii.net/pokedex-champions/arcanine/",
+      "sha256": "a5be232130363a0fec8fcb7ba303c8c207b605bf07018f95f4bf24f1b008fdd5",
+      "table": "Hisuian Form Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Alakazam",
+      "url": "https://www.serebii.net/pokedex-champions/alakazam/",
+      "sha256": "4bf0fc7c0d0d8b46d0eb4b50ee9e1ebc471c7a5d68d072398feb6f341039454c",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Alakazam-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/alakazam/",
+      "sha256": "4bf0fc7c0d0d8b46d0eb4b50ee9e1ebc471c7a5d68d072398feb6f341039454c",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Machamp",
+      "url": "https://www.serebii.net/pokedex-champions/machamp/",
+      "sha256": "15e666229a0963e923ef4af2d1615acb0a8f6bbfa52371be16ba6ee4086f307a",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Victreebel",
+      "url": "https://www.serebii.net/pokedex-champions/victreebel/",
+      "sha256": "a2c025fca3713d74f5e692a644dc1358bfacd62d14c2d5ac67a4100a9b2681c0",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Victreebel-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/victreebel/",
+      "sha256": "a2c025fca3713d74f5e692a644dc1358bfacd62d14c2d5ac67a4100a9b2681c0",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Slowbro",
+      "url": "https://www.serebii.net/pokedex-champions/slowbro/",
+      "sha256": "236a122320908ebf1d4cc60400947b4350502f4cad9b6349c3c8f0141e41f8c5",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Slowbro-Galar",
+      "url": "https://www.serebii.net/pokedex-champions/slowbro/",
+      "sha256": "236a122320908ebf1d4cc60400947b4350502f4cad9b6349c3c8f0141e41f8c5",
+      "table": "Galarian Form Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Slowbro-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/slowbro/",
+      "sha256": "236a122320908ebf1d4cc60400947b4350502f4cad9b6349c3c8f0141e41f8c5",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Farfetch'd",
+      "url": "https://www.serebii.net/pokedex-champions/farfetch'd/",
+      "sha256": "42049f868117a1ae97ee186571003c96a7fb95b7b89933631533a2075c9c541e",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Gengar",
+      "url": "https://www.serebii.net/pokedex-champions/gengar/",
+      "sha256": "184cd0029c65e5514cfc347c15e1834a480fd314f4f0f9820cc0c0c2e41f58f1",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Gengar-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/gengar/",
+      "sha256": "184cd0029c65e5514cfc347c15e1834a480fd314f4f0f9820cc0c0c2e41f58f1",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Kangaskhan",
+      "url": "https://www.serebii.net/pokedex-champions/kangaskhan/",
+      "sha256": "23ea2c23df06f96166d35a6bf3c994220652940adaf7a9d14bc30e85e01e5397",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Kangaskhan-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/kangaskhan/",
+      "sha256": "23ea2c23df06f96166d35a6bf3c994220652940adaf7a9d14bc30e85e01e5397",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Starmie",
+      "url": "https://www.serebii.net/pokedex-champions/starmie/",
+      "sha256": "7bbead5dbb2799de8b03e821070fee5c4de485403ab75c8fdc313a54b0c8c191",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Starmie-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/starmie/",
+      "sha256": "7bbead5dbb2799de8b03e821070fee5c4de485403ab75c8fdc313a54b0c8c191",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Mr.Mime",
+      "url": "https://www.serebii.net/pokedex-champions/mr.mime/",
+      "sha256": "4518554a965f9b6ae9cb4ccc895c8594dc4b8299d8210eca1173efe3eec5505c",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Pinsir",
+      "url": "https://www.serebii.net/pokedex-champions/pinsir/",
+      "sha256": "fe63e34396607528360473a03ff0ae0768590629735dcb38bf62d19f7bf97cba",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Pinsir-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/pinsir/",
+      "sha256": "fe63e34396607528360473a03ff0ae0768590629735dcb38bf62d19f7bf97cba",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Tauros",
+      "url": "https://www.serebii.net/pokedex-champions/tauros/",
+      "sha256": "1b5ae5e89f2fe73bc45e45a8228c91e416310986d3c0e1997e0232ec00aee3ee",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Tauros-Paldea-Combat",
+      "url": "https://www.serebii.net/pokedex-champions/tauros/",
+      "sha256": "1b5ae5e89f2fe73bc45e45a8228c91e416310986d3c0e1997e0232ec00aee3ee",
+      "table": "Paldean Form Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Tauros-Paldea-Blaze",
+      "url": "https://www.serebii.net/pokedex-champions/tauros/",
+      "sha256": "1b5ae5e89f2fe73bc45e45a8228c91e416310986d3c0e1997e0232ec00aee3ee",
+      "table": "Standard Moves - Blaze Breed",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Tauros-Paldea-Aqua",
+      "url": "https://www.serebii.net/pokedex-champions/tauros/",
+      "sha256": "1b5ae5e89f2fe73bc45e45a8228c91e416310986d3c0e1997e0232ec00aee3ee",
+      "table": "Standard Moves - Aqua Breed",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Gyarados",
+      "url": "https://www.serebii.net/pokedex-champions/gyarados/",
+      "sha256": "8afbb2243097ce73a3eceb694eefe25e7e267e8439e46545b85ef153a3556276",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Gyarados-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/gyarados/",
+      "sha256": "8afbb2243097ce73a3eceb694eefe25e7e267e8439e46545b85ef153a3556276",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Ditto",
+      "url": "https://www.serebii.net/pokedex-champions/ditto/",
+      "sha256": "e5e90fd015b474ad35c5efa08f6094583cc7bce54a5356afe449a72977c684f8",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Vaporeon",
+      "url": "https://www.serebii.net/pokedex-champions/vaporeon/",
+      "sha256": "21982375d3a68713ff385fc7ae0845fd09bb7ede1895c4a9b07ef228577c53ea",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Jolteon",
+      "url": "https://www.serebii.net/pokedex-champions/jolteon/",
+      "sha256": "ae119b3a82653f55982141f0b95cb30883c7fedb6c88181ba5fc781664828157",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Flareon",
+      "url": "https://www.serebii.net/pokedex-champions/flareon/",
+      "sha256": "cb3d62264e7e32ff94a424c51603aced9081d6471ed93bfe22f904ab91775728",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Aerodactyl",
+      "url": "https://www.serebii.net/pokedex-champions/aerodactyl/",
+      "sha256": "8c63b9dde254530aa0be1779ce5cc33761486b44bf6e0ca5e49007333db9dd16",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Aerodactyl-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/aerodactyl/",
+      "sha256": "8c63b9dde254530aa0be1779ce5cc33761486b44bf6e0ca5e49007333db9dd16",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Snorlax",
+      "url": "https://www.serebii.net/pokedex-champions/snorlax/",
+      "sha256": "a6d3b5cee85105f4a78e099197425c7a814d2cf297abf16cbe4f21b756fa5e52",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Dragonite",
+      "url": "https://www.serebii.net/pokedex-champions/dragonite/",
+      "sha256": "3a1c8ab2115c4b4740dcac3c98a8908b229e2fa0a02154c7b2a99e87fc9cbaec",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Dragonite-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/dragonite/",
+      "sha256": "3a1c8ab2115c4b4740dcac3c98a8908b229e2fa0a02154c7b2a99e87fc9cbaec",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Meganium",
+      "url": "https://www.serebii.net/pokedex-champions/meganium/",
+      "sha256": "3da42f0d76d0cf671638d133c0e5ec95ae3b2f5cbedda6fda82324baed812545",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Meganium-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/meganium/",
+      "sha256": "3da42f0d76d0cf671638d133c0e5ec95ae3b2f5cbedda6fda82324baed812545",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Typhlosion",
+      "url": "https://www.serebii.net/pokedex-champions/typhlosion/",
+      "sha256": "2e7c218b94abd6cdec6d956df275f0934bbb0c38b34af89c761f950c61381f38",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Typhlosion-Hisui",
+      "url": "https://www.serebii.net/pokedex-champions/typhlosion/",
+      "sha256": "2e7c218b94abd6cdec6d956df275f0934bbb0c38b34af89c761f950c61381f38",
+      "table": "Hisuian Form Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Feraligatr",
+      "url": "https://www.serebii.net/pokedex-champions/feraligatr/",
+      "sha256": "b9098ab596f1c5cb3c89799f9ed868cb5c2b8dfb3df0f8bccbf18a2892adc945",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Feraligatr-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/feraligatr/",
+      "sha256": "b9098ab596f1c5cb3c89799f9ed868cb5c2b8dfb3df0f8bccbf18a2892adc945",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Ariados",
+      "url": "https://www.serebii.net/pokedex-champions/ariados/",
+      "sha256": "6074aa653b8bbfbb73ca7b6b09902f41a0e27754daebe762bb6a3b8f885a555e",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Ampharos",
+      "url": "https://www.serebii.net/pokedex-champions/ampharos/",
+      "sha256": "6d3b09a4b32c72fa58945a3a8627a7daa0ac272989ae2b3ab3b73db371909a22",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Ampharos-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/ampharos/",
+      "sha256": "6d3b09a4b32c72fa58945a3a8627a7daa0ac272989ae2b3ab3b73db371909a22",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Azumarill",
+      "url": "https://www.serebii.net/pokedex-champions/azumarill/",
+      "sha256": "d3844b6dac8de9c50d9ac459a801972079af1d8ec49d2a253bc14481fb9f0ff9",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Politoed",
+      "url": "https://www.serebii.net/pokedex-champions/politoed/",
+      "sha256": "7bc95313d603d8cefa102f8553d8d62c1e2fae24488ec28515437b34cd7d8452",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Espeon",
+      "url": "https://www.serebii.net/pokedex-champions/espeon/",
+      "sha256": "948f370cdc5da2980a89200d077bfd342c061415ca3be832714649b75c5012e0",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Umbreon",
+      "url": "https://www.serebii.net/pokedex-champions/umbreon/",
+      "sha256": "d0cf1dc10accfe71b9b629fe13f1fe73a82b941fe2a1f47f7dfdb1cc525bab28",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Slowking",
+      "url": "https://www.serebii.net/pokedex-champions/slowking/",
+      "sha256": "7ab0f7ee3a5977f3857f63e9e39afe7e64f9cb4e6d16d48d23fdf7f84753d5ac",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Slowking-Galar",
+      "url": "https://www.serebii.net/pokedex-champions/slowking/",
+      "sha256": "7ab0f7ee3a5977f3857f63e9e39afe7e64f9cb4e6d16d48d23fdf7f84753d5ac",
+      "table": "Galarian Form Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Forretress",
+      "url": "https://www.serebii.net/pokedex-champions/forretress/",
+      "sha256": "0248fd215b6056168bbf14ddb4252b9221a17168c58a0a4e3509694a7b31c420",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Steelix",
+      "url": "https://www.serebii.net/pokedex-champions/steelix/",
+      "sha256": "f19b22dcd937eeeea55881eb614e295e9b52bb21dc05542425612bf1471be4c6",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Steelix-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/steelix/",
+      "sha256": "f19b22dcd937eeeea55881eb614e295e9b52bb21dc05542425612bf1471be4c6",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Qwilfish",
+      "url": "https://www.serebii.net/pokedex-champions/qwilfish/",
+      "sha256": "2f5d92c71334bf26a1fd184367861aa57b165f8da955f91742daabf6c6ac8917",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Scizor",
+      "url": "https://www.serebii.net/pokedex-champions/scizor/",
+      "sha256": "48c289b55ca33bbfc1d847c7221a8fd604f4fd406e54979eefde285cd1064ce0",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Scizor-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/scizor/",
+      "sha256": "48c289b55ca33bbfc1d847c7221a8fd604f4fd406e54979eefde285cd1064ce0",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Heracross",
+      "url": "https://www.serebii.net/pokedex-champions/heracross/",
+      "sha256": "d551bf1907f59ad973c8a635060b7c9ff20d81ca969241c03aa04445f4c30caf",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Heracross-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/heracross/",
+      "sha256": "d551bf1907f59ad973c8a635060b7c9ff20d81ca969241c03aa04445f4c30caf",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Skarmory",
+      "url": "https://www.serebii.net/pokedex-champions/skarmory/",
+      "sha256": "371eb898a110d03319c7552e55bf3beb2e5c47aeaede5d784cbd8bf15d0dc32c",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Skarmory-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/skarmory/",
+      "sha256": "371eb898a110d03319c7552e55bf3beb2e5c47aeaede5d784cbd8bf15d0dc32c",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Houndoom",
+      "url": "https://www.serebii.net/pokedex-champions/houndoom/",
+      "sha256": "248515c85bdfb7eb5f16b700e072aca8e66d1fce21440a49aca5962c1a7be07e",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Houndoom-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/houndoom/",
+      "sha256": "248515c85bdfb7eb5f16b700e072aca8e66d1fce21440a49aca5962c1a7be07e",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Tyranitar",
+      "url": "https://www.serebii.net/pokedex-champions/tyranitar/",
+      "sha256": "2077bba3ca2ac0232bf95312a132bb125b0d62489a3087fb003be22924a276e6",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Tyranitar-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/tyranitar/",
+      "sha256": "2077bba3ca2ac0232bf95312a132bb125b0d62489a3087fb003be22924a276e6",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Sceptile",
+      "url": "https://www.serebii.net/pokedex-champions/sceptile/",
+      "sha256": "5877eb6c0243dc85885641d9a5c8b962862ba3d152238e87c394e3f04c606a08",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Sceptile-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/sceptile/",
+      "sha256": "5877eb6c0243dc85885641d9a5c8b962862ba3d152238e87c394e3f04c606a08",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Blaziken",
+      "url": "https://www.serebii.net/pokedex-champions/blaziken/",
+      "sha256": "8d9888af67d5e1cd86efa494c8bd6c07e89bbdebbcdb7f8eaf63c47096890d27",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Blaziken-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/blaziken/",
+      "sha256": "8d9888af67d5e1cd86efa494c8bd6c07e89bbdebbcdb7f8eaf63c47096890d27",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Swampert",
+      "url": "https://www.serebii.net/pokedex-champions/swampert/",
+      "sha256": "75c83bf849933640e83d128f8b6eaa9133d210d977cb27d4ade972e431e053c2",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Swampert-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/swampert/",
+      "sha256": "75c83bf849933640e83d128f8b6eaa9133d210d977cb27d4ade972e431e053c2",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Pelipper",
+      "url": "https://www.serebii.net/pokedex-champions/pelipper/",
+      "sha256": "7816de0385177fd2d48acf05ecff28122262aac0875a16e1f201e0b684f57aa2",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Gardevoir",
+      "url": "https://www.serebii.net/pokedex-champions/gardevoir/",
+      "sha256": "dbce5fe888828c8fd89217a440b56b62aecc91fcd10545c88b94501aca6549a7",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Gardevoir-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/gardevoir/",
+      "sha256": "dbce5fe888828c8fd89217a440b56b62aecc91fcd10545c88b94501aca6549a7",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Sableye",
+      "url": "https://www.serebii.net/pokedex-champions/sableye/",
+      "sha256": "50d208dbedd69a18ddead9d01204ed3455399aac5f173ea24a831393a9377223",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Sableye-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/sableye/",
+      "sha256": "50d208dbedd69a18ddead9d01204ed3455399aac5f173ea24a831393a9377223",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Mawile",
+      "url": "https://www.serebii.net/pokedex-champions/mawile/",
+      "sha256": "ab6d6c077ed042f2c10d9a3a75fe530847e79710c56659f758fdfd7ceb4fb6c6",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Mawile-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/mawile/",
+      "sha256": "ab6d6c077ed042f2c10d9a3a75fe530847e79710c56659f758fdfd7ceb4fb6c6",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Aggron",
+      "url": "https://www.serebii.net/pokedex-champions/aggron/",
+      "sha256": "8cf4e407710b65a5280f6a34c82c4530854b6e3e2e58067271a74313f712062e",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Aggron-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/aggron/",
+      "sha256": "8cf4e407710b65a5280f6a34c82c4530854b6e3e2e58067271a74313f712062e",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Medicham",
+      "url": "https://www.serebii.net/pokedex-champions/medicham/",
+      "sha256": "53badc4c34e20a84a6802f117c90fcc33f8d2adaf26676191fc6307e77b4d122",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Medicham-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/medicham/",
+      "sha256": "53badc4c34e20a84a6802f117c90fcc33f8d2adaf26676191fc6307e77b4d122",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Manectric",
+      "url": "https://www.serebii.net/pokedex-champions/manectric/",
+      "sha256": "06c611cb5df2992b49a1008b0b65ce410ec9a211e46c009a434c82dad6280384",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Manectric-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/manectric/",
+      "sha256": "06c611cb5df2992b49a1008b0b65ce410ec9a211e46c009a434c82dad6280384",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Swalot",
+      "url": "https://www.serebii.net/pokedex-champions/swalot/",
+      "sha256": "1ca239dcc00503e317474984dc61432dbd7819ca533531d655b906e8d2954b00",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Sharpedo",
+      "url": "https://www.serebii.net/pokedex-champions/sharpedo/",
+      "sha256": "97c57910b2afde7e96a3ad6bbd62d8770ef07cb36715b13eb59b36c7738711dd",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Sharpedo-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/sharpedo/",
+      "sha256": "97c57910b2afde7e96a3ad6bbd62d8770ef07cb36715b13eb59b36c7738711dd",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Camerupt",
+      "url": "https://www.serebii.net/pokedex-champions/camerupt/",
+      "sha256": "8ebffbbea808aae5e36c66f95c98bb5a8c2c514ecdd3c1958c7cf1150846c51d",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Camerupt-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/camerupt/",
+      "sha256": "8ebffbbea808aae5e36c66f95c98bb5a8c2c514ecdd3c1958c7cf1150846c51d",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Torkoal",
+      "url": "https://www.serebii.net/pokedex-champions/torkoal/",
+      "sha256": "8e6cedb0cbd4c497e79b9ee7d9e17094142c67a0e11454ce2f18c4ebc918d787",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Altaria",
+      "url": "https://www.serebii.net/pokedex-champions/altaria/",
+      "sha256": "4ff8530670dea8b22d5d911f6336beaae75b0df2b14a1d06f30af748885ab35e",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Altaria-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/altaria/",
+      "sha256": "4ff8530670dea8b22d5d911f6336beaae75b0df2b14a1d06f30af748885ab35e",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Milotic",
+      "url": "https://www.serebii.net/pokedex-champions/milotic/",
+      "sha256": "970620eef0d4eff508183e18b13c9fc8381841f752b86cdfe9b293ed8b692e53",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Castform",
+      "url": "https://www.serebii.net/pokedex-champions/castform/",
+      "sha256": "ff20874f0e0b2673f43567b718e1324a15b53d69c366dc34c63c93703392f819",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Banette",
+      "url": "https://www.serebii.net/pokedex-champions/banette/",
+      "sha256": "a879ae428de5cedf023add50df3d9db217558c3b25826db8e729603e83a9150b",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Banette-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/banette/",
+      "sha256": "a879ae428de5cedf023add50df3d9db217558c3b25826db8e729603e83a9150b",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Chimecho",
+      "url": "https://www.serebii.net/pokedex-champions/chimecho/",
+      "sha256": "857f824aaa6cf2121bf4383c59d5cb6cbe4989cfd8ec0c58b5d05553a6fc8a67",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Chimecho-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/chimecho/",
+      "sha256": "857f824aaa6cf2121bf4383c59d5cb6cbe4989cfd8ec0c58b5d05553a6fc8a67",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Absol",
+      "url": "https://www.serebii.net/pokedex-champions/absol/",
+      "sha256": "3ef5344f0366c48d1dec2b97807d1a1982f4922e215e931f020058965e9cee2c",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Absol-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/absol/",
+      "sha256": "3ef5344f0366c48d1dec2b97807d1a1982f4922e215e931f020058965e9cee2c",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Absol-Mega-Z",
+      "url": "https://www.serebii.net/pokedex-champions/absol/",
+      "sha256": "3ef5344f0366c48d1dec2b97807d1a1982f4922e215e931f020058965e9cee2c",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Glalie",
+      "url": "https://www.serebii.net/pokedex-champions/glalie/",
+      "sha256": "14e854955f2ff7d24ea05ab8bc6f946f97dd6d8da090377daf96bcb9767ed4e3",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Glalie-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/glalie/",
+      "sha256": "14e854955f2ff7d24ea05ab8bc6f946f97dd6d8da090377daf96bcb9767ed4e3",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Salamence",
+      "url": "https://www.serebii.net/pokedex-champions/salamence/",
+      "sha256": "9b6bed9198cae5e178d6a2b462ff43ae5aedf0befea3a8a73c6568e61a9e1036",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Salamence-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/salamence/",
+      "sha256": "9b6bed9198cae5e178d6a2b462ff43ae5aedf0befea3a8a73c6568e61a9e1036",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Metagross",
+      "url": "https://www.serebii.net/pokedex-champions/metagross/",
+      "sha256": "9630aa469c4baa2a510eb85b0de17ca2d390a088af807e065c80f1bc4ff36c94",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Metagross-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/metagross/",
+      "sha256": "9630aa469c4baa2a510eb85b0de17ca2d390a088af807e065c80f1bc4ff36c94",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Torterra",
+      "url": "https://www.serebii.net/pokedex-champions/torterra/",
+      "sha256": "bf3dc26e45f4ca2f4667e50cd2d6288305c7edef8d6e43309992d2f2ab81815e",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Infernape",
+      "url": "https://www.serebii.net/pokedex-champions/infernape/",
+      "sha256": "330644041512d2ca19927a80e9f7de3feadd9c00235cd5cac58eddd32bb80134",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Empoleon",
+      "url": "https://www.serebii.net/pokedex-champions/empoleon/",
+      "sha256": "4565a722331731c5111fa54708df4d75180c5e52e413b51e4d4ca2095fe9f441",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Staraptor",
+      "url": "https://www.serebii.net/pokedex-champions/staraptor/",
+      "sha256": "2077a0639dc7ce941610e4348938842ca40c76ec9965d830d38995dd6b07aa17",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Staraptor-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/staraptor/",
+      "sha256": "2077a0639dc7ce941610e4348938842ca40c76ec9965d830d38995dd6b07aa17",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Luxray",
+      "url": "https://www.serebii.net/pokedex-champions/luxray/",
+      "sha256": "29cf57f6ad712631850fe093c9bee27bc533a5ed2605c7acf346a48b43f6c36f",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Roserade",
+      "url": "https://www.serebii.net/pokedex-champions/roserade/",
+      "sha256": "c41355c5171b595ce9d50b51cf82e665669380c62fc38c1a81706f62eec2e0b6",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Rampardos",
+      "url": "https://www.serebii.net/pokedex-champions/rampardos/",
+      "sha256": "23bf3d82e1d87993411bc1288589871bb550d2a6e3dcbd123468daba024b408f",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Bastiodon",
+      "url": "https://www.serebii.net/pokedex-champions/bastiodon/",
+      "sha256": "bf8392cab8e03c75cefc4b83808a5d49b38178983e7f5d6c021e9531162af446",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Lopunny",
+      "url": "https://www.serebii.net/pokedex-champions/lopunny/",
+      "sha256": "caca238d95c11412c89d4fb77e373cae4e75eb50b91c3da8849202ac4db239db",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Lopunny-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/lopunny/",
+      "sha256": "caca238d95c11412c89d4fb77e373cae4e75eb50b91c3da8849202ac4db239db",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Spiritomb",
+      "url": "https://www.serebii.net/pokedex-champions/spiritomb/",
+      "sha256": "629f51b368592c5f106e535a49b1dec5d032348c523355d392dfb047e7b36414",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Garchomp",
+      "url": "https://www.serebii.net/pokedex-champions/garchomp/",
+      "sha256": "94687de49247eec5db71b2f3f7d621cdd028566ee90746f6778d5dd2c109c476",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Garchomp-Mega-Z",
+      "url": "https://www.serebii.net/pokedex-champions/garchomp/",
+      "sha256": "94687de49247eec5db71b2f3f7d621cdd028566ee90746f6778d5dd2c109c476",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Garchomp-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/garchomp/",
+      "sha256": "94687de49247eec5db71b2f3f7d621cdd028566ee90746f6778d5dd2c109c476",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Lucario",
+      "url": "https://www.serebii.net/pokedex-champions/lucario/",
+      "sha256": "3ed78891a9ed837cb1097195b497c84726b53d5ae6aa468a2bb743b98344b381",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Lucario-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/lucario/",
+      "sha256": "3ed78891a9ed837cb1097195b497c84726b53d5ae6aa468a2bb743b98344b381",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Lucario-Mega-Z",
+      "url": "https://www.serebii.net/pokedex-champions/lucario/",
+      "sha256": "3ed78891a9ed837cb1097195b497c84726b53d5ae6aa468a2bb743b98344b381",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Hippowdon",
+      "url": "https://www.serebii.net/pokedex-champions/hippowdon/",
+      "sha256": "2447ae7c9627d381c79de27f15e44c229fffb8211d413356ea63e3124ed2cb19",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Toxicroak",
+      "url": "https://www.serebii.net/pokedex-champions/toxicroak/",
+      "sha256": "53dcac815af36f0daa73853e8f9cc60d78066b6a5669b260853edd39aaa45eb4",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Abomasnow",
+      "url": "https://www.serebii.net/pokedex-champions/abomasnow/",
+      "sha256": "6c217cd29a735ca0a076a05294edc81c7e45df6a8ca379777f3f7ba7c2d590b3",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Abomasnow-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/abomasnow/",
+      "sha256": "6c217cd29a735ca0a076a05294edc81c7e45df6a8ca379777f3f7ba7c2d590b3",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Weavile",
+      "url": "https://www.serebii.net/pokedex-champions/weavile/",
+      "sha256": "93dff690e3b1963988937b8e742ae3d5b53e9d84a51c74d6196e283a1776ab5d",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Rhyperior",
+      "url": "https://www.serebii.net/pokedex-champions/rhyperior/",
+      "sha256": "b23cd7896f19c18c1a2e3512414271408b4b7d8883f5aa6cc665819feaba61d6",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Leafeon",
+      "url": "https://www.serebii.net/pokedex-champions/leafeon/",
+      "sha256": "2c5c3f5c85d2fb4fc503e1867af443e76011cdce7d6d78bc1144438ced8f765b",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Glaceon",
+      "url": "https://www.serebii.net/pokedex-champions/glaceon/",
+      "sha256": "6a4deb4a5f3bab420f4b250183c983ef5e009920250011ab0dcde09cd1bd017f",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Gliscor",
+      "url": "https://www.serebii.net/pokedex-champions/gliscor/",
+      "sha256": "f850c0f3e2eb556fa1be0b6eac503b62ad3aca57724733ea8c75c076f0d2f9ae",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Mamoswine",
+      "url": "https://www.serebii.net/pokedex-champions/mamoswine/",
+      "sha256": "a418a94b5f9642a3f39ac41603e96ee2be9133c50938027d929d9c6dd0d1c775",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Gallade",
+      "url": "https://www.serebii.net/pokedex-champions/gallade/",
+      "sha256": "ee92537b94cbad2a7233cf32c8dada00af90c1457e5709440e5c074fc8b1fafe",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Gallade-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/gallade/",
+      "sha256": "ee92537b94cbad2a7233cf32c8dada00af90c1457e5709440e5c074fc8b1fafe",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Froslass",
+      "url": "https://www.serebii.net/pokedex-champions/froslass/",
+      "sha256": "b144c5bb2c9dce05da70a99d21848b90fd6fd071330a5c99b88a17282208a639",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Froslass-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/froslass/",
+      "sha256": "b144c5bb2c9dce05da70a99d21848b90fd6fd071330a5c99b88a17282208a639",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Rotom",
+      "url": "https://www.serebii.net/pokedex-champions/rotom/",
+      "sha256": "d0271dffa7203677e7a901d40335f2c1dfb658ce73a5b8caad1b8b3f41862b75",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Rotom-Heat",
+      "url": "https://www.serebii.net/pokedex-champions/rotom/",
+      "sha256": "d0271dffa7203677e7a901d40335f2c1dfb658ce73a5b8caad1b8b3f41862b75",
+      "table": "Standard + Special Moves - Heat",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Rotom-Wash",
+      "url": "https://www.serebii.net/pokedex-champions/rotom/",
+      "sha256": "d0271dffa7203677e7a901d40335f2c1dfb658ce73a5b8caad1b8b3f41862b75",
+      "table": "Standard + Special Moves - Wash",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Rotom-Frost",
+      "url": "https://www.serebii.net/pokedex-champions/rotom/",
+      "sha256": "d0271dffa7203677e7a901d40335f2c1dfb658ce73a5b8caad1b8b3f41862b75",
+      "table": "Standard + Special Moves - Frost",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Rotom-Fan",
+      "url": "https://www.serebii.net/pokedex-champions/rotom/",
+      "sha256": "d0271dffa7203677e7a901d40335f2c1dfb658ce73a5b8caad1b8b3f41862b75",
+      "table": "Standard + Special Moves - Fan",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Rotom-Mow",
+      "url": "https://www.serebii.net/pokedex-champions/rotom/",
+      "sha256": "d0271dffa7203677e7a901d40335f2c1dfb658ce73a5b8caad1b8b3f41862b75",
+      "table": "Standard + Special Moves - Mow",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Serperior",
+      "url": "https://www.serebii.net/pokedex-champions/serperior/",
+      "sha256": "8745a8b6880e37077b993237996103c70c8a186f8f8fa1601fab15ded6220582",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Emboar",
+      "url": "https://www.serebii.net/pokedex-champions/emboar/",
+      "sha256": "9e47bb5f356f97a77a048f910b9d6302ae1cd0e264f253ddd2a43c4ffc16f24d",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Emboar-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/emboar/",
+      "sha256": "9e47bb5f356f97a77a048f910b9d6302ae1cd0e264f253ddd2a43c4ffc16f24d",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Samurott",
+      "url": "https://www.serebii.net/pokedex-champions/samurott/",
+      "sha256": "e9ed18f716a146b5756c65d0c9c9e75df1f0971316492155a1b7779b030eb17e",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Samurott-Hisui",
+      "url": "https://www.serebii.net/pokedex-champions/samurott/",
+      "sha256": "e9ed18f716a146b5756c65d0c9c9e75df1f0971316492155a1b7779b030eb17e",
+      "table": "Hisuian Form Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Watchog",
+      "url": "https://www.serebii.net/pokedex-champions/watchog/",
+      "sha256": "c13ca1528e3512ef698486b7c2274df2087af88d5a2ced6bfe1aad04a44437d2",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Liepard",
+      "url": "https://www.serebii.net/pokedex-champions/liepard/",
+      "sha256": "911cb250ce1f6b355b3083e6a2f717e42b94ad29c181a5a8fbaa6bc465f102be",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Simisage",
+      "url": "https://www.serebii.net/pokedex-champions/simisage/",
+      "sha256": "2d07c10a4e2c29dd1b1e78a858ec5535172426abfb7de2680b2ffac9743226b8",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Simisear",
+      "url": "https://www.serebii.net/pokedex-champions/simisear/",
+      "sha256": "b32dcc722dcc0713ce54b431f6502e32f813434b4ff0198087b31d80849e7543",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Simipour",
+      "url": "https://www.serebii.net/pokedex-champions/simipour/",
+      "sha256": "67c6d2248016751313563f21c02f9d74e798ba482bc8b764a559a6f7c0cf5e01",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Musharna",
+      "url": "https://www.serebii.net/pokedex-champions/musharna/",
+      "sha256": "dc66a5509576e536be46fe9a98b37c61baeab8c4af29940ebbf5ace63b8282f2",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Excadrill",
+      "url": "https://www.serebii.net/pokedex-champions/excadrill/",
+      "sha256": "d5b2401452168bd917d8e054ba236e33946c76f88c4c8dd8f7c78a13e2a90ff0",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Excadrill-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/excadrill/",
+      "sha256": "d5b2401452168bd917d8e054ba236e33946c76f88c4c8dd8f7c78a13e2a90ff0",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Audino",
+      "url": "https://www.serebii.net/pokedex-champions/audino/",
+      "sha256": "d924ec4c6b466cb0a21a02b20c7dd554ec15c53c76011c7359492401dfc070f4",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Audino-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/audino/",
+      "sha256": "d924ec4c6b466cb0a21a02b20c7dd554ec15c53c76011c7359492401dfc070f4",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Conkeldurr",
+      "url": "https://www.serebii.net/pokedex-champions/conkeldurr/",
+      "sha256": "c2e41a73e2e3ff9070995fe8e41f10f56643cd8c1a6bc400db0f774b2a4cb329",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Scolipede",
+      "url": "https://www.serebii.net/pokedex-champions/scolipede/",
+      "sha256": "71bf8930c63d729e3a58f7a612d86ef8cadd12d1cfc67a6c792d50ef4f17060d",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Scolipede-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/scolipede/",
+      "sha256": "71bf8930c63d729e3a58f7a612d86ef8cadd12d1cfc67a6c792d50ef4f17060d",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Whimsicott",
+      "url": "https://www.serebii.net/pokedex-champions/whimsicott/",
+      "sha256": "8887e72982f44ef1f4bdd1032254a2e2d5939267dcbffc10545f5c5846559c32",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Krookodile",
+      "url": "https://www.serebii.net/pokedex-champions/krookodile/",
+      "sha256": "1ae093b198999e2dfe5c015e8127ba69d5a7520fea8bce12b4889da5182a16dc",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Scrafty",
+      "url": "https://www.serebii.net/pokedex-champions/scrafty/",
+      "sha256": "9cd45e34c30e7a4995469131f92cf92e5e6cec7d3dedcca6a2897590b238805d",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Scrafty-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/scrafty/",
+      "sha256": "9cd45e34c30e7a4995469131f92cf92e5e6cec7d3dedcca6a2897590b238805d",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Cofagrigus",
+      "url": "https://www.serebii.net/pokedex-champions/cofagrigus/",
+      "sha256": "aa3c6ff2b967ae6c8adb87775cbf20b5604703c473c68a101aef9d0678b6008b",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Garbodor",
+      "url": "https://www.serebii.net/pokedex-champions/garbodor/",
+      "sha256": "8e24531b9d5bffa4dc17b3a796d98a848b7a3aba28edbddba2d4cabde4d0477e",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Zoroark",
+      "url": "https://www.serebii.net/pokedex-champions/zoroark/",
+      "sha256": "60e4b4b5990ee52884c687c080d68e981ec6c4516138b657634f8b7b08312d61",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Zoroark-Hisui",
+      "url": "https://www.serebii.net/pokedex-champions/zoroark/",
+      "sha256": "60e4b4b5990ee52884c687c080d68e981ec6c4516138b657634f8b7b08312d61",
+      "table": "Hisuian Form Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Reuniclus",
+      "url": "https://www.serebii.net/pokedex-champions/reuniclus/",
+      "sha256": "9284810a05bedc08e103bcce0beb8f67402b2c91c0165b5219c313d329d9ae23",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Vanilluxe",
+      "url": "https://www.serebii.net/pokedex-champions/vanilluxe/",
+      "sha256": "d73d82211adcba81626f91351471d51d8eabc7505f401b0f62e2fd0905cc4e56",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Emolga",
+      "url": "https://www.serebii.net/pokedex-champions/emolga/",
+      "sha256": "cb975440d4a47171b4111927b8223530f55b15fa11b06f7ed8b086c274ac2303",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Eelektross",
+      "url": "https://www.serebii.net/pokedex-champions/eelektross/",
+      "sha256": "9f87c096b5d2f8506fa8837b91df6029dbde0801c27e494f3f17337ef4cbc0f3",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Eelektross-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/eelektross/",
+      "sha256": "9f87c096b5d2f8506fa8837b91df6029dbde0801c27e494f3f17337ef4cbc0f3",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Chandelure",
+      "url": "https://www.serebii.net/pokedex-champions/chandelure/",
+      "sha256": "51d43574aa7ac24b3f20e669283a205603afc2a27b69edbe74d34cc5eda2e599",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Chandelure-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/chandelure/",
+      "sha256": "51d43574aa7ac24b3f20e669283a205603afc2a27b69edbe74d34cc5eda2e599",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Beartic",
+      "url": "https://www.serebii.net/pokedex-champions/beartic/",
+      "sha256": "b37d02afe6b80d36ff6c1fdc6d958c106dae9cbfec5aaef64d7b3b8e4581fce8",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Stunfisk",
+      "url": "https://www.serebii.net/pokedex-champions/stunfisk/",
+      "sha256": "f702674f2871de3f0d49369f200e26853081d3821e7dbd8ba8fb116b687cec7b",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Stunfisk-Galar",
+      "url": "https://www.serebii.net/pokedex-champions/stunfisk/",
+      "sha256": "f702674f2871de3f0d49369f200e26853081d3821e7dbd8ba8fb116b687cec7b",
+      "table": "Galarian Form Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Golurk",
+      "url": "https://www.serebii.net/pokedex-champions/golurk/",
+      "sha256": "0ae257c6ed57652d13aef13043f02a7f1d9822eb9ba5d73f3618ffdafb1f97cc",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Golurk-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/golurk/",
+      "sha256": "0ae257c6ed57652d13aef13043f02a7f1d9822eb9ba5d73f3618ffdafb1f97cc",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Hydreigon",
+      "url": "https://www.serebii.net/pokedex-champions/hydreigon/",
+      "sha256": "e8ea8af0e57efdb708aa0d30dea8e4f1751df32bedfba6e4915690142ba927e7",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Volcarona",
+      "url": "https://www.serebii.net/pokedex-champions/volcarona/",
+      "sha256": "75e8793c42556c9b87d6fbe3e0bcd01da6eca810dabdabaa8f9c63fd9b851e66",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Chesnaught",
+      "url": "https://www.serebii.net/pokedex-champions/chesnaught/",
+      "sha256": "7161968dc267d5e97b6a2abc5969697c15f44b461790e73af520e7420e42d405",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Chesnaught-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/chesnaught/",
+      "sha256": "7161968dc267d5e97b6a2abc5969697c15f44b461790e73af520e7420e42d405",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Delphox",
+      "url": "https://www.serebii.net/pokedex-champions/delphox/",
+      "sha256": "d69cb58ab850403258826869d5b380e0e6e1d9899365e2db5494381c57dcb70b",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Delphox-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/delphox/",
+      "sha256": "d69cb58ab850403258826869d5b380e0e6e1d9899365e2db5494381c57dcb70b",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Greninja",
+      "url": "https://www.serebii.net/pokedex-champions/greninja/",
+      "sha256": "0a366a4c2105734f5ca58400230cef226e09f1e94b8ef1087215238dd81eb9aa",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Greninja-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/greninja/",
+      "sha256": "0a366a4c2105734f5ca58400230cef226e09f1e94b8ef1087215238dd81eb9aa",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Diggersby",
+      "url": "https://www.serebii.net/pokedex-champions/diggersby/",
+      "sha256": "ac80722c14563a403df830392574b8fa632b9905327236d26be204b6fa918b90",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Talonflame",
+      "url": "https://www.serebii.net/pokedex-champions/talonflame/",
+      "sha256": "4d7e45d47e84af44a7c33c895c4ae44679857ab5aa5b36ce10f59dd4023c6519",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Vivillon",
+      "url": "https://www.serebii.net/pokedex-champions/vivillon/",
+      "sha256": "8663f193666b0537faa5b8aba4c875a98e3c12c0ddbd3c96d8c24812f41fe6b2",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Pyroar",
+      "url": "https://www.serebii.net/pokedex-champions/pyroar/",
+      "sha256": "bf882ca1112fdbb928add952ccdd0328aa6fae2dd389136e8f1889a32c327af6",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Pyroar-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/pyroar/",
+      "sha256": "bf882ca1112fdbb928add952ccdd0328aa6fae2dd389136e8f1889a32c327af6",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Floette-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/floette/",
+      "sha256": "c49d406b571b9b493fcd7361c9a23b2ec812f8012b154d1181edaffedd05b45e",
+      "table": " Standard Moves - Eternal Floette",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Floette-Eternal",
+      "url": "https://www.serebii.net/pokedex-champions/floette/",
+      "sha256": "c49d406b571b9b493fcd7361c9a23b2ec812f8012b154d1181edaffedd05b45e",
+      "table": " Standard Moves - Eternal Floette",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Florges",
+      "url": "https://www.serebii.net/pokedex-champions/florges/",
+      "sha256": "38aa7c329e5ca2675ffe1b5f9d0dbb476af96639c98dd8d625c5ef18feee4b20",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Gogoat",
+      "url": "https://www.serebii.net/pokedex-champions/gogoat/",
+      "sha256": "bbf7e07f2b092278dc53cb261c3d57437838d4976ec2a01d15ed77b55639241b",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Pangoro",
+      "url": "https://www.serebii.net/pokedex-champions/pangoro/",
+      "sha256": "68f9e2764d756913b2cf18b25f127aac64930157c3701dd0ca710f222ca146a9",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Furfrou",
+      "url": "https://www.serebii.net/pokedex-champions/furfrou/",
+      "sha256": "73d06154a0e58f7ab0ced0f8ad120062026eae55830f747d6ebc6d98df8bb502",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Meowstic",
+      "url": "https://www.serebii.net/pokedex-champions/meowstic/",
+      "sha256": "ab6e117941efb8a1957c1a2cca5ba917e4a69935bd5479524e0d5f1162120fa3",
+      "table": "Standard Moves - Male",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Meowstic-F",
+      "url": "https://www.serebii.net/pokedex-champions/meowstic/",
+      "sha256": "ab6e117941efb8a1957c1a2cca5ba917e4a69935bd5479524e0d5f1162120fa3",
+      "table": "Standard Moves - Female",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Meowstic-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/meowstic/",
+      "sha256": "ab6e117941efb8a1957c1a2cca5ba917e4a69935bd5479524e0d5f1162120fa3",
+      "table": "Standard Moves - Male",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Aegislash",
+      "url": "https://www.serebii.net/pokedex-champions/aegislash/",
+      "sha256": "b330175232c170bd6347e1ad561e0cfec66794b8fa15144c87105e6604caa9d4",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Aegislash-Blade",
+      "url": "https://www.serebii.net/pokedex-champions/aegislash/",
+      "sha256": "b330175232c170bd6347e1ad561e0cfec66794b8fa15144c87105e6604caa9d4",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Aromatisse",
+      "url": "https://www.serebii.net/pokedex-champions/aromatisse/",
+      "sha256": "a703691ec85532727ed2526ebb7b21a1a315fdab2c67ee73c53fbebac79a52e9",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Slurpuff",
+      "url": "https://www.serebii.net/pokedex-champions/slurpuff/",
+      "sha256": "32871932e080d4d54e54c942561c80b96b70936407292ff934c5e0c3b0f56d73",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Malamar",
+      "url": "https://www.serebii.net/pokedex-champions/malamar/",
+      "sha256": "35997394e196b0ee4976bcec893e7bf299bca9ac999d52d442f994e795881036",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Malamar-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/malamar/",
+      "sha256": "35997394e196b0ee4976bcec893e7bf299bca9ac999d52d442f994e795881036",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Barbaracle",
+      "url": "https://www.serebii.net/pokedex-champions/barbaracle/",
+      "sha256": "cb3856473210590cc880848e71e1a241372435308276a9614c5343a1d97264ea",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Barbaracle-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/barbaracle/",
+      "sha256": "cb3856473210590cc880848e71e1a241372435308276a9614c5343a1d97264ea",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Dragalge",
+      "url": "https://www.serebii.net/pokedex-champions/dragalge/",
+      "sha256": "7e7d4e9eb8ce6057850671f7651eb810cdabce3a4a961b1da078e2afe79a69f1",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Dragalge-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/dragalge/",
+      "sha256": "7e7d4e9eb8ce6057850671f7651eb810cdabce3a4a961b1da078e2afe79a69f1",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Clawitzer",
+      "url": "https://www.serebii.net/pokedex-champions/clawitzer/",
+      "sha256": "9bcb031c72a586f896bf28548f27cfde7cf5b1433228ffe7647ddaee7c2b99fb",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Heliolisk",
+      "url": "https://www.serebii.net/pokedex-champions/heliolisk/",
+      "sha256": "71dc97f4cf1f39e976efb1d716209c0a799c9d786ed9725e08840cff092d733e",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Tyrantrum",
+      "url": "https://www.serebii.net/pokedex-champions/tyrantrum/",
+      "sha256": "010d014497dfaacc76ff8ab08777d08d6b31d6de611c6d34b7da18a6f714a8c7",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Aurorus",
+      "url": "https://www.serebii.net/pokedex-champions/aurorus/",
+      "sha256": "44facac3e85ff6655f12d312b3784127ab83274c62b793d9c8c9fac8d52ba5f4",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Sylveon",
+      "url": "https://www.serebii.net/pokedex-champions/sylveon/",
+      "sha256": "a80864b147524cf9193f04c36f54f5427540ad4d6ea685a2340707124997ee47",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Hawlucha",
+      "url": "https://www.serebii.net/pokedex-champions/hawlucha/",
+      "sha256": "7e3046ecd32db00a62bb4af520ab7a8b39e04c0883a2c691a414a81b2f2dea65",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Hawlucha-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/hawlucha/",
+      "sha256": "7e3046ecd32db00a62bb4af520ab7a8b39e04c0883a2c691a414a81b2f2dea65",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Dedenne",
+      "url": "https://www.serebii.net/pokedex-champions/dedenne/",
+      "sha256": "d2a08a5e3e9f04c51fc313f90202b2da07b02d1a4a6048527e18f887c6c4e328",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Goodra",
+      "url": "https://www.serebii.net/pokedex-champions/goodra/",
+      "sha256": "2e07f871bf78d3c6337da284a93b87309709ed5604bf55d5be539930db5f4f0c",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Goodra-Hisui",
+      "url": "https://www.serebii.net/pokedex-champions/goodra/",
+      "sha256": "2e07f871bf78d3c6337da284a93b87309709ed5604bf55d5be539930db5f4f0c",
+      "table": "Hisuian Form Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Klefki",
+      "url": "https://www.serebii.net/pokedex-champions/klefki/",
+      "sha256": "8f2361e9ea03811e158f77dbed7de54b9ca84e5c6c1f85e7142713a6764ef6c6",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Trevenant",
+      "url": "https://www.serebii.net/pokedex-champions/trevenant/",
+      "sha256": "8528ff3acee68a4ac8498b2ecdf5f4a6c644d14c9d7d1ef94322af4a38a5da20",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Gourgeist",
+      "url": "https://www.serebii.net/pokedex-champions/gourgeist/",
+      "sha256": "025307ab986a1c219c80d56aa74303f5a9da291b8ff12e45f6db6c9113bbd8ca",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Gourgeist-Small",
+      "url": "https://www.serebii.net/pokedex-champions/gourgeist/",
+      "sha256": "025307ab986a1c219c80d56aa74303f5a9da291b8ff12e45f6db6c9113bbd8ca",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Gourgeist-Large",
+      "url": "https://www.serebii.net/pokedex-champions/gourgeist/",
+      "sha256": "025307ab986a1c219c80d56aa74303f5a9da291b8ff12e45f6db6c9113bbd8ca",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Gourgeist-Super",
+      "url": "https://www.serebii.net/pokedex-champions/gourgeist/",
+      "sha256": "025307ab986a1c219c80d56aa74303f5a9da291b8ff12e45f6db6c9113bbd8ca",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Avalugg",
+      "url": "https://www.serebii.net/pokedex-champions/avalugg/",
+      "sha256": "59d48654e9404061938c457576802c1fb86c9e41bacec20708b9dfde285ec458",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Avalugg-Hisui",
+      "url": "https://www.serebii.net/pokedex-champions/avalugg/",
+      "sha256": "59d48654e9404061938c457576802c1fb86c9e41bacec20708b9dfde285ec458",
+      "table": "Hisuian Form Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Noivern",
+      "url": "https://www.serebii.net/pokedex-champions/noivern/",
+      "sha256": "fd21f5ea682441bb191f530db093b52dc587ca08fa2b8028f25dfa6f5869bd70",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Decidueye",
+      "url": "https://www.serebii.net/pokedex-champions/decidueye/",
+      "sha256": "0c230e742738028b094780fb20b823e51d0f05f8a63ff52c3d56e55a2019a1a9",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Decidueye-Hisui",
+      "url": "https://www.serebii.net/pokedex-champions/decidueye/",
+      "sha256": "0c230e742738028b094780fb20b823e51d0f05f8a63ff52c3d56e55a2019a1a9",
+      "table": "Hisuian Form Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Incineroar",
+      "url": "https://www.serebii.net/pokedex-champions/incineroar/",
+      "sha256": "1827d43fed5ce4eb414857b2cc6db5f5627e2746ad3075a3dd249fe2b494e26a",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Primarina",
+      "url": "https://www.serebii.net/pokedex-champions/primarina/",
+      "sha256": "0c040ef379b474b5c7e0c2e865e4dcad3e4cb2cbf49f82d6aa8e7fce50c8fd9e",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Toucannon",
+      "url": "https://www.serebii.net/pokedex-champions/toucannon/",
+      "sha256": "2ea44ec615e2802e3caac8a4402dd964621a74673ee4e17860725f405fbbb216",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Crabominable",
+      "url": "https://www.serebii.net/pokedex-champions/crabominable/",
+      "sha256": "7c8fee91d95640e7cbcd5bbfc8fec1063f88128967721d9078fc02f782395e63",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Crabominable-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/crabominable/",
+      "sha256": "7c8fee91d95640e7cbcd5bbfc8fec1063f88128967721d9078fc02f782395e63",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Lycanroc",
+      "url": "https://www.serebii.net/pokedex-champions/lycanroc/",
+      "sha256": "e748dd8acdeec9fccda7312ed274f1a61a78907a3ac6a2ca43b9d2d70d9b98ee",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Lycanroc-Midnight",
+      "url": "https://www.serebii.net/pokedex-champions/lycanroc/",
+      "sha256": "e748dd8acdeec9fccda7312ed274f1a61a78907a3ac6a2ca43b9d2d70d9b98ee",
+      "table": "Standard Moves - Midnight Form",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Lycanroc-Dusk",
+      "url": "https://www.serebii.net/pokedex-champions/lycanroc/",
+      "sha256": "e748dd8acdeec9fccda7312ed274f1a61a78907a3ac6a2ca43b9d2d70d9b98ee",
+      "table": "Standard Moves - Dusk Form",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Toxapex",
+      "url": "https://www.serebii.net/pokedex-champions/toxapex/",
+      "sha256": "d3ae059d7946975806c4ac047e0036161903e2dc490d08cb743d83efdf5bb22b",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Mudsdale",
+      "url": "https://www.serebii.net/pokedex-champions/mudsdale/",
+      "sha256": "14946d505228ddac6befc207294a53df554342b207a8a2e571eaa64c0e97447b",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Araquanid",
+      "url": "https://www.serebii.net/pokedex-champions/araquanid/",
+      "sha256": "d0ab8984e14d6aba4ca2aa1e5ffd3d14c6a81302610f1363045fa213c735dc43",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Salazzle",
+      "url": "https://www.serebii.net/pokedex-champions/salazzle/",
+      "sha256": "bca0bfd1302e5b0e32f9eb43fd391721b183cc505fc0e371b7d02ecdda9a17bb",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Tsareena",
+      "url": "https://www.serebii.net/pokedex-champions/tsareena/",
+      "sha256": "89c58cb89c5c149c56f34bb78962d4f7ea01dffa51900b83978f3631e95f570a",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Oranguru",
+      "url": "https://www.serebii.net/pokedex-champions/oranguru/",
+      "sha256": "6896218a4e13e90d61f0a26a4e3d71ff1f02bd4f540ca351f9e31b8ffd9ed8dd",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Passimian",
+      "url": "https://www.serebii.net/pokedex-champions/passimian/",
+      "sha256": "db0a13ebbe7b793cae6e3c2e5043743744717fade00bcaa9dadc0500fef1aebd",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Golisopod",
+      "url": "https://www.serebii.net/pokedex-champions/golisopod/",
+      "sha256": "f67ece0ba28cb86cb3e3c9921b6d307cabbfde34aa7388c482bfdf077cff1f9e",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Golisopod-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/golisopod/",
+      "sha256": "f67ece0ba28cb86cb3e3c9921b6d307cabbfde34aa7388c482bfdf077cff1f9e",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Mimikyu",
+      "url": "https://www.serebii.net/pokedex-champions/mimikyu/",
+      "sha256": "21f4c8fd441bf9916bea4c70568eac193f6f1e72bc147b6e68737dca201c0f74",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Drampa",
+      "url": "https://www.serebii.net/pokedex-champions/drampa/",
+      "sha256": "8eb06a3336f342c6f3b377d5db07822893a920cf3bd6d9fc7e4592cecf1fdd55",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Drampa-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/drampa/",
+      "sha256": "8eb06a3336f342c6f3b377d5db07822893a920cf3bd6d9fc7e4592cecf1fdd55",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Kommo-o",
+      "url": "https://www.serebii.net/pokedex-champions/kommo-o/",
+      "sha256": "daec7040391bb968360c3122b8c93fc42d22dec328343474bffff6fa729bdb08",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Rillaboom",
+      "url": "https://www.serebii.net/pokedex-champions/rillaboom/",
+      "sha256": "0d0209c1a8e0eab1cd6337bc1db5bd23939dfbb5c96763c7fc9f51e9c89bd540",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Cinderace",
+      "url": "https://www.serebii.net/pokedex-champions/cinderace/",
+      "sha256": "bd5ae2f9dcc8fe43e6b358094f6922beed2f0ddf601794b63b2309175713aa0e",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Inteleon",
+      "url": "https://www.serebii.net/pokedex-champions/inteleon/",
+      "sha256": "ae6d10a15466153b88f7a91089946e8bd0eda1ceeb5e96e8894e710c4e442460",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Corviknight",
+      "url": "https://www.serebii.net/pokedex-champions/corviknight/",
+      "sha256": "cd5328127789c29b8522c7b02f0b3291d1f9227794fd233517cafd828c1d3c63",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Thievul",
+      "url": "https://www.serebii.net/pokedex-champions/thievul/",
+      "sha256": "fdaa26a2e35b58c369aa8acb2ce07ab640be141eb1277e0663b07c5f5ea0451c",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Flapple",
+      "url": "https://www.serebii.net/pokedex-champions/flapple/",
+      "sha256": "3716419031c6e8269871212592519f56286f9113cbb8d6b575c9e28da24dea24",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Appletun",
+      "url": "https://www.serebii.net/pokedex-champions/appletun/",
+      "sha256": "faf1ceb326e120ed35537a283c09c497978479ebc507889f95c8c1439a76dfaa",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Sandaconda",
+      "url": "https://www.serebii.net/pokedex-champions/sandaconda/",
+      "sha256": "675a7498d5d150f2b53974ac2feb807c1b326eb8da9f97640d572e83faacc3a2",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Toxtricity",
+      "url": "https://www.serebii.net/pokedex-champions/toxtricity/",
+      "sha256": "6414f70eff1e4859cf2205cc9015457c95ff7393ede432823195b6f3f1db9bfc",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Toxtricity-Low-Key",
+      "url": "https://www.serebii.net/pokedex-champions/toxtricity/",
+      "sha256": "6414f70eff1e4859cf2205cc9015457c95ff7393ede432823195b6f3f1db9bfc",
+      "table": "Standard Moves - Low Key Form",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Grapploct",
+      "url": "https://www.serebii.net/pokedex-champions/grapploct/",
+      "sha256": "edb215e47522d59c882143724e00ed5741bb05e9bb21a561889763bcdc97fa72",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Polteageist",
+      "url": "https://www.serebii.net/pokedex-champions/polteageist/",
+      "sha256": "4df9fb1d1cb86fda51ee8d44926021ca8558f0427bc27f4521504b406f4caaa8",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Hatterene",
+      "url": "https://www.serebii.net/pokedex-champions/hatterene/",
+      "sha256": "e9beda1719dc8117f842a65a0e916888500e6d09c6fa1673b3b4aedf72bf9f2e",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Grimmsnarl",
+      "url": "https://www.serebii.net/pokedex-champions/grimmsnarl/",
+      "sha256": "e689188373fcbd0216ba9ba847db5d3964d69008dbc7213a7c017cef45a225cb",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Perrserker",
+      "url": "https://www.serebii.net/pokedex-champions/perrserker/",
+      "sha256": "d94d6038708c4d4a11cb191327b40b8b4dc76e305214a447a6c8d3920515808a",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Sirfetch'd",
+      "url": "https://www.serebii.net/pokedex-champions/sirfetch'd/",
+      "sha256": "c7877006d32e8c7034eb2158045cfbf9a7839b38841cf0c35c184fe101039e21",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Mr.Rime",
+      "url": "https://www.serebii.net/pokedex-champions/mr.rime/",
+      "sha256": "ddffe48fb813853ed75d195bdcc44179648f63d90f214539987afe2c6997a1cd",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Runerigus",
+      "url": "https://www.serebii.net/pokedex-champions/runerigus/",
+      "sha256": "3edde45b2060a6c35ab57f70bf5d1bdf2fac2a6dc5a509e723d991998a234b80",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Alcremie",
+      "url": "https://www.serebii.net/pokedex-champions/alcremie/",
+      "sha256": "6969d8c4d53278f2c750c68c9774911ec1d1fd84e6682a1454cf6b1c79b95d32",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Falinks",
+      "url": "https://www.serebii.net/pokedex-champions/falinks/",
+      "sha256": "ca9a1dddb6a85855a033ef99693603fc9ddd41856d9c51a2d5523a1d9bb5d9c1",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Falinks-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/falinks/",
+      "sha256": "ca9a1dddb6a85855a033ef99693603fc9ddd41856d9c51a2d5523a1d9bb5d9c1",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Pincurchin",
+      "url": "https://www.serebii.net/pokedex-champions/pincurchin/",
+      "sha256": "ae51b6c7dbadeea5ee8831fa4e4bcf2948ac2716cc4d693492bbf5ea795eb91c",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Indeedee",
+      "url": "https://www.serebii.net/pokedex-champions/indeedee/",
+      "sha256": "9637d1722809868773a015270a98e3f6609c0b467c636e8130c2e45f4b56efb4",
+      "table": "Standard Moves - Male",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Indeedee-F",
+      "url": "https://www.serebii.net/pokedex-champions/indeedee/",
+      "sha256": "9637d1722809868773a015270a98e3f6609c0b467c636e8130c2e45f4b56efb4",
+      "table": "Standard Moves - Female",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Morpeko",
+      "url": "https://www.serebii.net/pokedex-champions/morpeko/",
+      "sha256": "a57ddb5e5f19eff3969821c287e54ccc3ea4e2f78e6271667dfa4767136ad06f",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Morpeko-Hangry",
+      "url": "https://www.serebii.net/pokedex-champions/morpeko/",
+      "sha256": "a57ddb5e5f19eff3969821c287e54ccc3ea4e2f78e6271667dfa4767136ad06f",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Dragapult",
+      "url": "https://www.serebii.net/pokedex-champions/dragapult/",
+      "sha256": "cb944a7b02cebc1e807f2bb4587262a36c4308d403e20067f2bd58ef910487cc",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Wyrdeer",
+      "url": "https://www.serebii.net/pokedex-champions/wyrdeer/",
+      "sha256": "c92a5e28ef5d02d8de5e9adcb668517ac01ee4ba4680d6b2af570772e382900a",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Kleavor",
+      "url": "https://www.serebii.net/pokedex-champions/kleavor/",
+      "sha256": "286065fe8815ae914a867d40b52d21242004d716551b6ffbe29846b552b78601",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Basculegion",
+      "url": "https://www.serebii.net/pokedex-champions/basculegion/",
+      "sha256": "9a6f23ba8e77bf1b21fc5e4d819f8736b957344d1e300cd23cd2c686903ec9fe",
+      "table": "Standard Moves - Male",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Basculegion-F",
+      "url": "https://www.serebii.net/pokedex-champions/basculegion/",
+      "sha256": "9a6f23ba8e77bf1b21fc5e4d819f8736b957344d1e300cd23cd2c686903ec9fe",
+      "table": "Standard Moves - Male",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Sneasler",
+      "url": "https://www.serebii.net/pokedex-champions/sneasler/",
+      "sha256": "ecdcda0ae3c21a34fcdc1e0e072aa4819218461d02a63f0e2d72b8d567005ef7",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Overqwil",
+      "url": "https://www.serebii.net/pokedex-champions/overqwil/",
+      "sha256": "137392bde11b70ca98766ce19855fc348e6b9da2ec641d5d157632cab3cf181e",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Meowscarada",
+      "url": "https://www.serebii.net/pokedex-champions/meowscarada/",
+      "sha256": "ce502ed6fa0d0063eb389fb67fc8f7d456672ab8f4dbb8f55d990d6902f8c36b",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Skeledirge",
+      "url": "https://www.serebii.net/pokedex-champions/skeledirge/",
+      "sha256": "ed5ac5d46294d0aed8df7bdcb79db429e56dfc06309e090e54b3d705226b953e",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Quaquaval",
+      "url": "https://www.serebii.net/pokedex-champions/quaquaval/",
+      "sha256": "e12f3a3e8f54b7e0eecd5f1d7672749dbb53158359fee18fb5a9a0f0be4ec4ba",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Pawmot",
+      "url": "https://www.serebii.net/pokedex-champions/pawmot/",
+      "sha256": "db8c057dc4aabee5b83a8014fd29fd3d8145800d5bb1377bfc19003e31d073a2",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Maushold",
+      "url": "https://www.serebii.net/pokedex-champions/maushold/",
+      "sha256": "b4c42d323e46f44836437b4df044eb79f693b798c6d2beeac6c404cf95ccaff8",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Arboliva",
+      "url": "https://www.serebii.net/pokedex-champions/arboliva/",
+      "sha256": "c5f38b1f163d9492e09ebf7c6b26d333a2b4db29b55c2455ae6931ee8ee6a186",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Squawkabilly",
+      "url": "https://www.serebii.net/pokedex-champions/squawkabilly/",
+      "sha256": "e7abac3bcfc0a4bfbf641a9126a4a862b1bc0afcff09fb3492e4e900ca57f781",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Garganacl",
+      "url": "https://www.serebii.net/pokedex-champions/garganacl/",
+      "sha256": "005df13d4f1b4e7a80d5d204927da286575d9a46092f44224c823672ec30f4ee",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Armarouge",
+      "url": "https://www.serebii.net/pokedex-champions/armarouge/",
+      "sha256": "10a7ab3a61c9b70ef0ad8247c1cbeff3e292472c62ca8be642f4ec960d1b978e",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Ceruledge",
+      "url": "https://www.serebii.net/pokedex-champions/ceruledge/",
+      "sha256": "40988ee3e40abab1d6559f5b60a7a2dc0c06ac1aefd0aa8306f97878efc36da8",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Bellibolt",
+      "url": "https://www.serebii.net/pokedex-champions/bellibolt/",
+      "sha256": "4b4ee8607d6072b8586f3f59615fce9af7f34be19fbb62e8698876de01f2a68e",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Mabosstiff",
+      "url": "https://www.serebii.net/pokedex-champions/mabosstiff/",
+      "sha256": "4e4038bd41a9fb2e744fc90c60d39e8ea6c428a15c6d40515a0ad4e931ab4964",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Scovillain",
+      "url": "https://www.serebii.net/pokedex-champions/scovillain/",
+      "sha256": "340bd2632e5052c2e4182ad5b82f16b7ccc63baa7ce99af9b84e128c458aca45",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Scovillain-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/scovillain/",
+      "sha256": "340bd2632e5052c2e4182ad5b82f16b7ccc63baa7ce99af9b84e128c458aca45",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Espathra",
+      "url": "https://www.serebii.net/pokedex-champions/espathra/",
+      "sha256": "0af5b7a84431e702148809549271f7159c8a0af69c0ece95d8e42b5435260ddc",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Tinkaton",
+      "url": "https://www.serebii.net/pokedex-champions/tinkaton/",
+      "sha256": "3467a514ff08a786c72a9e0a420cbec86db1560f70857cad44802285944c3c54",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Palafin",
+      "url": "https://www.serebii.net/pokedex-champions/palafin/",
+      "sha256": "88a5086c3f01c0278886088788a01fe3ed9c6adc153acd21f8e9c6bc0dea613b",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Palafin-Hero",
+      "url": "https://www.serebii.net/pokedex-champions/palafin/",
+      "sha256": "88a5086c3f01c0278886088788a01fe3ed9c6adc153acd21f8e9c6bc0dea613b",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Orthworm",
+      "url": "https://www.serebii.net/pokedex-champions/orthworm/",
+      "sha256": "e1d6557363eb43295204c9d5d17a8cebe9a156a6a0846e17cc03e6f0d9bc3bfb",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Glimmora",
+      "url": "https://www.serebii.net/pokedex-champions/glimmora/",
+      "sha256": "3c6fbb37b29dbde66a09c7b83050c1faf18c4615caf9613972fff8d627d5ba03",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Glimmora-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/glimmora/",
+      "sha256": "3c6fbb37b29dbde66a09c7b83050c1faf18c4615caf9613972fff8d627d5ba03",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Houndstone",
+      "url": "https://www.serebii.net/pokedex-champions/houndstone/",
+      "sha256": "bc08926e929f30434d5010e1772bf81c8df79853a9af931cc0d0336df157f813",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Annihilape",
+      "url": "https://www.serebii.net/pokedex-champions/annihilape/",
+      "sha256": "f29f99c1f40bf64a770b6fb83519cf1c9b80f2dbe002d01be63c7d49be2e775a",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Farigiraf",
+      "url": "https://www.serebii.net/pokedex-champions/farigiraf/",
+      "sha256": "b75e83440869c27e2d774c66a3850d1b1a4daa1c9943157b130c05a103fb0abe",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Kingambit",
+      "url": "https://www.serebii.net/pokedex-champions/kingambit/",
+      "sha256": "9d36fb92ae7fc1c5f8a0b2081c674d56ce52e8a50782d19e0ec2db2665951f1b",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Baxcalibur",
+      "url": "https://www.serebii.net/pokedex-champions/baxcalibur/",
+      "sha256": "74bdf24083ff13eb7e2cb40053242124afd97ec711aba314c752025757c64961",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Baxcalibur-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/baxcalibur/",
+      "sha256": "74bdf24083ff13eb7e2cb40053242124afd97ec711aba314c752025757c64961",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Gholdengo",
+      "url": "https://www.serebii.net/pokedex-champions/gholdengo/",
+      "sha256": "7a1c5b6fc763142ab048b1b3319da0db79eaa6a124f95a7e7d017cd6d01e4de5",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Sinistcha",
+      "url": "https://www.serebii.net/pokedex-champions/sinistcha/",
+      "sha256": "57481bd2c0682e331b51f8bdbc6c8cc202e38d2577b84e9a174a63210ae45352",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Archaludon",
+      "url": "https://www.serebii.net/pokedex-champions/archaludon/",
+      "sha256": "673b73211faff04f20ecee70f5a78a98bfa58a9383b54e529373c48e3ee847ce",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Hydrapple",
+      "url": "https://www.serebii.net/pokedex-champions/hydrapple/",
+      "sha256": "1f96888c13af853b3a6478a776d385c46f4468a8f290a2d4bb78e26e3c7cf96b",
+      "table": "Standard Moves",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    },
+    {
+      "key": "Meowstic-F-Mega",
+      "url": "https://www.serebii.net/pokedex-champions/meowstic/",
+      "sha256": "ab6e117941efb8a1957c1a2cca5ba917e4a69935bd5479524e0d5f1162120fa3",
+      "table": "Standard Moves - Female",
+      "missingFromSerebii": [],
+      "extraOnSerebii": []
+    }
+  ]
+}
