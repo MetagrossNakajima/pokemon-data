@@ -1,4 +1,4 @@
-name: Upload sv data to Cloudflare R2
+name: Upload Pokémon data to Cloudflare R2
 
 on:
   push:
@@ -6,6 +6,8 @@ on:
       - main
     paths:
       - "data/v1/**"
+      - "scripts/champions/**"
+      - ".github/workflows/deploy-sv-icons-data.yml"
   workflow_dispatch:
 
 jobs:
@@ -14,6 +16,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+
+      - name: Validate Champions masters
+        run: python3 scripts/champions/validate-release.py
 
       # Cloudflare R2に v1 フォルダ内のファイルを一括でアップロード
       - name: Upload data/v1
@@ -24,4 +29,6 @@ jobs:
         run: |
           aws s3 sync ./data/v1 s3://${{ vars.CLOUDFLARE_BUCKET }}/data/v1 \
             --endpoint-url=https://${{ vars.CLOUDFLARE_ACCOUNT_ID }}.r2.cloudflarestorage.com \
-            --exact-timestamps
+            --exact-timestamps \
+            --content-type application/json \
+            --cache-control no-cache

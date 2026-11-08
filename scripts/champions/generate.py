@@ -1,8 +1,7 @@
-"""Build a validated, immutable Champions dex from pinned, locally checked out sources.
-Usage: python3 scripts/champions/generate.py SHOWDOWN CHAMPOUT VERSION UPDATED_AT
+"""Build validated Champions masters from pinned, locally checked out sources.
+Usage: python3 scripts/champions/generate.py SHOWDOWN CHAMPOUT RETRIEVED_AT
 """
 from functools import lru_cache
-import hashlib
 import json
 import re
 import subprocess
@@ -11,8 +10,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
 SHOWDOWN, CHAMPOUT = map(Path, sys.argv[1:3])
-VERSION, UPDATED = sys.argv[3:5]
-assert re.fullmatch(r'[a-zA-Z0-9._-]+', VERSION)
+UPDATED = sys.argv[3]
 
 @lru_cache(maxsize=None)
 def read(path):
@@ -145,13 +143,9 @@ write(language_file, languages)
 ability_languages = read(ROOT/'data/v1/language-maps/abilities.json')
 ability_languages['WaveShield']['en'] = 'Aura Guard'
 write(ROOT/'data/v1/language-maps/abilities.json', ability_languages)
-write(ROOT/'data/v1/learnsets.json',learnsets)
+write(ROOT/'data/v1/learnset.json',learnsets)
 chart = {defense: {attack: {0:1,1:2,2:0.5,3:0}[source['typeChart'][defense.lower()]['damageTaken'][attack]] for attack in masters['types']} for defense in masters['types']}
-bundle = {'formatVersion':1,'dataVersion':VERSION,'updatedAt':UPDATED,**masters,'learnsets':learnsets,'typeChart':chart}
-output = ROOT/f'data/pokedex/{VERSION}.json'
-write(output,bundle)
-sha = hashlib.sha256(output.read_bytes()).hexdigest()
-write(ROOT/'data/pokedex/manifest.json', {'formatVersion':1,'dataVersion':VERSION,'updatedAt':UPDATED,'url':f'https://poke-data-r2.terurun.jp/data/pokedex/{VERSION}.json','sha256':sha})
+write(ROOT/'data/v1/type-chart.json', chart)
 write(ROOT/'docs/champions/changes.json',changes)
 write(ROOT/'docs/champions/sources.json', {'retrievedAt':UPDATED,'regulation':'M-C','showdown':{'url':'https://github.com/smogon/pokemon-showdown','commit':commit(SHOWDOWN)},'champout':{'url':'https://github.com/projectpokemon/champout','commit':commit(CHAMPOUT)},'baseline':baseline,'aliases':aliases,'abilityAliases':{'auraguard':'WaveShield'}})
-print(f'{len(masters["pokemons"])} Pokémon, {sum(p["champions"] for p in masters["pokemons"].values())} available; {len(changes)} field changes; sha256 {sha}')
+print(f'{len(masters["pokemons"])} Pokémon, {sum(p["champions"] for p in masters["pokemons"].values())} available; {len(changes)} field changes')

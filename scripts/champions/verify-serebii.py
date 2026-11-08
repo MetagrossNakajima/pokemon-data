@@ -17,7 +17,7 @@ root = Path(__file__).resolve().parents[2]
 cache = Path(sys.argv[1]); cache.mkdir(parents=True, exist_ok=True)
 master = json.loads((root/'data/v1/pokemons.json').read_text())
 moves = json.loads((root/'data/v1/moves.json').read_text())
-learnsets = json.loads((root/'data/v1/learnsets.json').read_text())
+learnsets = json.loads((root/'data/v1/learnset.json').read_text())
 def norm(s): return re.sub('[^a-z0-9]', '', s.lower())
 
 def fetch(slug):

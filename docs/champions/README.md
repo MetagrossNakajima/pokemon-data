@@ -1,20 +1,20 @@
 # Champions M-C dex release
 
-The manifest points to an immutable JSON snapshot. Publish the body and verify its bytes before publishing the manifest. `deploy-pokedex.yml` enforces this ordering and refuses to overwrite a version with different contents. Existing R2 credentials/bucket variables are reused. This branch prepares publication; merging the data PR triggers it.
+Masters are published through the existing `data/v1` workflow. The mobile app bundles these same files and fetches them only on an explicit update. `learnset.json` and `type-chart.json` extend the shared Pokémon, move, ability and type masters; there is no separate dex snapshot, manifest or data-version comparison. Validation runs before publication.
 
 ## Reproduction
 
 Use the exact commits in `sources.json` for both upstream checkouts. Build Showdown (`npm ci && node build`), then from this repository:
 
 ```sh
-python3 scripts/champions/generate.py /path/to/pokemon-showdown /path/to/champout mc-20261108 2026-11-08
+python3 scripts/champions/generate.py /path/to/pokemon-showdown /path/to/champout 2026-11-08
 python3 scripts/generate_union_types.py
 python3 scripts/champions/validate-release.py
 python3 scripts/champions/verify-game-data.py /path/to/pokemon-showdown /path/to/champout
 python3 scripts/champions/verify-serebii.py /tmp/pokedex-serebii
 ```
 
-`generate.py` compares against the pinned original master (77a3f3d), so regenerating does not lose the before/after audit. `sources.json` records upstream URLs, commits, date, regulation and explicit aliases. Use a new version for every published change. The same arguments and source commits reproduce the same JSON and SHA-256. Serebii's live HTML may change; the audit records each URL and page hash and caches HTML locally.
+`generate.py` compares against the pinned original master (77a3f3d), so regenerating does not lose the before/after audit. `sources.json` records upstream URLs, commits, date, regulation and explicit aliases. The same arguments and source commits reproduce the same JSON. Serebii's live HTML may change; the audit records each URL and page hash and caches HTML locally.
 
 ## Decisions and verification
 
