@@ -9312,7 +9312,7 @@
     "zhCn": "拳海参",
     "zhTw": "拳海參"
   },
-  "Type:Null": {
+  "TypeNull": {
     "ja": "タイプ：ヌル",
     "en": "Type: Null",
     "fr": "Type:0",
@@ -12245,5 +12245,9 @@
     "ko": "복숭악동",
     "zhCn": "桃歹郎",
     "zhTw": "桃歹郎"
+  },
+  "Meowstic-F-Mega": {
+    "ja": "メガニャオニクス（メス）",
+    "en": "Meowstic-F-Mega"
   }
 }

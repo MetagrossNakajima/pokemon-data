@@ -1,0 +1,26 @@
+{
+  "retrievedAt": "2026-11-08",
+  "regulation": "M-C",
+  "showdown": {
+    "url": "https://github.com/smogon/pokemon-showdown",
+    "commit": "567c1cedddeaa2f35576005d3bfd526cf4f8a13e"
+  },
+  "champout": {
+    "url": "https://github.com/projectpokemon/champout",
+    "commit": "50e7233b78c3b81df29563f9695386c28e77fc95"
+  },
+  "baseline": "77a3f3d",
+  "aliases": {
+    "Nidoran♀": "nidoranf",
+    "Nidoran♂": "nidoranm",
+    "Arceus-Normal": "arceus",
+    "Meowstic-Mega": "meowsticmmega",
+    "Urshifu-Single-Strike": "urshifu",
+    "Tatsugiri-Mega": "tatsugiricurlymega",
+    "Terapagos-Normal": "terapagos",
+    "Terapagos": "terapagosterastal"
+  },
+  "abilityAliases": {
+    "auraguard": "WaveShield"
+  }
+}
